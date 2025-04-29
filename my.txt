@@ -5,9 +5,6 @@
 ☘️广东频道,#genre#
 ☘️🍅TVB,#genre#
 無線新聞1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-翡翠台1,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台4,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,https://stream1.freetv.fun/tvbfei-cui-3.ctv
@@ -37,66 +34,51 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 ☘️香港,#genre#
-鳳凰中文HD,http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰中文HD,http://80story.eu.org:8880/IPTV/福建廣電.php?id=fhzwhd_2000
-鳳凰中文HD,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-鳳凰中文HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=6aa732230a8a550f140135f816b1baf9
-鳳凰資訊HD,http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰資訊HD,http://80story.eu.org:8880/IPTV/福建廣電.php?id=fhzxhd_2000
-鳳凰資訊HD,http://80tv.eu.org:8711/live.m3u8?c=43
-鳳凰資訊HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=a270efa4fa67acb67f73b596b769d7fb
-鳳凰香港HD,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-鳳凰香港HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=84104081f0dcab6d309d7351e4b9ff6a
-無線新聞台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無線新聞台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=330478f84e2f8ffc97a937334fa48fb1
-無線新聞台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=c0b6f478abcfbcdf565374ac775a0f12
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB J1,http://80story.eu.org:8880/IPTV/AKTV.php?channel=eaa375cf1180405531bc3c56c35180ef
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVB Plus,http://80story.eu.org:8880/IPTV/AKTV.php?channel=77cd023ce970fd7bc9e068ca532f7579
-TVB星河,http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=0a9d3645a7e05c86758cc96c454c51a6
-翡翠劇集台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=1b60d0c4e3767471307a12b4277bcc6a
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-明珠台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=0fc07a090dfee1cfabc0c49a0765a615
-明珠劇集台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=2bf86619915b8b667a1eeae37fcc41ce
-28AI智慧賽馬,http://80story.eu.org:8880/IPTV/AKTV.php?channel=868bdfa53a3396a2a160560120a928f3
-MyTV18台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=92589cae799b88177a8245c06893c2ed
-MyTV翡翠台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=90a71e865c3864f37c7eeefb6d1aa4b4
-MyTV經典台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=d69c26bd43e3befcf247c4123565cc97
-娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
-娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://80story.eu.org:8880/IPTV/AKTV.php?channel=e495e84fbc6633d83c95bb72a246be41
-千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-武AsianAction,http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-武AsianAction,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-武AsianAction,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-Animax(HK),http://80story.eu.org:8880/IPTV/AKTV.php?channel=aa9bb3f973b958003b316e0f73ab6394
-Thrill,http://80story.eu.org:8880/IPTV/AKTV.php?channel=f40c909baf4200dcdf7d5ec71a785f75
-美亞電影台(HK),http://80story.eu.org:8880/IPTV/AKTV.php?channel=b95cdb50848b5bdaf52486313953acfb
-美亞電影台(HK),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+天映,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 ☘️澳门,#genre#
 澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
