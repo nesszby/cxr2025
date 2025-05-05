@@ -3,6 +3,34 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
+凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+VIUTV粤频标,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+RTHK-31频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK-32频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
+重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 ☘️🍅TVB,#genre#
 無線新聞1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
