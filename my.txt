@@ -80,6 +80,11 @@ AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+☘️🍅趣看,#genre#
+翡翠台1,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
+CCTV13,http://8.138.7.223/【公众号：榴芒电视】/cctv13-ptb.m3u8
+
 ☘️🍅TVB,#genre#
 無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
