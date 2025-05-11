@@ -50,7 +50,6 @@ CCTV5+体育赛事,http://221.203.233.150:9902/tsfile/live/0016_1.m3u8?key=txipt
 兵团卫视,http://221.203.233.150:9902/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://221.203.233.150:9902/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://221.203.233.150:9902/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-
 ☘️广东频道,#genre#
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -83,8 +82,6 @@ AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 ☘️🍅趣看,#genre#
 翡翠台1,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
-CCTV13,http://8.138.7.223/【公众号：榴芒电视】/cctv13-ptb.m3u8
-
 ☘️🍅TVB,#genre#
 無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -272,7 +269,7 @@ Channel U HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=5412ba7fc35177abd4
 翡翠華麗台1,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 翡翠華麗台2,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠華麗台3,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-☘️YouTube judy版, #genre#
+🍅☘️judy版YouTube, #genre#
 寰宇新聞,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
 三立新聞,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 鏡新聞,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
