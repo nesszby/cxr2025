@@ -272,7 +272,31 @@ Channel U HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=5412ba7fc35177abd4
 翡翠華麗台1,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 翡翠華麗台2,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠華麗台3,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-☘️AKTV.免翻版, #genre#
+☘️YouTube judy版, #genre#
+寰宇新聞,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
+三立新聞,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
+鏡新聞,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
+中天新聞台,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
+公視新聞,https://smart.pendy.dpdns.org/youtube.php?id=quwqlazU-c8
+民視新聞,https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
+台視新聞台,https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
+中視新聞,https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
+華視新聞,https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
+TVBS NEWS,http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
+TVBS 選新聞,https://smart.pendy.dpdns.org/youtube.php?id=d1jUeoc3pio
+CCTV4 中文國際,https://smart.pendy.dpdns.org/youtube.php?id=SdzewdkJa-o
+鳳凰衛視資訊,https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
+三立 iNEWS,https://smart.pendy.dpdns.org/youtube.php?id=BlKaF8og0jo
+東森新聞,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
+東森財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=1I2iq41Akmo
+寰宇財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=WTRQiVWK1jY
+FRANCE 24,https://smart.pendy.dpdns.org/youtube.php?id=l8PMl7tUDIE
+ANN NEWS,https://smart.pendy.dpdns.org/youtube.php?id=coYw-eVU0Ks
+NHK WORLD,https://smart.pendy.dpdns.org/youtube.php?id=f0lYkdA-Gtw
+TBS NEWS,https://smart.pendy.dpdns.org/youtube.php?id=ohI356mwBp8
+大愛電視,https://smart.pendy.dpdns.org/youtube.php?id=MIqUplvSRWA
+大愛電視2,https://smart.pendy.dpdns.org/youtube.php?id=DTNkEm6jaqQ
+中視經典綜藝,https://smart.pendy.dpdns.org/youtube.php?id=ADDSmXoPDY8
 ☘️4K频道,#genre#
 ☘️🍅收集频道,#genre#
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
