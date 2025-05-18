@@ -277,7 +277,6 @@ NHKWORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 EuronewsEnglish,https://www.youtube.com/watch?v=pykpO5kQJ98
 🍅YouTube新闻,#genre#
 鏡新闻,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
-#寰宇新聞2,https://smart.pendy.dpdns.org/youtube.php?id=V8ue1aoEOEQ
 寰宇新闻,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
 ABC News,https://smart.pendy.dpdns.org/youtube.php?id=-mvUkiILTqI
 鳳凰衛視資訊台,https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
