@@ -210,17 +210,6 @@ Smart知識台,http://docker.livednow.dpdns.org/li-litv-longturn19/index.m3u8
 靖天電影,http://docker.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
 影迷數位電影台,http://docker.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
 台灣戲劇台,http://docker.livednow.dpdns.org/li-litv-longturn22/index.m3u8
-☘️新马,#genre#
-Astro Ria,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Channel 5 HD,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-Channel 5 HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=49686c5e01f0328905f91b991a67776c
-Channel 8 HD,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-Channel 8 HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=03dd35bb6aeacb472c197b57c98083fa
-Channel U HD,https://cdn6.163189.xyz/live/chu/stream.m3u8
-Channel U HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=5412ba7fc35177abd492bccd81e79a2b
-翡翠華麗台1,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
-翡翠華麗台2,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-翡翠華麗台3,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 🍅☘️judy版YouTube, #genre#
 寰宇新聞,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
 三立新聞,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
@@ -246,10 +235,6 @@ TBS NEWS,https://smart.pendy.dpdns.org/youtube.php?id=ohI356mwBp8
 大愛電視,https://smart.pendy.dpdns.org/youtube.php?id=MIqUplvSRWA
 大愛電視2,https://smart.pendy.dpdns.org/youtube.php?id=DTNkEm6jaqQ
 中視經典綜藝,https://smart.pendy.dpdns.org/youtube.php?id=ADDSmXoPDY8
-☘️4K频道,#genre#
-☘️🍅收集频道,#genre#
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-cctv8k,http://154.12.37.223:35455/gaoma/cctv8k_36m.m3u8
 ☘️YouTuBe 陈湘儒,#genre#
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -308,7 +293,6 @@ TVBS 新闻,https://www.youtube.com/c/TVBSNEWS01/live
 中视新闻,https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
 台视新闻,https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
 華視新聞,https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-
 寰宇台灣,https://smart.pendy.dpdns.org/youtube.php?id=w87VGpgd90U
 #寰宇新聞台灣台,https://smart.pendy.dpdns.org/youtube.php?id=UcTIv4ZaE5Y
 東森財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=WHEPzbFA3hw
@@ -358,7 +342,6 @@ TVBS歡樂台,http://docker.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
 民視綜藝,http://docker.livednow.dpdns.org/li-4gtv-4gtv004/index.m3u8
 民視影劇,http://docker.livednow.dpdns.org/li-litv-ftv09/index.m3u8
 民視影劇,http://docker.livednow.dpdns.org/litv-ftv09/index.m3u8
-
 Arirang TV,http://docker.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
 CLASSICA 古典樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
 ELTA娛樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv070/index.m3u8
@@ -431,4 +414,18 @@ VOA 美國之音,http://docker.livednow.dpdns.org/li-litv-ftv03/index.m3u8
 龍華電影,http://docker.livednow.dpdns.org/li-litv-longturn03/index.m3u8
 龍華戲劇,http://docker.livednow.dpdns.org/li-litv-longturn18/index.m3u8
 戲劇免費看1台,http://docker.livednow.dpdns.org/4gtv-live010/index.m3u8
-
+☘️新马,#genre#
+Astro Ria,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Channel 5 HD,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+Channel 5 HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=49686c5e01f0328905f91b991a67776c
+Channel 8 HD,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+Channel 8 HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=03dd35bb6aeacb472c197b57c98083fa
+Channel U HD,https://cdn6.163189.xyz/live/chu/stream.m3u8
+Channel U HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=5412ba7fc35177abd492bccd81e79a2b
+翡翠華麗台1,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+翡翠華麗台2,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠華麗台3,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+☘️4K频道,#genre#
+☘️🍅收集频道,#genre#
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv8k,http://154.12.37.223:35455/gaoma/cctv8k_36m.m3u8
