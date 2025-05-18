@@ -278,6 +278,7 @@ EuronewsEnglish,https://www.youtube.com/watch?v=pykpO5kQJ98
 🍅YouTube新闻,#genre#
 鏡新闻,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
 #寰宇新聞2,https://smart.pendy.dpdns.org/youtube.php?id=V8ue1aoEOEQ
+寰宇新闻,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
 ABC News,https://smart.pendy.dpdns.org/youtube.php?id=-mvUkiILTqI
 鳳凰衛視資訊台,https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
 鳳凰衛視資訊台2,https://m.youtube.com/@phoenixtvhk/live
@@ -308,7 +309,7 @@ TVBS 新闻,https://www.youtube.com/c/TVBSNEWS01/live
 中视新闻,https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
 台视新闻,https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
 華視新聞,https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-寰宇新闻,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
+
 寰宇台灣,https://smart.pendy.dpdns.org/youtube.php?id=w87VGpgd90U
 #寰宇新聞台灣台,https://smart.pendy.dpdns.org/youtube.php?id=UcTIv4ZaE5Y
 東森財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=WHEPzbFA3hw
