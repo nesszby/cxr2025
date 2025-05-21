@@ -1,7 +1,11 @@
- {
+{
+    "lives": [
+{
             "name": "LiTV[台湾节点]",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/litv.php",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+      ]
+}
