@@ -8,7 +8,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
  {
-            "name": "陈湘儒(TV)",
+            "name": "陈湘儒TV",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/my.txt",
             "ua": "okhttp/3.15",
