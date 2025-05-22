@@ -14,6 +14,13 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+        {
+            "name": "所长",
+            "type": "0",
+            "pass": true,
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "ua": "xieanqishiwoerzi/0.0.1"
+        },
   {
             "name": "173源",
             "type": 0,
