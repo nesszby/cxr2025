@@ -22,13 +22,13 @@
             "ua": "xieanqishiwoerzi/0.0.1"
         },
          {
-      "name": "LITV直播(python)",
+      "name": "LITV直播(python) ",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
       "ext": {}
     },
           {
-      "name":"秘密花园123”,
+      "name": "秘密花园123 ",
       "type":0,
       "url":"http://dimm.in/down.php/9a4f8de640b6c4c26eb5dcc6134644d3.jpg",
       "epg":"http://diyp5.112114.xyz/?ch={name}&date={date}",
