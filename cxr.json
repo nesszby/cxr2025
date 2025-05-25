@@ -47,6 +47,23 @@
                 }
             }
         },
+     {
+      "name": "快直播",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/live_kzb.py",
+      "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
+    },
+         {
+      "name": "LiTV直播沐晨",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {
+        "proxy": {
+          "http": "http://127.0.0.1:7897",
+          "https": "http://127.0.0.1:7897"
+        }
+      }
+    },
         {
     "name" : "SMT直播(python)",
     "type" : 3,
