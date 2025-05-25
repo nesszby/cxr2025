@@ -15,7 +15,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "所长",
+            "name": "所长judy",
             "type": "0",
             "pass": true,
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
@@ -36,14 +36,7 @@
     "type" : 3,
     "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
     "ext" : { }
-  },
- {
-  "name": "快直播(python)",
-  "type": 0,
-  "api": "http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt",
-  "ext": "68747470733A2F2F3132336B7A622E6E65742F70726F642D6170692F697074762F676574497074764C697374"
-}
-        
+  }
 
       ]
 }
