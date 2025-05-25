@@ -37,13 +37,13 @@
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
  {"name":"全球TV","type":0,"url":"http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg","playerType":1}, 
      {
-            "name": "SMT直播cxr",
+            "name": "SMT直播走代理",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
             "ext": {
                 "proxy": {
-                    "http": "http://127.0.0.1:7897",
-                    "https": "http://127.0.0.1:7897"
+                    "http": "http://192.168.1.15:7897",
+                    "https": "http:/192.168.1.15:7897"
                 }
             }
         },
