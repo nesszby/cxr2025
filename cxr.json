@@ -27,6 +27,11 @@
       "api": "https://json.doube.eu.org/python/live_litv.py",
       "ext": {}
     },
+         {
+    "name": "香港视频 - 安卓",
+    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+    "ua": "judy/5.2.1"
+  },
          
  {"name":"秘密花园","type":0,"url":"http://dimm.in/down.php/9a4f8de640b6c4c26eb5dcc6134644d3.jpg","playerType":1,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo":"http://diyp5.112114.xyz/{name}.png"},
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
