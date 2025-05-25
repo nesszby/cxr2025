@@ -31,6 +31,17 @@
  {"name":"秘密花园","type":0,"url":"http://dimm.in/down.php/9a4f8de640b6c4c26eb5dcc6134644d3.jpg","playerType":1,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo":"http://diyp5.112114.xyz/{name}.png"},
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
  {"name":"全球TV","type":0,"url":"http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg","playerType":1}, 
+     {
+            "name": "SMT直播cxr",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+            "ext": {
+                "proxy": {
+                    "http": "http://127.0.0.1:10172",
+                    "https": "http://127.0.0.1:10172"
+                }
+            }
+        },
         {
     "name" : "SMT直播(python)",
     "type" : 3,
