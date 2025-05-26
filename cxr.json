@@ -33,7 +33,6 @@
     "ua": "judy/5.2.1"
   },
          
- {"name":"秘密花园","type":0,"url":"http://dimm.in/down.php/9a4f8de640b6c4c26eb5dcc6134644d3.jpg","playerType":1,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo":"http://diyp5.112114.xyz/{name}.png"},
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
  {"name":"全球TV","type":0,"url":"http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg","playerType":1}, 
       {
@@ -73,6 +72,23 @@
     "Referer": "https://p.m82xg4z0cdbz7.com/"
   }
   },
+{
+            "name": "秘密花园202505",
+            "type": 0,
+            "url": "http://pan.losfer.cn/down.php/009bd39b3eddb173046507d2e693afe7.jpg",
+            "playerType": 1,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "全球直播",
+            "type": 0,
+            "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
+            "playerType": 1,
+                        "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+           
+        },
         {
     "name" : "SMT直播(python)",
     "type" : 3,
