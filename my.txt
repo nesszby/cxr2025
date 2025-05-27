@@ -222,6 +222,49 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 澳視綜藝,http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 澳門蓮花,http://php.jdshipin.com/amlh.php
 ☘️台湾节点4g新闻,#genre#
+鏡電視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
+東森新聞,http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
+華視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv052/index.m3u8
+民視新聞,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
+三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+東森財經新聞,http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
+中視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
+中天新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
+BLOOMBERG TV,http://4gtv.livednow.dpdns.org/4gtv-live059/index.m3u8
+寰宇新聞,http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
+SBN 全球財經台,http://4gtv.livednow.dpdns.org/4gtv-live060/index.m3u8
+寰宇財經,http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
+FRANCE24 英文台,http://4gtv.livednow.dpdns.org/4gtv-live146/index.m3u8
+半島國際新聞台,http://4gtv.livednow.dpdns.org/litv-ftv10/index.m3u8
+VOA 美國之音,http://4gtv.livednow.dpdns.org/litv-ftv03/index.m3u8
+CNBC Asia 財經台,http://4gtv.livednow.dpdns.org/4gtv-live130/index.m3u8
+DW德國之聲,http://4gtv.livednow.dpdns.org/4gtv-live071/index.m3u8
+華視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
+非凡新聞,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+非凡商業,http://4gtv.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+台視財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+鏡電視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+東森新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+民視新聞,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+東森財經新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+中視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
+中天新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+寰宇財經,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+半島國際新聞台,http://4gtv.livednow.dpdns.org/li-litv-ftv10/index.m3u8
+VOA 美國之音,http://4gtv.livednow.dpdns.org/li-litv-ftv03/index.m3u8
+台視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+第1商業台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv104/index.m3u8
+台視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv051/index.m3u8
+中視新聞台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv074/index.m3u8
+華視新聞台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv052/index.m3u8
+中天新聞台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
+寰宇財經,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
 🍅☘️judy版YouTube, #genre#
 ☘️YouTuBe 陈湘儒,#genre#
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
