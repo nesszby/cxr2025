@@ -297,7 +297,56 @@ Channel U HD,http://80story.eu.org:8880/IPTV/AKTV.php?channel=5412ba7fc35177abd4
 翡翠華麗台1,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 翡翠華麗台2,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠華麗台3,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-☘️4K频道,#genre#
+☘️香港judy频道,#genre#
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,https://011v4.pendy.dpdns.org/stream/tvb/feicui/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+PopC,https://011v4.pendy.dpdns.org/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+美亚电影台,https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+TVB Plus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+Animax,https://live.tvfix.org/live/animax/index.m3u8
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,https://011v4.pendy.dpdns.org/stream/tvb/pearl/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+明珠台,https://live.tvfix.org/live/pearl/index.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+亚洲新闻台,https://live.tvfix.org/live/newsasia/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,https://011v4.pendy.dpdns.org/stream/tvb/cccm/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文,https://011v4.pendy.dpdns.org/stream/tvb/pcc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,https://011v4.pendy.dpdns.org/stream/tvb/pin/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,https://011v4.pendy.dpdns.org/stream/tvb/phk/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 ☘️🍅breezy台灣节点,#genre#
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
