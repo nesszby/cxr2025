@@ -223,7 +223,8 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 澳門蓮花,http://php.jdshipin.com/amlh.php
 ☘️台湾节点4g新闻,#genre#
 🍅☘️judy版YouTube, #genre#
-寰宇新聞,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
+寰宇新聞1,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
+寰宇新聞,https://youtube.livednow.dpdns.org/youtube/?id=6IquAgfvYmc
 三立新聞,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 鏡新聞,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
 中天新聞台,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
