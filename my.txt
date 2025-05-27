@@ -223,31 +223,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 澳門蓮花,http://php.jdshipin.com/amlh.php
 ☘️台湾节点4g新闻,#genre#
 🍅☘️judy版YouTube, #genre#
-寰宇新聞1,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
-寰宇新聞,https://youtube.livednow.dpdns.org/youtube/?id=6IquAgfvYmc
-三立新聞,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-鏡新聞,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
-中天新聞台,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-公視新聞,https://smart.pendy.dpdns.org/youtube.php?id=quwqlazU-c8
-民視新聞,https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
-台視新聞台,https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
-中視新聞,https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
-華視新聞,https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-TVBS NEWS,http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
-TVBS 選新聞,https://smart.pendy.dpdns.org/youtube.php?id=d1jUeoc3pio
-CCTV4 中文國際,https://smart.pendy.dpdns.org/youtube.php?id=SdzewdkJa-o
-鳳凰衛視資訊,https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
-三立 iNEWS,https://smart.pendy.dpdns.org/youtube.php?id=BlKaF8og0jo
-東森新聞,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
-東森財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=1I2iq41Akmo
-寰宇財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=WTRQiVWK1jY
-FRANCE 24,https://smart.pendy.dpdns.org/youtube.php?id=l8PMl7tUDIE
-ANN NEWS,https://smart.pendy.dpdns.org/youtube.php?id=coYw-eVU0Ks
-NHK WORLD,https://smart.pendy.dpdns.org/youtube.php?id=f0lYkdA-Gtw
-TBS NEWS,https://smart.pendy.dpdns.org/youtube.php?id=ohI356mwBp8
-大愛電視,https://smart.pendy.dpdns.org/youtube.php?id=MIqUplvSRWA
-大愛電視2,https://smart.pendy.dpdns.org/youtube.php?id=DTNkEm6jaqQ
-中視經典綜藝,https://smart.pendy.dpdns.org/youtube.php?id=ADDSmXoPDY8
 ☘️YouTuBe 陈湘儒,#genre#
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -274,54 +249,6 @@ FRANCE24English,https://m.youtube.com/watch?v=Ap-UM1O9RBU
 NHKWORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 EuronewsEnglish,https://www.youtube.com/watch?v=pykpO5kQJ98
 🍅YouTube新闻,#genre#
-鏡新闻,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
-寰宇新闻,https://smart.pendy.dpdns.org/youtube.php?id=6IquAgfvYmc
-ABC News,https://smart.pendy.dpdns.org/youtube.php?id=-mvUkiILTqI
-鳳凰衛視資訊台,https://smart.pendy.dpdns.org/youtube.php?id=HFib76ySpbU
-鳳凰衛視資訊台2,https://m.youtube.com/@phoenixtvhk/live
-#凤凰卫视资讯台,https://smart.pendy.dpdns.org/youtube.php?id=a3WZVssKlAI
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞2,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8
-中天新闻,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-#中天新闻,https://smart.pendy.dpdns.org/youtube.php?id=oIgbl7t0S_w
-中天亚洲新闻,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻2台,https://smart.pendy.dpdns.org/youtube.php?id=WPfPjbOLNfE
-TVBS NEWS,https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
-TVBS 新闻,https://www.youtube.com/c/TVBSNEWS01/live
-#東森新闻,https://smart.pendy.dpdns.org/youtube.php?id=S5WOGu2HSes
-東森Live51,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
-東森Live,https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
-#東森Live2,https://smart.pendy.dpdns.org/youtube.php?id=LuQ4S-i5zoE
-#三立Live,https://smart.pendy.dpdns.org/youtube.php?id=oZdzzvxTfUY
-三立Live,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-三立NEWS+,https://smart.pendy.dpdns.org/youtube.php?id=hGJkDZDchYI
-#三立NEWS+,https://smart.pendy.dpdns.org/youtube.php?id=FoBfXvlOR6I
-三立iNEWS,hhttps://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
-#三立iNEWS,https://smart.pendy.dpdns.org/youtube.php?id=CKjSm5ZeehE
-三立NEWS+2,https://www.youtube.com/c/三立LIVE新聞/live
-民视新闻台,https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
-公視新聞網,https://smart.pendy.dpdns.org/youtube.php?id=quwqlazU-c8
-#公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-#公视台语,https://smart.pendy.dpdns.org/youtube.php?id=6KlRR_DGhmI
-中视新闻,https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
-台视新闻,https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
-華視新聞,https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-寰宇台灣,https://smart.pendy.dpdns.org/youtube.php?id=w87VGpgd90U
-#寰宇新聞台灣台,https://smart.pendy.dpdns.org/youtube.php?id=UcTIv4ZaE5Y
-東森財經新聞,https://smart.pendy.dpdns.org/youtube.php?id=WHEPzbFA3hw
-东森财经股市,https://smart.pendy.dpdns.org/youtube.php?id=AEBeWMM1atA
-#东森财经股市2,https://smart.pendy.dpdns.org/youtube.php?id=LbS-xQ67fos
-#寰宇財經台,https://smart.pendy.dpdns.org/youtube.php?id=25SE1bbTv9k
-新唐人亞太,https://smart.pendy.dpdns.org/youtube.php?id=WIhgU_mc05A
-新唐人亞太2,https://www.youtube.com/@NTDAPTV/live
-大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
-中視經典綜藝,https://smart.pendy.dpdns.org/youtube.php?id=ADDSmXoPDY8
-华视综艺,https://www.youtube.com/c/TBSCTSSHOW/live
-#豬哥會社,https://smart.pendy.dpdns.org/youtube.php?id=htGDPsz2BYI
-掌声响起,https://smart.pendy.dpdns.org/youtube.php?id=EVATvtQHjyg
-TaiwanPlus,https://smart.pendy.dpdns.org/youtube.php?id=Smy2zVGK9x0
-8视界,https://smart.pendy.dpdns.org/youtube.php?id=RvSOIM620bA
-
 ☘️新马,#genre#
 Astro Ria,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Channel 5 HD,https://cdn6.163189.xyz/live/ch5/stream.m3u8
