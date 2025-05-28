@@ -103,6 +103,13 @@
     "url": "http://tw-ty-line-11-1-5.sudatech.store:20680/Sub.m3u?token=Doubebly&proxy=true",
     "ua": "okhttp/3.15"
   },
+         {
+            "name": "所长judy改Ua",
+            "type": "0",
+            "pass": true,
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "ua": "okhttp/3.15"
+        },
         {
     "name" : "SMT直播(python)",
     "type" : 3,
