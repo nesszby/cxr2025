@@ -104,6 +104,12 @@
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
 },
+         {
+  "name": "ofiii挂梯秒开",
+  "type": 3,
+  "api": "http://tw-ty-line-11-1-5.sudatech.store:20680/Sub.m3u?token=Doubebly&proxy=true",
+  "ext": {}
+},
         {
     "name" : "SMT直播(python)",
     "type" : 3,
