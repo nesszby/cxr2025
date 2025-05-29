@@ -98,11 +98,12 @@
     "url": "https://vip.123pan.cn/1814643527/tv/jd.m3u",
     "ua": "okhttp/3.15"
   },
-           {
-    "name": "ofiii订阅",
-    "url": "http://tw-ty-line-11-1-5.sudatech.store:20680/Sub.m3u?token=Doubebly&proxy=true",
-    "ua": "okhttp/3.15"
-  },
+         {
+  "name": "SMT直播(python)挂梯或者海外用户",
+  "type": 3,
+  "api": "https://json.doube.eu.org/python/live_smt.py",
+  "ext": {}
+},
          {
             "name": "所长judy改Ua",
             "type": "0",
