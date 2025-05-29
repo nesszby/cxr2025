@@ -35,7 +35,7 @@
          
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
      {
-  "name": "SMT直播(python)使用http代理",
+  "name": "SMT直播(py修复)使用http代理",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {
@@ -99,7 +99,7 @@
     "ua": "okhttp/3.15"
   },
          {
-  "name": "SMT直播(python)挂梯或者海外用户",
+  "name": "SMT直播(py修复)挂梯或者海外用户",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
