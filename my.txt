@@ -1,7 +1,6 @@
 📺央视频道,#genre#
 📡卫视频道,#genre#
-☘️山西电信央视,#genre#
-☘️山西电信卫视,#genre#
+
 ☘️央视卫视咪咕视频,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 CCTV1综合,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
