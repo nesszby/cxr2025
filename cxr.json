@@ -22,6 +22,13 @@
             "ua": "xieanqishiwoerzi/0.0.1"
         },
          {
+            "name": "免梯三天所长judy",
+            "type": "0",
+            "pass": true,
+            "url": "http://m3u8ts.vip-tptv.xyz:50515/?type=m3u&proxy=true",
+            "ua": "xieanqishiwoerzi/0.0.1"
+        },
+         {
       "name": "LITV直播(python) ",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
