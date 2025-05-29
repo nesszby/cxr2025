@@ -34,17 +34,17 @@
   },
          
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
-      {
-      "name": "SMT直播走代理（美国节点）",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
-      "ext": {
-        "proxy": {
-          "http": "http://127.0.0.1:7897",
-          "https": "http://127.0.0.1:7897"
-        }
-      }
-    },
+     {
+  "name": "SMT直播(python)使用http代理",
+  "type": 3,
+  "api": "https://json.doube.eu.org/python/live_smt.py",
+  "ext": {
+    "proxy": {
+      "http": "http://127.0.0.1:7897",
+      "https": "http://127.0.0.1:7897"
+    }
+  }
+},
      {
       "name": "快直播",
       "type": 3,
