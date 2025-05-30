@@ -46,7 +46,14 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
-         
+          {
+            "name": "欧华173",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/173.txt",
+              "so": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/libp3p.so",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
      {
   "name": "SMT(py修复)http代理",
