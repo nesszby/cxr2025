@@ -39,6 +39,13 @@
     "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
     "ua": "judy/5.2.1"
   },
+          {
+            "name": "MyTvSuper",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/index-mytvsuper.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
          
  {"name":"IPV6","type":0,"url":"http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/ipv6.txt","playerType":1},
      {
