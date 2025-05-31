@@ -131,6 +131,15 @@
   "api": "http://tw-ty-line-11-1-5.sudatech.store:20680/Sub.m3u?token=Doubebly&proxy=true",
   "ext": {}
 },
+ {
+            "name": "AI肥羊",
+            "type": 0,
+            "url": "https://nptv.freetv.top/juhe.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
         {
     "name" : "SMT直播(python)",
     "type" : 3,
