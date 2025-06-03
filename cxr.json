@@ -145,7 +145,7 @@
             "timeout": 10
         },
           {
-      "name": "LITV直播(自己服务器) ",
+      "name": "SMT(py修复)(自己服务器) ",
       "type": 3,
       "api": "http://127.0.0.1:8082/live_smt.py",
       "ext": {}
