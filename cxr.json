@@ -117,7 +117,9 @@
           {
     "name": "ksweb服务器SMt",
     "type": 0,
-    "api": " http://127.0.0.1:8080/smt.php",
+     "url": " http://127.0.0.1:8080/smt.php",
+     "ua": "okhttp/3.15",
+     "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
     "ext": {}
   },
          {
