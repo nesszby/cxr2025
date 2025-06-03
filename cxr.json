@@ -116,7 +116,7 @@
   },
           {
     "name": "ksweb服务器SMt",
-    "type": 0,
+    "type": 3,
     "api": " http://127.0.0.1:8080/smt.php",
     "ext": {}
   },
