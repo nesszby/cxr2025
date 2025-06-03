@@ -120,12 +120,6 @@
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
 },
-         {
-  "name": "ofiii挂梯秒开",
-  "type": 3,
-  "api": "http://tw-ty-line-11-1-5.sudatech.store:20680/Sub.m3u?token=Doubebly&proxy=true",
-  "ext": {}
-},
  {
             "name": "AI肥羊",
             "type": 0,
@@ -151,7 +145,7 @@
       "ext": {}
     },
          {
-      "name": "SMT(自己服务器) ",
+      "name": "斯玛特(自己服务器) ",
       "type": 3,
       "api": "http://127.0.0.1:8081/smt.php",
       "ext": {}
