@@ -117,7 +117,7 @@
           {
     "name": "ksweb服务器",
     "url": " http://127.0.0.1:8080/smt.php",
-    "ua": "okhttp/3.15"
+    "ext": {}
   },
          {
   "name": "SMT(py修复)挂梯",
