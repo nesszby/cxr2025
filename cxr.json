@@ -115,8 +115,8 @@
     "ua": "okhttp/3.15"
   },
           {
-    "name": "jd",
-    "url": "https://vip.123pan.cn/1814643527/tv/jd.m3u",
+    "name": "ksweb服务器",
+    "url": " http://127.0.0.1:8080/smt.php",
     "ua": "okhttp/3.15"
   },
          {
