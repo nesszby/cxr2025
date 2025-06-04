@@ -47,6 +47,17 @@
       "api": "http://127.0.0.1:8081/live_litv.py",
       "ext": {}
     },
+          {
+      "name": "LiTV直播沐晨走代理",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {
+        "proxy": {
+          "http": "http://127.0.0.1:7897",
+          "https": "http://127.0.0.1:7897"
+        }
+      }
+    },
          {
     "name": "香港视频 - 安卓",
     "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
@@ -85,17 +96,7 @@
       "api": "https://json.doube.eu.org/python/live_kzb.py",
       "ext": {}
     },
-         {
-      "name": "LiTV直播沐晨走代理",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {
-        "proxy": {
-          "http": "http://127.0.0.1:7897",
-          "https": "http://127.0.0.1:7897"
-        }
-      }
-    },
+       
           {
   "name": "BeeSport",
   "type": 3,
