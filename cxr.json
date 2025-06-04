@@ -128,24 +128,7 @@
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
 },
- {
-            "name": "AI肥羊",
-            "type": 0,
-            "url": "https://nptv.freetv.top/juhe.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-         {
-            "name": "AI肥羊KSweb服务器",
-            "type": 0,
-            "url": "http://127.0.0.1:8081/juhe.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
+
           {
       "name": "SMT(py修复)(KSweb服务器) ",
       "type": 3,
