@@ -91,13 +91,6 @@
   }
 },
      {
-      "name": "快直播",
-      "type": 3,
-      "api": "https://json.doube.eu.org/python/live_kzb.py",
-      "ext": {}
-    },
-       
-          {
   "name": "BeeSport",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_beesport.py",
@@ -106,23 +99,7 @@
     "Referer": "https://p.m82xg4z0cdbz7.com/"
   }
   },
-{
-            "name": "秘密花园28668",
-            "type": 0,
-            "url": "http://pan.losfer.cn/down.php/009bd39b3eddb173046507d2e693afe7.jpg",
-            "playerType": 1,
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "全球直播",
-            "type": 0,
-            "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
-            "playerType": 1,
-                        "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-           
-        },
+
              {
     "name": "KZb",
     "url": "http://xg.52sw.top/play/kzb",
