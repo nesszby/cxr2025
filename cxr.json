@@ -1,6 +1,5 @@
 {
     "lives": [
-
  {
             "name": "陈湘儒TV",
             "type": 0,
@@ -40,6 +39,12 @@
       "name": "LITV直播(python) ",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
+      "ext": {}
+    },
+         {
+      "name": "LITV直播(KSweb服务器) ",
+      "type": 3,
+      "api": "http://127.0.0.1:8081/live_litv.py",
       "ext": {}
     },
          {
