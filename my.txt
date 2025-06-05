@@ -183,7 +183,6 @@ AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 ☘️🍅趣看,#genre#
-翡翠台1,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
 鳳凰衛視中文台,http://jxiptv.dpdns.org/stream/tvb/null/master.m3u8
 鳳凰衛視資訊台,http://jxiptv.dpdns.org/stream/tvb/null-1/master.m3u8
