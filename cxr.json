@@ -22,7 +22,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
         {
-            "name": "LiTV5008[github]",
+            "name": "5008[github]",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/5008.m3u",
             "ua": "okhttp/3.15",
@@ -103,25 +103,25 @@
     "url": "http://xg.52sw.top/play/kzb",
     "ua": "okhttp/3.15"
   },
-         {
+ {
   "name": "SMT(py修复)挂梯",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
 },
-          {
+ {
       "name": "SMT(py修复)(KSweb服务器) ",
       "type": 3,
       "api": "http://127.0.0.1:8081/live_smt.py",
       "ext": {}
-    },
-         {
+},
+ {
       "name": "斯玛特(KSweb服务器美国节点) ",
       "type": 3,
       "url": "http://127.0.0.1:8081/smt.php",
       "ext": {}
     },
-        {
+ {
     "name" : "SMT直播(python)",
     "type" : 3,
     "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
