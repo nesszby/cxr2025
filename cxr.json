@@ -103,12 +103,6 @@
     "url": "http://xg.52sw.top/play/kzb",
     "ua": "okhttp/3.15"
   },
- {
-  "name": "快直播(python)",
-  "type": 3,
-  "api": "https://json.doube.eu.org/python/live_kzb.py",
-  "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
-},
          {
   "name": "SMT(py修复)挂梯",
   "type": 3,
