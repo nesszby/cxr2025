@@ -74,14 +74,14 @@ CHC家庭影院,http://150.138.78.253:10050/migu/644368373?token=pot6r9IwRGUk6qt
 翡翠1台,http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
 翡翠综合台,http://cdn6.16899.ggff.net/live/j1/stream.m3u8
 翡翠剧集台,http://cdn6.16899.ggff.net/live/tvbd/stream.m3u8
-☘️广东频道,#genre#
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
+☘️广东频道,#genre#
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
