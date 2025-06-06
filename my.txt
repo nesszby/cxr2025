@@ -273,6 +273,30 @@ VOA 美國之音,http://4gtv.livednow.dpdns.org/li-litv-ftv03/index.m3u8
 寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
 寰宇財經,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
 🍅☘️judy版YouTube, #genre#
+CCTV4 中文國際,https://youtube.pendy.dpdns.org/video?id=SdzewdkJa-o
+鳳凰衛視資訊,https://youtube.pendy.dpdns.org/video?id=HFib76ySpbU
+中天新聞台,https://youtube.pendy.dpdns.org/video?id=vr3XyVCR4T0
+公視新聞,https://youtube.pendy.dpdns.org/video?id=quwqlazU-c8
+民視新聞,https://youtube.pendy.dpdns.org/video?id=ylYJSBUgaMA
+台視新聞台,https://youtube.pendy.dpdns.org/video?id=xL0ch83RAK8
+中視新聞,https://youtube.pendy.dpdns.org/video?id=TCnaIE_SAtM
+華視新聞,https://youtube.pendy.dpdns.org/video?id=wM0g8EoUZ_E
+TVBS NEWS,http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
+TVBS 選新聞,https://youtube.pendy.dpdns.org/video?id=d1jUeoc3pio
+三立新聞,https://youtube.pendy.dpdns.org/video?id=MV9mI0GChwo
+三立 iNEWS,https://youtube.pendy.dpdns.org/video?id=BlKaF8og0jo
+東森新聞,https://youtube.pendy.dpdns.org/video?id=E0zhe2gkXBs
+東森財經新聞,https://youtube.pendy.dpdns.org/video?id=1I2iq41Akmo
+寰宇新聞,https://youtube.pendy.dpdns.org/video?id=6IquAgfvYmc
+寰宇財經新聞,https://youtube.pendy.dpdns.org/video?id=WTRQiVWK1jY
+鏡新聞,https://youtube.pendy.dpdns.org/video?id=5n0y6b0Q25o
+FRANCE 24,https://youtube.pendy.dpdns.org/video?id=l8PMl7tUDIE
+ANN NEWS,https://youtube.pendy.dpdns.org/video?id=coYw-eVU0Ks
+NHK WORLD,https://youtube.pendy.dpdns.org/video?id=f0lYkdA-Gtw
+TBS NEWS,https://youtube.pendy.dpdns.org/video?id=ohI356mwBp8
+大愛電視,https://youtube.pendy.dpdns.org/video?id=MIqUplvSRWA
+大愛電視2,https://youtube.pendy.dpdns.org/video?id=DTNkEm6jaqQ
+中視經典綜藝,https://youtube.pendy.dpdns.org/video?id=ADDSmXoPDY8
 ☘️YouTuBe 陈湘儒,#genre#
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
