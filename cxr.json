@@ -32,6 +32,7 @@
             "name": "斯玛特订阅",
             "type": "3",
             "api": "http://smt.iktv.ddns-ip.net/Smart.php",
+            "ext": {},
  },
  {
       "name": "LITV直播(python) ",
