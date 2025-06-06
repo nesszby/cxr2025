@@ -29,11 +29,10 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
   {
-            "name": "延迟低斯玛特订阅",
+            "name": "低斯玛特订阅",
             "type": "0",
             "pass": true,
             "url": "https://smt.iktv.ddns-ip.net/Smart.php",
-            "ua": "xieanqishiwoerzi/0.0.1"
         },
  {
       "name": "LITV直播(python) ",
@@ -89,15 +88,6 @@
     }
   }
 },
-     {
-  "name": "BeeSport",
-  "type": 3,
-  "api": "https://json.doube.eu.org/python/live_beesport.py",
-  "ext": {},
-  "header": {
-    "Referer": "https://p.m82xg4z0cdbz7.com/"
-  }
-  },
   {
     "name": "快直播KZb",
     "url": "http://xg.52sw.top/play/kzb",
@@ -133,6 +123,5 @@
     "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
     "ext" : {}
   }
-
       ]
 }
