@@ -20,20 +20,20 @@
             "url": "http://127.0.0.1:8081/5008.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
- },
+      },
         {
             "name": "5008[github]",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/5008.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
- },
+       },
   {
-            "name": "低斯玛特订阅",
+            "name": "斯玛特订阅",
             "type": "0",
             "pass": true,
-            "url": "https://smt.iktv.ddns-ip.net/Smart.php",
-        },
+            "api": "http://smt.iktv.ddns-ip.net/Smart.php",
+ },
  {
       "name": "LITV直播(python) ",
       "type": 3,
@@ -62,14 +62,14 @@
     "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
     "ua": "judy/5.2.1"
   },
-          {
+ {
             "name": "MyTvSuper",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/index-mytvsuper.php",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-          {
+ },
+     {
             "name": "欧华173",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/173.txt",
