@@ -93,7 +93,7 @@
       "ext": {}
 },
  {
-      "name": "斯玛特(KSweb服务器美国节点) ",
+      "name": "斯玛特(KSweb美国节点) ",
       "type": 3,
       "url": "http://127.0.0.1:8081/smt.php",
       "ext": {}
