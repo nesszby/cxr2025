@@ -70,7 +70,10 @@ CHC家庭影院,http://150.138.78.253:10050/migu/644368373?token=pot6r9IwRGUk6qt
 南方影视,http://150.138.78.253:10050/migu/614961829?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 红色轮播台,http://150.138.78.253:10050/migu/713600957?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 金色剧场,http://150.138.78.253:10050/migu/713591450?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-📺☘️央视卫视咪咕,#genre#
+📺☘️收集TVB,#genre#
+翡翠1台,http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
+翡翠综合台,http://cdn6.16899.ggff.net/live/j1/stream.m3u8
+翡翠剧集台,http://cdn6.16899.ggff.net/live/tvbd/stream.m3u8
 ☘️广东频道,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
