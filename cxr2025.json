@@ -45,7 +45,7 @@
       }
     },
  {
-    "name": "央视卫视",
+    "name": "央视卫视qwt",
     "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/qwt.m3u",
     "ua":  "okhttp/3.15"
   },
