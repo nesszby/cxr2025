@@ -101,13 +101,13 @@
   {
    "name": "斯玛特订阅20250606",
    "type": "3",
-   "url": "http://smt.iktv.ddns-ip.net/Smart.php",
+   "api":"http://smt.iktv.ddns-ip.net/Smart.php",
     "ext": {}
  },
  {
     "name" : "斯玛特全球直播",
     "type" : 3,
-    "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
     "ext" : {}
   }
       ]
