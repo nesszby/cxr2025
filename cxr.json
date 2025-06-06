@@ -21,11 +21,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
     },
-  {
-            "name": "斯玛特订阅",
-            "type": "3",
-            "api": "http://smt.iktv.ddns-ip.net/Smart.php",
- },
  {
       "name": "LITV直播(python) ",
       "type": 3,
@@ -110,6 +105,11 @@
       "url": "http://127.0.0.1:8081/smt.php",
       "ext": {}
     },
+  {
+            "name": "斯玛特订阅",
+            "type": "3",
+            "url": "http://smt.iktv.ddns-ip.net/Smart.php",
+ },
  {
     "name" : "斯玛特全球直播",
     "type" : 3,
