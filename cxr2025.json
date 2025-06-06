@@ -20,21 +20,21 @@
             "url": "http://127.0.0.1:8081/5008.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-    },
+  },
  {
       "name": "LITV直播(python) ",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
       "ext": {}
-    },
+ },
   {
       "name": "LITV(KSweb服务器) ",
       "type": 3,
       "api": "http://127.0.0.1:8081/live_litv.py",
       "ext": {}
     },
-    {
-      "name": "LiTV直播沐晨代理",
+ {
+      "name": "LiTV直播代理",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
       "ext": {
@@ -45,9 +45,9 @@
       }
     },
  {
-    "name": "香港视频安卓",
-    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-    "ua": "judy/5.2.1"
+    "name": "央视卫视",
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/qwt.m3u",
+    "ua":  "okhttp/3.15"
   },
  {
             "name": "MyTvSuper",
@@ -102,6 +102,7 @@
    "name": "斯玛特订阅20250606",
    "type": "3",
    "url": "http://smt.iktv.ddns-ip.net/Smart.php",
+    "ext": {}
  },
  {
     "name" : "斯玛特全球直播",
