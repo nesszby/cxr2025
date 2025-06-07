@@ -29,6 +29,14 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
  {
+            "name": "YouTubeLive每6小时自动抓取",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+ {
       "name": "LITV直播(python) ",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
