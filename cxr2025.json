@@ -37,7 +37,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
  
- {{
+ {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
@@ -46,7 +46,8 @@
       "timeout": 30,
       "playerType": 1
       
-    },
+    }
+ {
       "name": "LITV直播(python) ",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
