@@ -63,6 +63,14 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
+ {
+            "name": "香港mytv20250607",
+            "type": 0,
+            "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",           
+            "epg": "http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            
+  },
   {
             "name": "欧华173",
             "type": 0,
