@@ -8,10 +8,17 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
  {
-            "name": "所长judy",
+            "name": "所长judy公益",
             "type": "0",
             "pass": true,
             "url": "https://smart.pendy.dpdns.org/m3u/iptv-gongyi.m3u",
+            "ua": "xieanqishiwoerzi/0.0.1"
+ },
+  {
+            "name": "所长judy小群",
+            "type": "0",
+            "pass": true,
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
  {
