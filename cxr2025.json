@@ -41,6 +41,17 @@
    "url":"https://v-ip.eu.org/xxoo.php"
  },
  {
+   "name": "breezy台湾节点20250608",
+   "type": "0",
+   "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"，
+  "ext": {
+    "proxy": {
+      "http": "http://127.0.0.1:7897",
+      "https": "http://127.0.0.1:7897"
+    }
+  }
+ },
+ {
             "name": "YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
             "playerType": 2,
