@@ -36,6 +36,11 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
  {
+   "name": "成人頻道20250608",
+   "type": "0",
+   "url":"https://v-ip.eu.org/xxoo.php"
+ },
+ {
             "name": "YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
             "playerType": 2,
