@@ -36,6 +36,13 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+{ "name": "刺蝟直播",
+ "playerType": 2, 
+ "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
+ "ua": "Herissmon/2016", 
+ "timeout": 5,
+ "pass": true
+},
  
  {
       "name": "MQitv",
