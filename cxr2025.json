@@ -104,7 +104,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
  {
-            "name": "香港mytv20250607 【紅杏美国节点】",
+            "name": "super free香港mytv20250607 【紅杏美国节点】",
             "type": 0,
             "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",           
             "epg": "http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
