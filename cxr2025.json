@@ -75,7 +75,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
  {
-      "name": "LITV直播(python) ",
+      "name": "LITV直播(python) json.doube.eu.org",
       "type": 3,
       "api": "https://json.doube.eu.org/python/live_litv.py",
       "ext": {}
