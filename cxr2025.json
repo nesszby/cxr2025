@@ -15,13 +15,7 @@
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
- {
-            "name": "5008[KSweb服务器]",
-            "type": 0,
-            "url": "http://127.0.0.1:8081/5008.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-  },
+
   {
             "name": "5008[github]",
             "type": 0,
@@ -34,7 +28,7 @@
    "type": "0",
    "url":"https://v-ip.eu.org/xxoo.php"
  },
- {"name":"秘密花园",
+ {"name":"秘密花园28668",
 "type":0,
 "url":"https://gitee.com/sji820/des/raw/master/0.jpg",
 "playerType":1,
@@ -42,7 +36,7 @@
 "logo":"http://diyp5.112114.xyz/{name}.png"
 },
  {
-   "name": "breezy选好节点20250608",
+   "name": "breezy选节点20250608",
    "type": "0",
    "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"
  },
@@ -63,7 +57,7 @@
 },
  
  {
-      "name": "MQitv",
+      "name": "MQitv20250609",
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
@@ -78,12 +72,7 @@
       "api": "https://json.doube.eu.org/python/live_litv.py",
       "ext": {}
  },
-  {
-      "name": "LITV(KSweb服务器) ",
-      "type": 3,
-      "api": "http://127.0.0.1:8081/live_litv.py",
-      "ext": {}
-    },
+ 
  {
       "name": "LiTV直播代理",
       "type": 3,
@@ -157,28 +146,41 @@
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
 },
- {
-      "name": "SMT(py修复)(KSweb服务器) ",
-      "type": 3,
-      "api": "http://127.0.0.1:8081/live_smt.py",
-      "ext": {}
-},
- {
-      "name": "斯玛特(KSweb美国节点) ",
-      "type": 3,
-      "url": "http://127.0.0.1:8081/smt.php",
-      "ext": {}
-    },
   {
    "name": "斯玛特20250607",
    "type": "0",
    "url":"http://smt.iktv.ddns-ip.net/Smart.php"
  },
  {
-    "name" : "斯玛特全球直播",
+    "name" : "斯玛特smt直播",
     "type" : 3,
     "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
     "ext" : {}
+  },
+  {
+      "name": "斯玛特(KSweb美国节点) ",
+      "type": 3,
+      "url": "http://127.0.0.1:8081/smt.php",
+      "ext": {}
+    },
+  {
+      "name": "SMT(py修复)(KSweb服务器) ",
+      "type": 3,
+      "api": "http://127.0.0.1:8081/live_smt.py",
+      "ext": {}
+},
+  {
+      "name": "LITV(KSweb服务器) ",
+      "type": 3,
+      "api": "http://127.0.0.1:8081/live_litv.py",
+      "ext": {}
+    },
+  {
+            "name": "5008[KSweb服务器]",
+            "type": 0,
+            "url": "http://127.0.0.1:8081/5008.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   }
       ]
 }
