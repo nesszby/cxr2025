@@ -24,7 +24,9 @@
   {
    "name": "youtubeyou油管直播20250610",
    "type": "0",
-   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/youtube.txt"
+   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/youtube.txt",
+    "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
  {
    "name": "成人頻道20250608",
