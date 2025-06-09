@@ -2,13 +2,6 @@
 cctv4,https://www.youtube.com/watch?v=SdzewdkJa-o
 cctv4美洲,https://www.youtube.com/watch?v=_JHbJc71p9Q
 鳳凰資訊,https://www.youtube.com/live/LNux6O0Fj6A
-国会频道,https://www.youtube.com/watch?v=4HysYHJ6GkY
-国會頻道,https://www.youtube.com/watch?v=Lj8OWF6nzcg
-國会頻道,https://www.youtube.com/watch?v=IvAXtzx5cUI
-國會频道,https://www.youtube.com/watch?v=Af0TFVbxvAQ
-國会频道,https://www.youtube.com/watch?v=Qo9QwuCpV3s
-国會频道,https://www.youtube.com/watch?v=yUx5lB4mhZk
-国会頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 寰宇新闻°,https://www.youtube.com/watch?v=w87VGpgd90U
@@ -28,6 +21,13 @@ cctv4美洲,https://www.youtube.com/watch?v=_JHbJc71p9Q
 tvbsNews,https://www.youtube.com/watch?v=2mCSYvcfhtc
 tvbs News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 tvbs選新聞,https://www.youtube.com/watch?v=o_-hSMgpAzs
+国会频道,https://www.youtube.com/watch?v=4HysYHJ6GkY
+国會頻道,https://www.youtube.com/watch?v=Lj8OWF6nzcg
+國会頻道,https://www.youtube.com/watch?v=IvAXtzx5cUI
+國會频道,https://www.youtube.com/watch?v=Af0TFVbxvAQ
+國会频道,https://www.youtube.com/watch?v=Qo9QwuCpV3s
+国會频道,https://www.youtube.com/watch?v=yUx5lB4mhZk
+国会頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
 影视综艺,#genre#
 4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
 四季線上,https://www.youtube.com/watch?v=sdtaF2gH9gc
