@@ -7,13 +7,7 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
- {
-            "name": "所长judy公益",
-            "type": "0",
-            "pass": true,
-            "url": "https://smart.pendy.dpdns.org/m3u/iptv-gongyi.m3u",
-            "ua": "xieanqishiwoerzi/0.0.1"
- },
+
   {
             "name": "所长judy小群",
             "type": "0",
@@ -107,13 +101,13 @@
     "ua":  "okhttp/3.15"
   },
  {
-"name": "快直播(python20250608)",
+"name": "快直播(20250608)",
 "type": 3,
 "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/kzb.py",
 "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
 },
  {
-  "name": "快直播(python20250609)",
+  "name": "快直播(20250609)",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_kzb.py",
   "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
