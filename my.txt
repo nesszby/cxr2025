@@ -74,52 +74,31 @@ CHC家庭影院,http://150.138.78.253:10050/migu/644368373?token=pot6r9IwRGUk6qt
 翡翠1台,http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
 翡翠综合台,http://cdn6.16899.ggff.net/live/j1/stream.m3u8
 翡翠剧集台,http://cdn6.16899.ggff.net/live/tvbd/stream.m3u8
-翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-☘️🍅TVB,#genre#
-[TVB] 無線新聞台,http://jxiptv.dpdns.org/stream/tvb/null-5/master.m3u8
-[TVB] 翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
-[TVB] 鳳凰衛視中文台,http://jxiptv.dpdns.org/stream/tvb/null/master.m3u8
-[TVB] 鳳凰衛視資訊台,http://jxiptv.dpdns.org/stream/tvb/null-1/master.m3u8
-[TVB] 鳳凰衛視香港台,http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
-[TVB] 黃金翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
-[TVB] Love Nature,http://jxiptv.dpdns.org/stream/tvb/lovenature/master.m3u8
-[TVB] myTV SUPER FREE,http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
-[TVB] PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
-[TVB] ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
-[TVB] ROCK 綜藝娛樂,http://jxiptv.dpdns.org/stream/tvb/rock/master.m3u8
-[TVB] SUPER Kids Channel,http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3u8
-[TVB] TVB Plus,http://jxiptv.dpdns.org/stream/tvb/tvbplus/master.m3u8
-[TVB] 中央電視台綜合頻道 (港澳版),http://jxiptv.dpdns.org/stream/tvb/null-13/master.m3u8
-[TVB] 創世電視,http://jxiptv.dpdns.org/stream/tvb/null-10/master.m3u8
-[TVB] 天映經典頻道,http://jxiptv.dpdns.org/stream/tvb/null-11/master.m3u8
-[TVB] 娛樂新聞台,http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
-[TVB] 明珠台,http://jxiptv.dpdns.org/stream/tvb/null-4/master.m3u8
-[TVB] 東方衛視國際頻道,http://jxiptv.dpdns.org/stream/tvb/null-12/master.m3u8
-[TVB] 粵語片台,http://jxiptv.dpdns.org/stream/tvb/null-9/master.m3u8
-[TVB] 美亞電影台,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
-☘️广东频道,#genre#
+翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+☘️🍅[TVB],#genre#
+🍅☘️广东[TVB]频道【PLTV】,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+PlusTVBJ2综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -132,7 +111,7 @@ AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
-☘️🍅趣看SMT,#genre#
+☘️🍅趣看SMT【紅杏节点】,#genre#
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -158,7 +137,7 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
-☘️🍅TVB,#genre#
+☘️🍅TVB【TVOD】,#genre#
 無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠台1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -173,7 +152,7 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-☘️🍅香港TVB,#genre#
+☘️🍅香港SMT【紅杏节点】,#genre#
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
