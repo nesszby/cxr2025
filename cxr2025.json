@@ -22,9 +22,9 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
   {
-   "name": "HKTV20250609",
+   "name": "youtubeyou油管直播20250610",
    "type": "0",
-   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/HKTV.txt"
+   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/youtube.txt"
  },
  {
    "name": "成人頻道20250608",
