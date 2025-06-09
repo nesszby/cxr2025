@@ -106,6 +106,12 @@
 "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
 },
  {
+  "name": "快直播(python20250609)",
+  "type": 3,
+  "api": "https://json.doube.eu.org/python/live_kzb.py",
+  "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
+}
+ {
             "name": "MyTvSuper",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/index-mytvsuper.php",
@@ -170,7 +176,7 @@
  {
     "name" : "斯玛特全球直播",
     "type" : 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+    "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
     "ext" : {}
   }
       ]
