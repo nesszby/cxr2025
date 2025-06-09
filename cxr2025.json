@@ -40,6 +40,13 @@
    "type": "0",
    "url":"https://v-ip.eu.org/xxoo.php"
  },
+ {"name":"秘密花园",
+"type":0,
+"url":"https://gitee.com/sji820/des/raw/master/0.jpg",
+"playerType":1,
+"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}",
+"logo":"http://diyp5.112114.xyz/{name}.png"
+},
  {
    "name": "breezy选好节点20250608",
    "type": "0",
