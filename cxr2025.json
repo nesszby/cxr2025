@@ -122,7 +122,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
    {
-  "name": "SMT(py修复)本机开代理端口7897",
+  "name": "SMT(py修复)开本机代理端口7897",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {
@@ -144,7 +144,7 @@
    "url":"http://smt.iktv.ddns-ip.net/Smart.php"
  },
  {
-    "name" : "分类斯玛特smt直播【github】",
+    "name" : "【github】Smt直播",
     "type" : 3,
     "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
     "ext" : {}
