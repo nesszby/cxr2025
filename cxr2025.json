@@ -61,6 +61,14 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
+"name":"📺Gather电视",
+"type":0,
+"url":"https://tv.iill.top/m3u/Gather",
+"ua":"okhttp/5.0.0-alpha.14",
+"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+},
+ {
       "name": "MQitv20250609",
       "api": "csp_MQiTV",
       "ua": "okhttp",
