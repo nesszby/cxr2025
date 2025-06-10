@@ -53,13 +53,13 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-{ "name": "刺蝟直播",
- "playerType": 2, 
- "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
- "ua": "Herissmon/2016", 
- "timeout": 5,
- "pass": true
-},
+ {
+            "name": "驸马影视•国内IPTV",
+            "type": 0,
+            "url": "https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
  {
       "name": "MQitv20250609",
       "api": "csp_MQiTV",
