@@ -1,14 +1,14 @@
 {
 "lives": [
  {
-            "name": "陈湘儒myTV",
+            "name": "📺陈湘儒myTV",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/my.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
   {
-            "name": "所长judy小群",
+            "name": "📺所长judy小群",
             "type": "0",
             "pass": true,
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
@@ -54,7 +54,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
  {
-            "name": "驸马影视•国内IPTV",
+            "name": "📺驸马影视•国内IPTV",
             "type": 0,
             "url": "https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -144,7 +144,7 @@
    "url":"http://smt.iktv.ddns-ip.net/Smart.php"
  },
  {
-    "name" : "【github】Smt直播",
+    "name" : "📺【github】Smt直播分地区",
     "type" : 3,
     "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
     "ext" : {}
