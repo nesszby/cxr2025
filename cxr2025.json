@@ -78,15 +78,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
-"name":"📺KK电视",
-"type":0,
-"url":"http://kkk.888.3116598.xyz/user/HKTV.txt",
-"ua":"okhttp/5.0.0-alpha.14",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
- {
-      "name": "MQitv20250609",
+      "name": "📺MQitv20250609",
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
