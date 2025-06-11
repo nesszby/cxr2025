@@ -8,14 +8,14 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
   {
-            "name": "📺所长judy小群",
+            "name": "🍈📺所长judy小群",
             "type": "0",
             "pass": true,
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
   {
-            "name": "5008[github]【挂T台湾】",
+            "name": "🍪5008[github]【挂T台湾】",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/5008.m3u",
             "ua": "okhttp/3.15",
@@ -124,7 +124,7 @@
     "ua":  "okhttp/3.15"
   },
  {
-            "name": "super free香港mytv20250607 【紅杏美国节点】",
+            "name": "MyTvSuper20250607 【挂T紅杏台湾美国】",
             "type": 0,
             "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",           
             "epg": "http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
