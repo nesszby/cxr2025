@@ -235,17 +235,6 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 東森新闻,https://m.youtube.com/watch?v=QNAETEbZbH0
 東森財經,https://m.youtube.com/watch?v=1I2iq41Akmo
-ABCNEWS,https://www.youtube.com/watch?v=-mvUkiILTqI
-ABC7NewYork,https://m.youtube.com/watch?v=VrhYz4CL70I
-NBCNEWS,https://m.youtube.com/watch?v=iO-iKoFDRY0
-SKYNEWS,https://m.youtube.com/watch?v=YDvsBbKfLPA
-CNANEWS,https://www.youtube.com/watch?v=XWq5kBlakcQ
-CBSNews,https://m.youtube.com/watch?v=e_vEct0OMT4
-LiveNOWFOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
-UnitedNations,https://www.youtube.com/watch?v=wfAa1GiNdgM
-FRANCE24English,https://m.youtube.com/watch?v=Ap-UM1O9RBU
-NHKWORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-EuronewsEnglish,https://www.youtube.com/watch?v=pykpO5kQJ98
 🍅YouTube新闻,#genre#
 ☘️新马澳門,#genre#
 Astro Ria,http://php.jdshipin.com/TVOD/iptv.php?id=aod
