@@ -1,7 +1,7 @@
 {
 "lives": [
  {
-            "name": "📺陈湘儒myTV",
+            "name": "🐟📺🐟陈湘儒myTV🐟🐟",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/my.txt",
             "ua": "okhttp/3.15",
@@ -29,7 +29,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
  {
-   "name": "🍅成人頻道20250611💔",
+   "name": "🍅🍄成人頻道20250611🍄💔",
    "type": "0",
    "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/xxoo.php"
  },
@@ -88,7 +88,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
-      "name": "📺MQitv20250609",
+      "name": "🧲MQitv20250609",
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
@@ -97,7 +97,7 @@
       "playerType": 1    
     },
  {
-      "name": "📺MQiTV20250611", 
+      "name": "🧲MQiTV20250611", 
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
       "ext": "https://59.125.210.231:4433", 
