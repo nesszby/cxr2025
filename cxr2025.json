@@ -134,6 +134,16 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
  {
+      "name": "🍑🌸MQitv20250618🍑🌸",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://60.248.127.232:4433",
+      "jar": "http://files.catbox.moe/chvyo2.txt",
+      "timeout": 30,
+      "playerType": 1
+      
+    },
+ {
             "name": "🌸LiTV[台湾美国xg.52sw.top]",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/litv.php",
