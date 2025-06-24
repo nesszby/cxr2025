@@ -63,6 +63,12 @@ ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠台1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzxMore actions
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -71,23 +77,16 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-☘️澳门,#genre#
 ☘️台湾节点4g新闻,#genre#
 🍅☘️judy版YouTube, #genre#
-
 🍅☘️陈湘儒YouTuBe ,#genre#
 寰宇新聞,https://m.youtube.com/watch?v=6IquAgfvYmc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -212,28 +211,15 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
 ☘️Smart☠️源,#genre#
 ☘️🍅香港judy频道,#genre#
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 鳳凰衛視中文台,https://011v4.pendy.dpdns.org/stream/tvb/pcc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-鳳凰衛視中文台,https://live.tvfix.org/live/fhzw/index.m3u8
-鳳凰衛視中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 鳳凰衛視香港台,https://011v4.pendy.dpdns.org/stream/tvb/phk/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-鳳凰衛視香港台,https://live.tvfix.org/live/fhxg/index.m3u8
-鳳凰衛視香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 鳳凰衛視資訊台,https://011v4.pendy.dpdns.org/stream/tvb/pin/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-鳳凰衛視資訊台,https://live.tvfix.org/live/fhzx/index.m3u8
-鳳凰衛視資訊台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
-TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
-亚洲新闻台,https://live.tvfix.org/live/newsasia/index.m3u8
-娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
-TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 美亞電影台,https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 PopC,https://011v4.pendy.dpdns.org/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 明珠台,https://011v4.pendy.dpdns.org/stream/tvb/pearl/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB Plus,https://011v4.pendy.dpdns.org/stream/tvb/tvbplus/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3c
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 Animax,https://live.tvfix.org/live/animax/index.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
