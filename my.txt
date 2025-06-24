@@ -1,22 +1,5 @@
 📺央视频道,#genre#
-CCTV1,http://115.190.105.236:8123/live/cctv1?token=OK
-CCTV2,http://115.190.105.236:8123/live/cctv2?token=OK
-CCTV3,http://115.190.105.236:8123/live/cctv3?token=OK
-CCTV4,http://115.190.105.236:8123/live/cctv4?token=OK
-CCTV5,http://115.190.105.236:8123/live/cctv5?token=OK
-CCTV5+,http://115.190.105.236:8123/live/cctv5p?token=OK
-CCTV6,http://115.190.105.236:8123/live/cctv6?token=OK
-CCTV7,http://115.190.105.236:8123/live/cctv7?token=OK
-CCTV8,http://115.190.105.236:8123/live/cctv8?token=OK
-CCTV9,http://115.190.105.236:8123/live/cctv9?token=OK
-CCTV10,http://115.190.105.236:8123/live/cctv10?token=OK
-CCTV11,http://115.190.105.236:8123/live/cctv11?token=OK
-CCTV12,http://115.190.105.236:8123/live/cctv12?token=OK
-CCTV13,http://115.190.105.236:8123/live/cctv13?token=OK
-CCTV14,http://115.190.105.236:8123/live/cctv14?token=OK
-CCTV15,http://115.190.105.236:8123/live/cctv15?token=OK
-CCTV16,http://115.190.105.236:8123/live/cctv16?token=OK
-CCTV17,http://115.190.105.236:8123/live/cctv17?token=OK
+
 📡卫视频道,#genre#
 🌌☘️央视卫视t.061899.xyz,#genre#
 🌌☘️央视卫视smart,#genre#
@@ -30,7 +13,6 @@ CCTV17,http://115.190.105.236:8123/live/cctv17?token=OK
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
 翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 ☘️🍅[TVB],#genre#
 🍅☘️广东[TVB]频道【PLTV】,#genre#
@@ -50,7 +32,6 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-PlusTVBJ2综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
@@ -65,7 +46,6 @@ AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 ☘️🍅香港SMT【紅杏节点】,#genre#
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -76,35 +56,17 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
-Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 ☘️🍅TVB【TVOD】,#genre#
 無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠台1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 ☘️香港【PLTV】,#genre#
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
