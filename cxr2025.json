@@ -14,6 +14,13 @@
             "url": "http://115.193.127.27:5000/?type=m3u",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
+   {
+            "name": "🍈📺 IPTV研究所过期时间：6/27/2025",
+            "type": "0",
+            "pass": true,
+            "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
+            "ua": "xieanqishiwoerzi/0.0.1"
+ },
   {
    "name": "♾️🍄🍄🍄🍄aktv 20250618🍄🍄🍄💔",
    "type": "0",
