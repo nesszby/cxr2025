@@ -8,10 +8,10 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
   {
-            "name": "🍈📺115.193.127.27:5000",
+            "name": "🍈📺ofiii直播20250702",
             "type": "0",
             "pass": true,
-            "url": "http://115.193.127.27:5000/?type=m3u",
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/Sub.m3u",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
   {
