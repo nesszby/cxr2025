@@ -246,9 +246,9 @@
   "ext": {}
 },
  {
-    "name" : "🧑🏻‍🌾【github】Smt直播分地区🧑🏻‍🌾",
+    "name" : "🧑🏻‍🌾【github】Smt直播catvod🧑🏻‍🌾",
     "type" : 3,
-    "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
+    "api": "https://live.catvod.com/smart.php",
     "ext" : {}
   },
 
