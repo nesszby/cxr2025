@@ -246,9 +246,9 @@
   "ext": {}
 },
  {
-    "name" : "🧑🏻‍🌾【github】Smt直播catvod🧑🏻‍🌾",
+    "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod🧑🏻‍🌾",
     "type" : 3,
-    "api": "https://live.catvod.com/smart.php",
+    "url": "https://live.catvod.com/smart.php",
     "ext" : {}
   },
 
