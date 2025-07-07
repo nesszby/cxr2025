@@ -22,6 +22,12 @@
             "ua": "xieanqishiwoerzi/0.0.1"
  },
   {
+    "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod【挂T香港台湾美国】🧑🏻‍🌾",
+    "type" : 3,
+    "url": "https://live.catvod.com/smart.php",
+    "ext" : {}
+  },
+  {
    "name": "♾️🍄8.138.7.223/51.php 20250627🍄🍄🍄💔",
    "type": "0",
    "url":"http://8.138.7.223/51.php"
@@ -245,12 +251,7 @@
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
 },
- {
-    "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod🧑🏻‍🌾",
-    "type" : 3,
-    "url": "https://live.catvod.com/smart.php",
-    "ext" : {}
-  },
+
 
   {
 "name": "快直播(20250608)",
