@@ -35,26 +35,25 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
   {
+   "name": "🍄💔breezy选节点20250608【挂T台湾】🌸",
+   "type": "0",
+   "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"
+ },
+  {
    "name": "♾️🍄8.138.7.223/51.php 20250627🍄🍄🍄💔",
    "type": "0",
    "url":"http://8.138.7.223/51.php"
  },
   {
-   "name": "♾️🍄/mqtw 20250706🍄🍄🍄💔",
-   "type": "0",
-   "url":"http://hk.mushui.tk/mqlive/mqtw.m3u"
- },
+    "name": "🍑bxtv.txt 20250706",
+    "url": "https://bx.757888.xyz/bxtv.txt",
+    "ua":  "okhttp/3.15"
+  },
  {
    "name": "♾️🍄/爱家 20250706🍄🍄🍄💔",
    "type": "0",
    "url":"http://hk.mushui.tk/mqlive/mqtw.txt"
- },
-   {
-   "name": "♾️🍄vip.m3u 20250630🍄🍄🍄💔",
-   "type": "0",
-   "url":"http://115.190.105.236/vip/vip.m3u"
- },
- 
+ }, 
 {
    "name": "♾️🍄my.txt 20250628🍄🍄🍄💔",
    "type": "0",
@@ -90,11 +89,6 @@
    "type": "0",
    "url":"https://tv.iill.top/m3u/MyTV"
  },
- {
-   "name": "🍅🍄any.m3u 20250702🍄💔",
-   "type": "0",
-   "url":"https://tv.920410.dpdns.org/any.m3u"
- },
   {
    "name": "🍅AVmovie50302💔",
    "type": "0",
@@ -117,11 +111,6 @@
 "epg":"http://diyp5.112114.xyz/?ch={name}&date={date}",
 "logo":"http://diyp5.112114.xyz/{name}.png"
 },
- {
-   "name": "🌸breezy选节点20250608【挂T台湾】",
-   "type": "0",
-   "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"
- },
  {
             "name": "♾️YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
@@ -196,28 +185,8 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
- {
-      "name": "🌸LITV直播(python) json.doube.eu.org",
-      "type": 3,
-      "api": "https://json.doube.eu.org/python/live_litv.py",
-      "ext": {}
- },
- {
-      "name": "🌸LiTV本机开代理端口7897",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {
-        "proxy": {
-          "http": "http://127.0.0.1:7897",
-          "https": "http://127.0.0.1:7897"
-        }
-      }
-    },
- {
-    "name": "🍑bxtv.txt 20250706",
-    "url": "https://bx.757888.xyz/bxtv.txt",
-    "ua":  "okhttp/3.15"
-  },
+
+
  {
             "name": "MyTvSuper20250607 【挂T紅杏台湾美国】",
             "type": 0,
