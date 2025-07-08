@@ -53,7 +53,7 @@ amc电影频道,http://122.117.71.103:8671/amc电影.m3u8
 TLC'旅游频道,http://122.117.71.103:8628/TLC旅游.m3u8
 亚洲旅游频道,http://122.117.71.103:8634/亚洲旅游.m3u8
 动物星球频道,http://122.117.71.103:8633/动物星球.m3u8
-📺☘️收集TVB,#genre#
+☘️[TVB]🍅,#genre#
 翡翠1台,http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
 翡翠综合台,http://cdn6.16899.ggff.net/live/j1/stream.m3u8
 翡翠剧集台,http://cdn6.16899.ggff.net/live/tvbd/stream.m3u8
@@ -63,8 +63,7 @@ TLC'旅游频道,http://122.117.71.103:8628/TLC旅游.m3u8
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
 翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-☘️🍅[TVB],#genre#
-🍅☘️广东[TVB]频道【PLTV】,#genre#
+🍅☘️广东频道【PLTV】,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
