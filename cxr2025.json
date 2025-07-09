@@ -185,16 +185,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
-
-
- {
-            "name": "MyTvSuper20250607 【挂T紅杏台湾美国】",
-            "type": 0,
-            "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",           
-            "epg": "http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-            
-  },
   {
             "name": "173.txt",
             "type": 0,
@@ -240,31 +230,6 @@
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_kzb.py",
   "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
-},
-  {
-      "name": "斯玛特(KSweb服务器美国节点) ",
-      "type": 3,
-      "url": "http://127.0.0.1:8081/smt.php",
-      "ext": {}
-    },
-  {
-      "name": "SMT(KSweb服务器) ",
-      "type": 3,
-      "api": "http://127.0.0.1:8081/live_smt.py",
-      "ext": {}
-},
-  {
-      "name": "LITV(KSweb服务器) ",
-      "type": 3,
-      "api": "http://127.0.0.1:8081/live_litv.py",
-      "ext": {}
-    },
-  {
-            "name": "5008[KSweb服务器]",
-            "type": 0,
-            "url": "http://127.0.0.1:8081/5008.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-  }
+}
       ]
 }
