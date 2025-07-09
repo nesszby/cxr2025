@@ -68,8 +68,6 @@
             "name": "🍪【4gtv直播 20250615】",
             "type": 0,
             "url": "http://go8.myartsonline.com/zx/0/港澳4Gtv.txt",
-            "playerType":1,
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
   {
             "name": "🍪【Webview直播 20250622】",
