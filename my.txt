@@ -295,7 +295,17 @@ TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+NOW新闻台,http://cdn.163189.xyz/live/now/stream.m3u8
+翡翠台4K,http://cdn6.163189.xyz/live/fct4k/stream.m3u8
+翡翠台(字幕),http://mytv.101.qzz.io/hls/fct/playlist.m3u8
+明珠台(字幕),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -326,9 +336,6 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
 TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 千禧经典台, http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -342,11 +349,5 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-NOW新闻台,http://cdn.163189.xyz/live/now/stream.m3u8
-翡翠台4K,http://cdn6.163189.xyz/live/fct4k/stream.m3u8
-翡翠台(字幕),http://mytv.101.qzz.io/hls/fct/playlist.m3u8
-明珠台(字幕),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+
