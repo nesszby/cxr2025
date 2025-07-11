@@ -21,6 +21,12 @@
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
+ {
+    "name" : "🧑🏻‍🌾♾️🍄晓峰5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
+    "type" : 3,
+    "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
+    "ext" : {}
+  },
   {
     "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod20250707【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
