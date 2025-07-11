@@ -1,0 +1,34 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+141.147.68.252,443,true,FRA,Europe,Frankfurt,250 ms,5158 kB/s
+192.9.137.193,8443,true,SJC,North America,San Jose,182 ms,4703 kB/s
+152.70.59.90,8443,true,AMS,Europe,Amsterdam,273 ms,3138 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,254 ms,2653 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,226 ms,1832 kB/s
+129.159.241.172,443,true,FRA,Europe,Frankfurt,296 ms,1399 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,259 ms,1298 kB/s
+158.101.24.17,443,true,LAX,North America,Los Angeles,281 ms,1037 kB/s
+158.180.49.11,2053,true,FRA,Europe,Frankfurt,295 ms,930 kB/s
+192.9.250.241,443,true,SJC,North America,San Jose,172 ms,862 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,275 ms,668 kB/s
+132.226.163.224,8443,true,GRU,South America,São Paulo,363 ms,653 kB/s
+89.168.68.57,8443,true,FRA,Europe,Frankfurt,296 ms,487 kB/s
+168.138.141.235,2053,true,GRU,South America,São Paulo,375 ms,413 kB/s
+158.180.49.11,8443,true,FRA,Europe,Frankfurt,305 ms,341 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,314 ms,313 kB/s
+146.235.59.153,8443,true,GRU,South America,São Paulo,352 ms,251 kB/s
+150.230.20.156,8443,true,AMS,Europe,Amsterdam,224 ms,223 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,367 ms,160 kB/s
+158.178.206.197,8443,true,CDG,Europe,Paris,258 ms,137 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,253 ms,137 kB/s
+168.138.215.251,443,true,NRT,Asia Pacific,Tokyo,290 ms,131 kB/s
+158.178.206.197,2053,true,CDG,Europe,Paris,262 ms,103 kB/s
+129.213.136.180,443,true,IAD,North America,Ashburn,234 ms,72 kB/s
+150.230.20.156,2053,true,AMS,Europe,Amsterdam,267 ms,56 kB/s
+89.168.43.31,8443,true,CDG,Europe,Paris,266 ms,46 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,249 ms,40 kB/s
+192.9.180.162,443,true,SYD,Oceania,Sydney,328 ms,26 kB/s
+150.136.87.192,443,true,IAD,North America,Ashburn,242 ms,0 kB/s
+217.142.243.226,443,true,KIX,Asia Pacific,Osaka,210 ms,0 kB/s
+64.181.240.173,443,true,SJC,North America,San Jose,170 ms,0 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,272 ms,0 kB/s
+138.2.122.191,443,true,ICN,Asia Pacific,Seoul,202 ms,0 kB/s
