@@ -149,7 +149,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
-"name":"📺Gather电视",
+"name":"📺Gather电视央卫视咪咕视频",
 "type":0,
 "url":"https://tv.iill.top/m3u/Gather",
 "ua":"okhttp/5.0.0-alpha.14",
