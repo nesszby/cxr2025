@@ -34,6 +34,12 @@
     "ext": { }
   },
   {
+    "name" : "💔85.237.207.128:50007接口20250715【挂T香港台湾美国】🧑🏻‍🌾",
+    "type" : 3,
+    "url": "http://85.237.207.128:50007/?type=m3u",
+    "ext": { }
+  },
+  {
     "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod20250707【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
     "url": "https://live.catvod.com/smart.php",
@@ -109,7 +115,8 @@
  {
    "name": "♾️Gather用香港节点mytv接口💔",
    "type": "0",
-   "url":"https://tv.iill.top/m3u/MyTV"
+   "url":"https://tv.iill.top/m3u/MyTV",
+  "ua":"okhttp/5.0.0-alpha.14",
  },
   {
    "name": "🍅AVmovie50302💔",
