@@ -49,9 +49,7 @@
             "name": "🍪🍄【冰茶】央视卫视直播 20250715",
             "type": 3,
             "url": "https://fy.188766.xyz/?ip=192.168.1.2&haiwai=true",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
-            "ext": { }
+          "ext":  {}
   },
   {
    "name": "🍄💔breezy选节点20250608【挂T台湾】🌸",
@@ -165,9 +163,9 @@
 "name":"📺Gather电视央卫视咪咕视频",
 "type":0,
 "url":"https://tv.iill.top/m3u/Gather",
-"ua":"okhttp/5.0.0-alpha.14",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+"ua":"okhttp/3.15",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
 },
  {
             "name": "📺南风直播源",
