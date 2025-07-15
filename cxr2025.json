@@ -298,7 +298,7 @@
         ".*boku.*",
         ".*nivod.*",
         ".*ulivetv.*"
-   
+
   ],
   "hosts": [
     "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com"，
@@ -308,31 +308,7 @@
         "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
-   "rules": [
-        {
-            "name": "proxy",
-            "hosts": [
-                "raw.githubusercontent.com",
-                "googlevideo.com",
-                "cdn.v82u1l.com",
-                "cdn.iz8qkg.com",
-                "cdn.kin6c1.com",
-                "c.biggggg.com",
-                "c.olddddd.com",
-                "haiwaikan.com",
-                "www.histar.tv",
-                "youtube.com",
-                "uhibo.com",
-                ".*boku.*",
-                ".*nivod.*",
-                "*.t4tv.hz.cz",
-                ".*ulivetv.*",
-                "missav.ws",
-                "javmulu.net",
-                "www.netflav.com"
-            ]
-          }
-    ],
+   
   "ads": [
     "static-mozai.4gtv.tv"
   ]
