@@ -204,11 +204,11 @@
       
     },
  {
-    "name": "🍑🌸MQiTV 61 20250715，106个频道",
+    "name": "🍑🌸MQiTV 110 20250715，106个频道",
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
        "ua": "okhttp",
-      "ext": "61.216.180.81:1888",
+      "ext": "110.44.117.64:4433",
       "playerType": 1,
        "timeout": 30,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
