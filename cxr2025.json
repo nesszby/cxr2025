@@ -289,7 +289,7 @@
     }
   ],
   "proxy": [
-    "raw.githubusercontent.com"，
+    "raw.githubusercontent.com",
     "googlevideo.com",
         "cdn.v82u1l.com",
         "cdn.iz8qkg.com",
@@ -306,7 +306,7 @@
 
   ],
   "hosts": [
-    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com"，
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
      "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
