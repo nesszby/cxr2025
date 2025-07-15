@@ -184,10 +184,10 @@
       "playerType": 1    
     },
  {
-      "name": "🍑🧲MQiTV61 20250611", 
+      "name": "🍑🧲MQiTV182 20250611", 
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
-      "ext": "https://61.216.180.81:188", 
+      "ext": "http://182.113.234.53:889", 
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },
