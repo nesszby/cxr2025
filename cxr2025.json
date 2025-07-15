@@ -8,6 +8,12 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
   {
+   "name": "🍪🍄【冰茶】【央视卫视直播 20250715】",
+   "type": 0,
+      "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
+      "ua": "bingcha/0.1"
+  },
+  {
             "name": "🍈📺ofiii直播20250702 【挂T紅杏台湾美国】",
             "type": "0",
             "pass": true,
@@ -45,12 +51,7 @@
     "url": "https://live.catvod.com/smart.php",
     "ext" : {}
   },
- {
-   "name": "🍪🍄【冰茶】【央视卫视直播 20250715】",
-   "type": 0,
-      "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
-      "ua": "bingcha/0.1"
-  },
+
   {
    "name": "🍄💔breezy选节点20250608【挂T台湾】🌸",
    "type": "0",
