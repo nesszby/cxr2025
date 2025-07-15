@@ -186,11 +186,11 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
  {
-      "name": "🍑🧲MQiTV182 20250611 106个频道", 
+      "name": "🍑🧲MQiTV123 20250611 106个频道", 
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
-      "ext": "http://182.113.234.53:8899", 
+      "ext": "http://123.51.229.128:1888", 
        "timeout": 30,
        "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
