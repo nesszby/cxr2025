@@ -255,7 +255,7 @@
   }
 },
  {
-  "name": "🧑🏻‍🌾SMT(py修复)挂梯",
+  "name": "🧑SMT(py修复)挂梯",
   "type": 3,
   "api": "https://json.doube.eu.org/python/live_smt.py",
   "ext": {}
