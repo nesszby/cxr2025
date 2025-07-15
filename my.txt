@@ -1,5 +1,47 @@
 🌌☘️📺央视频道🍅,#genre#
-🌌☘️📡卫视频道🍅,#genre#
+🌌☘️📡凤凰香港🍅,#genre#
+TVBPlus,http://cdn.101.qzz.io/live/tvbp/stream.m3u8
+J2,,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+popc,https://fr-us7.jdiptv.cc/live/popc.m3u8
+POPC,http://tl.061833.xyz/tl/popc
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+中天,http://push-rtmp-hs-spe-f5.douyincdn.com/live/KNxQhC5Pd0QWdsDuYnX84iZanamxeIGuZ1rGHgVlSPqkHm8y1E.flv
+中天新闻,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
+中天新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+有线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+有线新闻台,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XNkGn6bw9KKiK2y0RcgHRVke7yQhC5PkQ4hkeRMVJUGHhzCm45.flv
+民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+台视综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1fAAda17L41fqlzQhC5PY5nPKNqvLwxkfwKIcIMBeBbKtYRRdqX.flv
+ELta娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoQhC5PMv.flv
+星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+功夫,http://cdn.101.qzz.io/live/yzwx/stream.m3u8
+功夫台,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+黄金华剧台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/oJ9WqwwFHMUUdTEQVt7zwC3vE7DUFUgtFqsdl7ztt5Ka56QIN7ZiFOjjaZfDQlGZrSBUEhZ.flv
+天映频道,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv18_twn
+美亚电影,https://fr-us7.jdiptv.cc/live/xgmydygy.m3u8http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+美亚电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 🌌☘️📡广东佛山酒店🍅,#genre#
 CCTV1-综合,http://218.13.167.110:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://218.13.167.110:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
