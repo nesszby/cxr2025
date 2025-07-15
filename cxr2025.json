@@ -46,9 +46,9 @@
     "ext" : {}
   },
  {
-            "name": "🍪🍄【流畅央视卫视直播 20250707】",
+            "name": "🍪🍄【冰茶央视卫视直播 20250715】",
             "type": 0,
-            "url": "https://live.catvod.com/mq.php?catvod.com=m3u",
+            "url": "https://fy.188766.xyz/?ip=192.168.1.2&haiwai=true",
             "playerType":1,
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
