@@ -186,8 +186,10 @@
  {
       "name": "🍑🧲MQiTV182 20250611 106个频道", 
       "api": "csp_MQiTV",
+      "ua": "okhttp",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
       "ext": "http://182.113.234.53:889", 
+       "timeout": 30,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },
@@ -205,8 +207,10 @@
     "name": "🍑🌸MQiTV 61 20250715，106个频道",
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
+       "ua": "okhttp",
       "ext": "61.216.180.81:1888",
       "playerType": 1,
+       "timeout": 30,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },
