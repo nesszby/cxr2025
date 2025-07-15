@@ -78,9 +78,12 @@
    "url":"https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
  },
  {
-   "name": "♾️🍄蜂蜜直播gggg.txt 20250709🍄🍄🍄💔",
-   "type": "0",
-   "url":"https://d.kstore.dev/download/6529/tvbox/gggg.txt"
+   "name": "♾️🍄全球直播 20250715🍄🍄🍄💔",
+  "type": 0,
+   "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
+    "playerType": 1,
+     "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
   {
    "name": "♾️🍄aktv 20250618🍄🍄🍄💔",
