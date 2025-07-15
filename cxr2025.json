@@ -46,11 +46,12 @@
     "ext" : {}
   },
  {
-            "name": "🍪🍄【冰茶央视卫视直播 20250715】",
-            "type": 0,
+            "name": "🍪🍄【冰茶】央视卫视直播 20250715",
+            "type": 3,
             "url": "https://fy.188766.xyz/?ip=192.168.1.2&haiwai=true",
-            "playerType":1,
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
+            "ext": { }
   },
   {
    "name": "🍄💔breezy选节点20250608【挂T台湾】🌸",
