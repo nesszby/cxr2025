@@ -237,7 +237,7 @@
  {
     "name": "🍑🌸MQiTV 尼泊尔 20250715，106个频道",
       "api": "csp_MQiTV",
-      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
+      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
        "ua": "okhttp",
       "ext": "https://110.44.117.64:4433",
       "playerType": 1,
