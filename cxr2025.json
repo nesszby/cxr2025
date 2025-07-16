@@ -8,7 +8,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
  },
   {
-   "name": "🍪🍄【冰茶】【央视卫视直播 20250715】",
+   "name": "💎【冰茶】【央视卫视直播 20250715】💎",
    "type": 0,
       "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
       "ua": "bingcha/0.1"
@@ -27,6 +27,7 @@
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
+ {"name": "🥓┃IPTV研究所直播源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
  {
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
@@ -150,6 +151,21 @@
 "epg":"http://diyp5.112114.xyz/?ch={name}&date={date}",
 "logo":"http://diyp5.112114.xyz/{name}.png"
 },
+ {
+      "name": "💔💎成人超级极限💎💔",
+      "type": 0,
+      "url": "https://chuxinya.top/f/mZrgsW/%E6%B8%A9%E6%9F%94%E5%B0%8F%E5%A7%A8%E5%AD%901.txt",
+      "playerType": 1
+    },
+ {
+            "name": "💔💎成人超级极限影剧松1-松3💎💔",
+            "type": 0,
+            "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751915931144/酒店2.txt",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
  {
             "name": "♾️YouTubeLive每6小时自动抓取",
             "ua": "okhttp/3.0",
