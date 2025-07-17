@@ -20,6 +20,13 @@
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/Sub.m3u",
             "ua": "xieanqishiwoerzi/0.0.1"
  },
+ {
+            "name": "💔ofiii直播20250717 【挂T紅杏台湾美国】",
+            "type": "0",
+            "pass": true,
+            "url": "http://134.185.92.123:51215/Sub.m3u?token=ofiii&proxy=true",
+             "ext" : {}
+ },
   {
             "name": "🍈📺 IPTV研究所【过期时间：7/17/2025】",
             "type": "0",
