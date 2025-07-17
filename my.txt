@@ -117,6 +117,8 @@ ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 翡翠台beishan,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 🍅☘️广东和香港频道【PLTV】,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
