@@ -219,17 +219,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
- {
-      "name": "🍑🧲MQiTV61 20250611 74个频道", 
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
-      "ext": "http:/61.216.180.81:1888", 
-       "timeout": 30,
-       "playerType": 1,
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-},
   {
       "name": "🍑🌸MQitv60 20250618 106个频道🍑🌸",
       "api": "csp_MQiTV",
@@ -241,6 +230,17 @@
    "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"  
     },
+ {
+      "name": "🍑🧲MQiTV61 20250611 74个频道", 
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
+      "ext": "http:/61.216.180.81:1888", 
+       "timeout": 30,
+       "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+},
  {
     "name": "🍑🌸MQiTV 藍山大飯店 20250715，106个频道",
       "api": "csp_MQiTV",
