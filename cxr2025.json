@@ -246,7 +246,7 @@
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
        "ua": "okhttp",
-      "ext": "60.250.121.103:1888",
+      "ext": "http:/60.250.121.103:1888",
       "playerType": 1,
        "timeout": 30,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
