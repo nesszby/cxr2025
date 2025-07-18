@@ -102,10 +102,10 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 Plus综合频道,http://beishan008.asuscomm.com:8890/bysid/82.m3u8#https://vdm6-hw.nbgdsygs.com/live/h6-2.flv#https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 翡翠台字幕,http://edge2.163189.xyz/o12.php?id=fct
 明珠台字幕,http://edge2.163189.xyz/o12.php?id=mzt
+无线新闻字幕,https://edge.163189.xyz/163189/wxxw
 HOY TV,https://edge.163189.xyz/163189/hoy
 八度空间,https://edge.163189.xyz/163189/8tv
 CH8,https://edge.163189.xyz/163189/ch8
-无线新闻,https://edge.163189.xyz/163189/wxxw
 凤凰资讯,https://edge.163189.xyz/163189/fhzx
 🍅☘️广东和香港频道【PLTV】,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
