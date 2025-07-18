@@ -100,22 +100,13 @@ CCTV15-音乐,http://218.13.167.110:9901/tsfile/live/0015_1.m3u8?key=txiptv&play
 VIUTV,https://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 Plus综合频道,http://beishan008.asuscomm.com:8890/bysid/82.m3u8#https://vdm6-hw.nbgdsygs.com/live/h6-2.flv#https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-有线新闻频道,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-无线新闻频道,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线翡翠频道,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-无线明珠频道,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-有线赛讯频道,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
-有线综讯频道,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
-ViuTv_频道粤,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-ViuTv_频道英,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-RTHK-31频道,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-RTHK-32频道,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
-RTHK-33频道,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-RTHK-34频道,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-记录频道,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
-ViuTVsix,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-翡翠台beishan,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+翡翠台字幕,http://edge2.163189.xyz/o12.php?id=fct
+明珠台字幕,http://edge2.163189.xyz/o12.php?id=mzt
+HOY TV,https://edge.163189.xyz/163189/hoy
+八度空间,https://edge.163189.xyz/163189/8tv
+CH8,https://edge.163189.xyz/163189/ch8
+无线新闻,https://edge.163189.xyz/163189/wxxw
+凤凰资讯,https://edge.163189.xyz/163189/fhzx
 🍅☘️广东和香港频道【PLTV】,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
