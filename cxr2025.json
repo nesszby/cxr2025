@@ -242,11 +242,11 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 },
  {
-    "name": "🍑🌸MQiTV 藍山大飯店 20250715，106个频道",
+    "name": "🍑🌸MQiTV 藍山大飯店60 20250715，74个频道",
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
        "ua": "okhttp",
-      "ext": "http://182.113.234.53:8899",
+      "ext": "60.250.121.103:1888",
       "playerType": 1,
        "timeout": 30,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
