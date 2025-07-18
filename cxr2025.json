@@ -278,7 +278,7 @@
    {
   "name": "🧑🏻‍🌾SMT(py修复)开本机代理端口7897",
   "type": 3,
-  "api": "https://json.doube.eu.org/python/live_smt.py",
+  "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/smt.py",
   "ext": {
     "proxy": {
       "http": "http://127.0.0.1:7897",
