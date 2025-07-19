@@ -62,6 +62,12 @@
     "url": "https://live.catvod.com/smart.php",
     "ext" : {}
   },
+  {
+    "name" : "🧑🏻‍🌾♾️🍄斯玛特 iptv.digimon.ink 20250719【挂T香港台湾美国】🧑🏻‍🌾",
+    "type" : 3,
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E5%85%AE%E5%85%AE.txt",
+    "ext" : {}
+  },
 
   {
    "name": "🍄💔breezy选节点20250608【挂T台湾】🌸",
@@ -260,6 +266,13 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+  {
+            "name": "💔抖音推流 20250719 【挂T紅杏台湾美国】",
+            "type": "0",
+            "pass": true,
+            "url": "http://is.is-great.org/i/2878938.txt",
+             "ext" : {}
+ },
   {
             "name": "173.txt",
             "type": 0,
