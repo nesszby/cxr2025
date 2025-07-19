@@ -99,14 +99,6 @@
    "type": "0",
    "url":"https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
  },
- {
-   "name": "♾️🍄全球直播 20250715🍄🍄🍄💔",
-  "type": 0,
-   "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
-    "playerType": 1,
-     "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
- },
   {
    "name": "♾️🍄aktv 20250618🍄🍄🍄💔",
    "type": "0",
@@ -159,11 +151,6 @@
    "name": "🍅bst.m3u 20250716💔",
    "type": "0",
    "url":"https://10238.kstore.space/bst.m3u"
- },
-  {
-   "name": "🍅🧑🏻‍🌾广东电信酒店源 20250713💔",
-   "type": "0",
-   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%E9%85%92%E5%BA%97%E6%BA%90.txt"
  },
  {"name":"🍅秘密花园 密码48620💔",
 "type":0,
