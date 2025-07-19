@@ -570,3 +570,15 @@ RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+🍅☘️色色【】,#genre#
+pigo,http://111.226.214.122:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bae8cbf22152f2b790e6998cfc2b306.flv
+极限,http://112.19.1.169:80/ali2-wt-live-pull.fb-games-rel.cc/live/0a9f107551a0f1771607a2086747b8fc.flv
+happy,http://112.19.1.169:80/ali2-wt-live-pull.fb-games-rel.cc/live/5661822d84db590396b45c82c4dd8b80.flv
+香蕉,http://pullsstx.peiyou.eaydu.com:80/live/0e70e43eb0edcada4c9f194c711ee57b.flv
+惊艳,http://pullsstx.peiyou.eaydu.com:80/live/b2b0fd428833d02759b5fa5ab9fec128.flv
+潘朵拉,http://pullsstx.peiyou.eaydu.com:80/live/6f8c87c0bc2d5ef3d1ff2bda46857706.flv
+彩虹电影,http://pullsstx.peiyou.eaydu.com:80/live/38eb570f632ca743d3bfb3eb4688a965.flv
+K频道,http://pullsstx.peiyou.eaydu.com:80/live/48f822a189a9a98f95cb210a993170c6.flv
+E频道,http://182.201.241.19:80/ali2-wt-live-pull.fb-games-rel.cc/live/33c6954d6f5ca6efdb190b193141cbd9.flv
+松视3,http://60.213.135.97:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bebaaab9624d99f73ec3f58156e3e6e.flv
+松视1,http://pullsstx.peiyou.eaydu.com:80/live/141171309f55485e19b6504366364767.flv
