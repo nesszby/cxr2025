@@ -39,7 +39,7 @@
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
  {
-      "name": "Anbox Channels II/一盒｜International","
+      "name": "Anbox Channels II/一盒｜International",
       "type": 0,
       "url": "https://firebase.anbox118.workers.dev/",
       "playerType": 2,
