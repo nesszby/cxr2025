@@ -207,6 +207,15 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
+            "name": "📺11m直播源",
+            "type": 0,
+            "url": "https://igdux.top/7Rm8",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+ {
       "name": "🧲MQitv59 20250609，106个频道",
       "api": "csp_MQiTV",
       "ua": "okhttp",
