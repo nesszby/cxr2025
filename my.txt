@@ -534,3 +534,94 @@ K频道,http://pullsstx.peiyou.eaydu.com:80/live/48f822a189a9a98f95cb210a993170c
 E频道,http://182.201.241.19:80/ali2-wt-live-pull.fb-games-rel.cc/live/33c6954d6f5ca6efdb190b193141cbd9.flv
 松视3,http://60.213.135.97:80/ali2-wt-live-pull.fb-games-rel.cc/live/7bebaaab9624d99f73ec3f58156e3e6e.flv
 松视1,http://pullsstx.peiyou.eaydu.com:80/live/141171309f55485e19b6504366364767.flv
+🍅📺YouTube 新聞,#genre#
+民視新聞,https://www.youtube.com/live/ylYJSBUgaMA?si=e-d0Ns2EB36iyW_3
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立NEWS+,https://www.youtube.com/live/MV9mI0GChwo?si=e-d0Ns2EB36iyW_3
+三立NEWS+,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立新聞,https://www.youtube.com/live/pF507BLtbqU?si=e-d0Ns2EB36iyW_3
+三立新聞,https://www.youtube.com/watch?v=pF507BLtbqU
+公視新聞,https://www.youtube.com/live/quwqlazU-c8?si=e-d0Ns2EB36iyW_3
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+非凡商業,https://www.youtube.com/live/NHQDx8vCrC4?si=e-d0Ns2EB36iyW_3
+非凡商業,https://www.youtube.com/watch?v=NHQDx8vCrC4
+台視新聞,https://www.youtube.com/live/xL0ch83RAK8?si=6PbDs2DOrlT9Og14
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+華視新聞,https://www.youtube.com/live/wM0g8EoUZ_E?si=6PbDs2DOrlT9Og14
+華視新聞,https://www.youtube.com/watch?v=7lxXN3zIr-I
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o?si=xubbPSDWCPgY2yxM
+寰宇新聞,https://www.youtube.com/live/6IquAgfvYmc?si=pOtAi2jJyFbMjUNk
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣台,https://www.youtube.com/live/w87VGpgd90U?si=pOtAi2jJyFbMjUNk
+寰宇新聞台灣台,https://m.youtube.com/live/w87VGpgd90U
+東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
+東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
+東森新聞,https://37.27.111.214:8080/live/20/hls.m3u8
+東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
+東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://m.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
+TVBS新聞,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtcK
+中天新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv00
+中天新聞,https://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+中天新聞,http://www.youtube.com/live/oIgbl7t0S_w?feature=share
+非凡新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv010
+台視財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv056
+國際財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv104
+台視,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv066
+中視,http://37.27.111.214:8080/live/7/hls.m3u8
+中視,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv040
+華視,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv041
+民視,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv002
+民視,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv155
+TVBS,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv073
+國會頻道1,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv084
+國會頻道2,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv085
+第1商業台,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv109
+唯心電視台,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8&data=normal
+新唐人,http://www.youtube.com/watch?v=WIhgU_mc05A
+澳洲ABCNews,http://www.youtube.com/watch?v=vOTiJkg1voo
+ABC News,http://www.youtube.com/live/-mvUkiILTqI
+CCTV中文國際,http://www.youtube.com/watch?v=bEZYrBMYNNg
+CNN News,http://www.youtube.com/watch?v=78UnBnAidZ0-
+DW,http://www.youtube.com/watch?v=pqabxBKzZ6M
+DW德國之聲,https://youtu.be/tZT2MCYu6Zw
+Euronews English,http://www.youtube.com/live/pykpO5kQJ98
+Euronews English,http://www.youtube.com/watch?v=pykpO5kQJ98
+Fox new,http://www.youtube.com/watch?v=YDfiTGGPYCk
+FRANCE 24,http://www.youtube.com/watch?v=h3MuIUNCCzI
+HTB北海道,http://www.youtube.com/live/d8CrKBU99Hg
+KBS KOREA,http://www.youtube.com/watch?v=HnfpTMtfFk8
+KOMPASTV,http://www.youtube.com/watch?v=4rmf-lk3ito
+mnews鏡新聞,http://www.youtube.com/live/5n0y6b0Q25o
+NASA Live,http://www.youtube.com/live/nA9UZF-SZoQ
+Nat geo wild,http://www.youtube.com/watch?v=BJ3Yv572V1A
+NBC NEW,http://www.youtube.com/watch?v=7-JR7DjKF_c
+NHK WORLD,http://www.youtube.com/watch?v=f0lYkdA-Gtw
+Sky News,http://www.youtube.com/watch?v=w9uJg68CV4g
+TVBS HD,https://m.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
+TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
+CBS哥倫比亞廣播系統新聞(CBS),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8&data=normal
+CNN有線電視新聞網(CNN),https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8&data=normal
+CNN有線電視新聞網(CNN),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8&data=normal
+CNN有線電視新聞網(CNN),https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8&data=normal
+福斯直播(美國偏保守派)(LiveNOW from FOX),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8&data=normal
+彭博財經電視(美國財經)(Bloomberg Television),https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8&data=normal
+RT俄羅斯今日電視台(俄羅斯)(RT News),https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8&data=normal
+BBC英國廣播公司新聞(英國)(BBC News),https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8&data=normal
+BBC英國廣播公司新聞(英國)(BBC News),https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8&data=normal
+亞洲新聞(新加坡)(CNA),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8&data=normal
+日本廣播協會(日本)(NHK World)(各地字幕),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zt/playlist-back.m3u8&data=normal
+鳳凰資訊,http://www.youtube.com/watch?v=sUISafvOieY
+TVBS56,http://www.youtube.com/watch?v=YvdcZ_jpLXE
+東森Live,http://www.youtube.com/watch?v=S5WOGu2HSes
