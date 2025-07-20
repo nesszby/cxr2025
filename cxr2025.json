@@ -35,17 +35,7 @@
             "ua": "xieanqishiwoerzi/0.0.1"
  },
  {
-       
-      "name": "🏠Anbox118 smarttv Channels,serv00.net",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://a90120.serv00.net/anbox/haoyunlai.txt",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- {
-      "name": "Anbox Channels II/一盒｜International",
+      "name": "📺Anbox Channels II/一盒｜International🏠",
       "type": 0,
       "url": "https://firebase.anbox118.workers.dev/",
        "ua": "okhttp",
