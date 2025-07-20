@@ -42,8 +42,7 @@
       "name": "Anbox Channels II/一盒｜International",
       "type": 0,
       "url": "https://firebase.anbox118.workers.dev/",
-      "playerType": 2,
-      "ua": "okhttp",
+       "ua": "okhttp",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
