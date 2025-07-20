@@ -39,6 +39,15 @@
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
  {
+      "name": "Anbox Channels II/一盒｜International","
+      "type": 0,
+      "url": "https://firebase.anbox118.workers.dev/",
+      "playerType": 2,
+      "ua": "okhttp",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+ {
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
     "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
