@@ -14,7 +14,7 @@
       "ua": "bingcha/0.1"
   },
   {
-            "name": "🍈📺ofiii直播20250702 【挂T台湾美国】",
+            "name": "🍈📺ofiii直播20250702 【挂T台湾美国💔】",
             "type": "0",
             "pass": true,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/Sub.m3u",
@@ -28,7 +28,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
  {
-            "name": "💔mytv123直播20250718 【挂T紅杏台湾美国】",
+            "name": "💔mytv123直播20250718 【挂T台湾美国】",
             "type": "0",
             "pass": true,
             "url": "http://38.207.136.230:30000/mytv.m3u?token=mytv123",
