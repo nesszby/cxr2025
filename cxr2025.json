@@ -204,7 +204,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
  {
-            "name": "📺驸马影视•国内IPTV",
+            "name": "💔📺驸马影视•国内IPTV",
             "type": 0,
             "url": "https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
