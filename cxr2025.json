@@ -62,9 +62,10 @@
     "ext": { }
   },
   {
-    "name" : "💔5008.M3U 接口20250721【挂T香港台湾美国】🧑🏻‍🌾",
+    "name" : "💔4GTV 免t 20250721🧑🏻‍🌾",
     "type" : 3,
-    "url": "https://github.com/cxr9912/cxr2025/blob/main/5008.m3u",
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV-TS.m3u",
+    "ua": "xieanqishiwoerzi/0.0.1",
     "ext": { }
   },
   {
