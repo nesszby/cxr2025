@@ -615,3 +615,40 @@ BBC英國廣播公司新聞(英國)(BBC News),https://i.mjh.nz/SamsungTVPlus/US4
 鳳凰資訊,http://www.youtube.com/watch?v=sUISafvOieY
 TVBS56,http://www.youtube.com/watch?v=YvdcZ_jpLXE
 東森Live,http://www.youtube.com/watch?v=S5WOGu2HSes
+🍅☘️直连测试,#genre#
+HOY TV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
+ViuTV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
+TVB1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/c55985eebf76a91b12f259549118ed86.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/76a5bea61a9b95235ecc8e10efa23a1f.flv
+明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/c5220acf319f65ba0161a8d82760ed1d.flv
+华丽翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/afef8d032299c6cae821da210c3f0975.flv
+无线新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/8909061706b522e5620dbfe2b5f7d33e.flv
+Astro AOD,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fe563af50ab5d0fa39513daf2e25e8e9.flv
+TVB亚洲武侠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/bdb59ec9d515cdad77fe2ed50899adac.flv
+广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
+鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
+鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
+鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
+中國電影頻道,http://bx.757888.xyz/api.php?id=zgdy
+翡翠台,http://bx.757888.xyz/api.php?id=fct
+TVB PLUS,http://bx.757888.xyz/api.php?id=tvbp
+明珠台,http://bx.757888.xyz/api.php?id=mz
+無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
+美亞電影台,http://bx.757888.xyz/api.php?id=meiya
+天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
+東森電影,http://bx.757888.xyz/api.php?id=dsdy
+龍華電影,http://bx.757888.xyz/api.php?id=lhdy
+🍅☘️直连测试2,#genre#
+翡翠台字幕,http://edge2.163189.xyz/o12.php?id=fct
+明珠台字幕,http://edge2.163189.xyz/o12.php?id=mzt
+HOY TV,https://edge.163189.xyz/163189/hoy
+凤凰资讯,https://edge.163189.xyz/163189/fhzx
+凤凰香港,https://edge.163189.xyz/163189/fhhk
+无线新闻台,https://edge.163189.xyz/163189/wxxw
+八度空间,https://edge.163189.xyz/163189/8tv
+CH5,https://edge.163189.xyz/163189/ch5
+CH8,https://edge.163189.xyz/163189/ch8
+CHU,https://edge.163189.xyz/163189/chu
+
