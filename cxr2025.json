@@ -124,11 +124,6 @@
    "type": "0",
    "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E5%BD%B1%E8%A7%86%E4%B8%93%E7%94%A8.txt"
  }, 
-{
-   "name": "♾️🍄南充my.txt 20250628🍄🍄🍄💔",
-   "type": "0",
-   "url":"https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
- },
   {
    "name": "♾️🍄aktv 20250618🍄🍄🍄💔",
    "type": "0",
@@ -149,7 +144,8 @@
   {
             "name": "🍪【Webview直播 20250622】",
             "type": 0,
-            "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/webview.txt",
+            #"url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/webview.txt",
+             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/webview.m3u",
             "playerType":1,
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
   },
