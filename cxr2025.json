@@ -51,13 +51,13 @@
     },
  {
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
-    "type" : 3,
+    "type" : 0,
     "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
     "ext": { }
   },
   {
     "name" : "💔xn--elt51t4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
-    "type" : 3,
+    "type" : 0,
     "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u",
     "ext": { }
   },
@@ -68,6 +68,7 @@
     "ua": "xieanqishisb/0.0.1",
     "ext": { }
   },
+  {"name": "🥓HKTV直播kkk.888.3116598.xyz源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
   {
     "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod20250707【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
@@ -303,7 +304,7 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
- {"name": "🥓HKTV直播kkk.888.3116598.xyz源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
+
  {"name": "🥎日后·电视直播","type":0,"url":"http://rihou.cc:555/gggg.nzk", "jar": "http://rihou.cc:555/jar/nzk0722.jar","playerType":1},
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
