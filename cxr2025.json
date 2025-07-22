@@ -69,6 +69,14 @@
     "ext": { }
   },
   {"name": "🥓HKTV直播kkk.888.3116598.xyz源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
+ {
+            "name": "💔抖音推流 20250719 🐟🐟",
+            "type": "0",
+            "pass": true,
+            "url": "http://is.is-great.org/i/2878938.txt",
+   "ua": "xieanqishisb/0.0.1",
+             "ext" : {}
+ },
   {
     "name" : "🧑🏻‍🌾♾️🍄Smt直播catvod20250707【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
@@ -189,7 +197,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
-
  {
             "name": "📺南风直播源",
             "type": 0,
@@ -199,7 +206,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
-
  {
       "name": "🧲MQitv59 20250609，106个频道",
       "api": "csp_MQiTV",
@@ -211,16 +217,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
- 
-
-  {
-            "name": "💔抖音推流 20250719 【挂T紅杏台湾美国】",
-            "type": "0",
-            "pass": true,
-            "url": "http://is.is-great.org/i/2878938.txt",
-   "ua": "xieanqishisb/0.0.1",
-             "ext" : {}
- },
    {
    "name": "🍅AVmovie50302💔",
    "type": "0",
