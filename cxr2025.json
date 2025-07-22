@@ -148,6 +148,14 @@
     "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
+  {
+            "name": "♾️YouTubeLive每6小时自动抓取",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/youtubelive.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
  {
    "name": "♾️😑白嫖军团💔",
    "type": "0",
@@ -174,15 +182,6 @@
 "epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 },
-
- {
-            "name": "♾️YouTubeLive每6小时自动抓取",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/youtubelive.m3u",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
  {
             "name": "💔📺驸马影视•国内IPTV",
             "type": 0,
@@ -258,15 +257,7 @@
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
-  {
-            "name": "📺11m直播源",
-            "type": 0,
-            "url": "https://igdux.top/7Rm8",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
+
   {
             "name": "🍑快直播[低码率]",
             "type": 0,
