@@ -262,7 +262,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
- {"name": "🥎日后·电视直播","type":0,"url":"http://rihou.cc:555/gggg.nzk", "jar": "http://rihou.cc:555/jar/nzk0722.jar","playerType":1},
+ {"name": "🥎日后·电视直播","type":0,"url":"http://rihou.cc:555/gggg.nzk", "jar": "http://rihou.cc:555/jar/nzk0722.jar","ua": "Goiptv/0.0.1","playerType":1},
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
   {"name": "💔传说公益直播","type": 0,"url": "http://hui.guo.my/cs.php?type=m3u&key=ubabc","playerType":1},
