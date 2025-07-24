@@ -53,12 +53,16 @@
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
+     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
      "playerType":1
   },
   {
     "name" : "💔xn--elt51t4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u",
+    "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
    "playerType":1
   },
   {
@@ -68,7 +72,7 @@
     "ua": "Goiptv/0.0.1",
     "ext": { }
   },
-  {"name": "🥓HKTV直播kkk.888.3116598.xyz源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
+ 
  {
             "name": "💔抖音推流 20250719 🐟🐟",
             "type": "0",
@@ -237,7 +241,7 @@
       "playerType": 1
     },
   {
-      "name": "🔞💔💎成人精品快餐💎💔",
+      "name": "🔞💔💎精品快餐💎💔",
       "type": 0,
       "url": "https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt",
       "playerType": 1
@@ -278,7 +282,7 @@
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
   {"name": "💔传说公益直播","type": 0,"url": "http://hui.guo.my/cs.php?type=m3u&key=ubabc","playerType":1},
- {"name": "💔hu直播","type": 0,"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt","playerType":1},
+ {"name": "💔hu直播央卫视","type": 0,"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt","playerType":1},
   {"name": "💔易发APP","type": 0,"url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt","playerType":1},
   {
 "name": "🌸快直播(20250608)",
