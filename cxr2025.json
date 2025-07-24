@@ -53,13 +53,13 @@
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
-    "ext": { }
+     "playerType":1
   },
   {
     "name" : "💔xn--elt51t4Gtv+5008接口20250711【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u",
-    "ext": { }
+   "playerType":1
   },
   {
     "name" : "💔4GTV 免t my [github]20250721🧑🏻‍🌾",
