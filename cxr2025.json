@@ -50,7 +50,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
  {
-    "name" : "🧑晓峰4Gtv+5008接口20250711【挂T红杏香港台湾美国】🧑🏻‍🌾",
+    "name" : "🧑晓峰4Gtv+5008接口20250711【挂T红杏香港台湾美国，影视可以，OK，OKpro不行】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -58,7 +58,7 @@
      "playerType":1
   },
   {
-    "name" : "💔xn--elt51t4Gtv+5008接口20250711【挂T红杏香港台湾美国】🧑🏻‍🌾",
+    "name" : "💔xn--elt51t4Gtv+5008接口20250711【挂T红杏香港台湾美国，影视可以，OK，OKpro不行】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u",
     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -66,7 +66,7 @@
    "playerType":1
   },
    {
-    "name" : "💔5008.m3u 20250711【挂T红杏节点香港台湾美国】🧑🏻‍🌾",
+    "name" : "💔5008.m3u 20250711【挂T红杏节点香港台湾美国，影视可以，OK，OKpro不行】🧑🏻‍🌾",
     "type" : 0,
     "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/5008.m3u",
     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
