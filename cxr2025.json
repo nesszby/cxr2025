@@ -39,7 +39,7 @@
             "type": "0",
             "pass": true,
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
-            "ua": "xieanqishisb/0.0.1"
+            "ua": "Goiptv/0.0.1"
  },
  {
       "name": "📺秒播 20250720🏠",
@@ -65,7 +65,7 @@
     "name" : "💔4GTV 免t 20250721🧑🏻‍🌾",
     "type" : 0,
     "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV-TS.m3u",
-    "ua": "xieanqishisb/0.0.1",
+    "ua": "Goiptv/0.0.1",
     "ext": { }
   },
   {"name": "🥓HKTV直播kkk.888.3116598.xyz源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
@@ -74,7 +74,7 @@
             "type": "0",
             "pass": true,
             "url": "http://is.is-great.org/i/2878938.txt",
-   "ua": "xieanqishisb/0.0.1",
+   "ua": "Goiptv/0.0.1",
              "ext" : {}
  },
   {
@@ -140,13 +140,13 @@
   {
             "name": "🍪🍄【4gtv直播 20250615】🍄💔",
             "type": 0,
-            "ua": "xieanqishisb/0.0.1",
+            "ua": "Goiptv/0.0.1",
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E6%B8%AF%E6%BE%B34Gtv.txt"
   },
   {
             "name": "🍄【4GTV+AKTV 20250715】🍄",
             "type": 0,
-            "ua": "xieanqishisb/0.0.1",
+            "ua": "Goiptv/0.0.1",
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/2583941.txt"
   },
   {
