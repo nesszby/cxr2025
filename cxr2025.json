@@ -35,7 +35,7 @@
              "ext" : {}
  },
   {
-            "name": "🍈📺 IPTV研究所【过期时间：7/27/2025, 12:05:28 PM】",
+            "name": "🍈📺 IPTV研究所【过期时间：7/30/2025, 12:05:28 PM】",
             "type": "0",
             "pass": true,
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
@@ -81,9 +81,9 @@
    "playerType":1
   },
   {
-    "name" : "💔4GTV 免t my [github]20250721🧑🏻‍🌾",
+    "name" : "💔4GTV 免T judy.diver.eu.org 20250721🧑🏻‍🌾",
     "type" : 0,
-    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV-TS.m3u",
+    "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u",
     "ua": "Goiptv/0.0.1",
     "ext": { }
   },
