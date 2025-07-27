@@ -87,6 +87,12 @@
     "ua": "Goiptv/0.0.1",
     "ext": { }
   },
+  {
+    "name" : " 🐟🐟四季（要台湾节点）20250725🧑🏻‍🌾",
+    "type" : 0,
+    "url": "http://xtvantsc.xyz/4gtv.txt",
+    "ext": { }
+  },
  
  {
             "name": "💔抖音推流 20250719 🐟🐟",
@@ -94,6 +100,13 @@
             "pass": true,
             "url": "http://is.is-great.org/i/2878938.txt",
    "ua": "Goiptv/0.0.1",
+             "ext" : {}
+ },
+ {
+            "name": "💔mpd(用新加坡节点) 20250725 🐟🐟",
+            "type": "0",
+            "pass": true,
+            "url": "http://xtvantsc.xyz/MALAYSIA.m3u",
              "ext" : {}
  },
   {
