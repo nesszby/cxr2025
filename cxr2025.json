@@ -226,7 +226,6 @@
    "name": "💔所长的mytv订阅  20250727💔",
    "type": "0",
    "url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
- "ua":"okhttp/5.0.0-alpha.14",
 "epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 },
