@@ -235,7 +235,8 @@
    "type": "0",
    "url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
 "epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+   "ua":"judy/5.2.1"
 },
  {
             "name": "💔📺驸马影视•国内IPTV",
