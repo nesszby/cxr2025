@@ -15,14 +15,14 @@
       "ua": "bingcha/0.1"
   },
   {
-            "name": "🍈📺ofiii直播20250702 【挂T台湾美国💔】",
+            "name": "🍈📺ofiii直播20250702 【挂T挑节点哪吒台湾美国💔】",
             "type": "0",
             "pass": true,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/Sub.m3u",
              "ua": "okhttp/3.15"
  },
   {
-            "name": "🐟🐟mytv0 cdn.veryfast.filegear-sg.me 20250730 💔",
+            "name": "🐟🐟港台mytv0 cdn.veryfast.filegear-sg.me 挑节点20250730 💔",
             "type": "0",
             "pass": true,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
@@ -36,7 +36,7 @@
              "ua": "okhttp/3.15"
  },
   {
-            "name": "🌸LiTV[挂T台湾美国xg.52sw.top]🐟",
+            "name": "🌸LiTV[挂T台湾美国xg.52sw.top]红杏红叶44388台湾🐟",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/litv.php",
             "ua": "okhttp/3.15",
@@ -114,15 +114,7 @@
     "type" : 0,
     "url": "http://xtvantsc.xyz/4gtv.txt",
     "ext": { }
-  },
- 
- {
-            "name": "💔SMT接口推流 20250729 🐟🐟",
-            "type": "0",
-            "pass": true,
-            "url": "http://zz.zoho.to/i/?T=SMT",
-             "ext" : {}
- },
+  },                       
  {
             "name": "💔mpd(用新加坡节点) 20250725 🐟🐟",
             "type": "0",
