@@ -22,6 +22,13 @@
              "ua": "okhttp/3.15"
  },
   {
+            "name": "🐟🐟mytv0 cdn.veryfast.filegear-sg.me 20250730 💔",
+            "type": "0",
+            "pass": true,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
+             "ua": "okhttp/3.15"
+ },
+  {
             "name": "🌸LiTV[挂T台湾美国xg.52sw.top]🐟",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/litv.php",
