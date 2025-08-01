@@ -29,26 +29,19 @@
              "ua": "okhttp/3.15"
  },
  {
-            "name": "🐟🐟yibo.tv1288.xyz/000000 20250730 💔",
+            "name": "🐟🐟央卫yibo.tv1288.xyz/000000 20250730 💔",
             "type": "0",
             "pass": true,
             "url": "https://yibo.tv1288.xyz/000000",
              "ua": "okhttp/3.15"
  },
   {
-            "name": "🌸LiTV[挂T台湾美国xg.52sw.top]红杏红叶44388台湾🐟",
+            "name": "🌸💔LiTV[挂T台湾美国xg.52sw.top]红杏红叶44388台湾🐟",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/litv.php",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
- {
-            "name": "💔黄鱼资源 两年前的肇庆移动源 202500729 ",
-            "type": "0",
-            "pass": true,
-            "url": "https://10238.kstore.space/hyzy.m3u",
-             "ext" : {}
- },
   {
             "name": "💔mytv123直播20250718 【挂T台湾美国】",
             "type": "0",
@@ -57,7 +50,7 @@
              "ext" : {}
  },
   {
-            "name": "🍈📺 IPTV研究所【过期时间：8/2/2025, 10:37:44 AM】",
+            "name": "🍈📺 IPTV研究所【过期时间：8/4/2025, 10:36:31 AM】",
             "type": "0",
             "pass": true,
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
