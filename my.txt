@@ -127,8 +127,26 @@ CCTV14少儿,http://zqh2333.top:2222/rtp/239.93.25.29:6000
 CCTV15音乐,http://zqh2333.top:2222/rtp/239.93.24.103:5140
 CCTV16奥林匹克,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV17农业农村,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CCTV5+体育赛事,http://zqh2333.top:2222/rtp/239.93.24.36:8004
-🌌☘️港台0721,#genre#
+
+🌌☘️港台20250802,#genre#
+-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+-tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+-HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+-美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+-八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+-八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+中天新闻频,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889911.flv
+中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
+
 🌌☘️📡广东本地🍅,#genre#
 🥮港台频道🍅,#genre#
 翡翠台腾讯云,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
@@ -152,10 +170,16 @@ HOY TV,https://edge.163189.xyz/163189/hoy
 八度空间,https://edge.163189.xyz/163189/8tv
 CH8,https://edge.163189.xyz/163189/ch8
 凤凰资讯,https://edge.163189.xyz/163189/fhzx
-🍅☘️广东和香港频道【PLTV】,#genre#
+🌌☘️📡广东本地🍅,#genre#
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+湛江新闻综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+湛江新闻综合,http://feng163.com:4022/udp/239.77.0.141:5146
+湛江新闻综合,http://plex.cyruslee.top:8888/udp/239.77.0.141:5146
+湛江公共频道,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
+阳江公共频道,https://live.yjtvw.com:8081/live/yjtv2.m3u8
+🍅☘️香港频道【PLTV】,#genre#
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
