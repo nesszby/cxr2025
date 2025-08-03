@@ -179,6 +179,13 @@ CH8,https://edge.163189.xyz/163189/ch8
 湛江新闻综合,http://plex.cyruslee.top:8888/udp/239.77.0.141:5146
 湛江公共频道,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
 阳江公共频道,https://live.yjtvw.com:8081/live/yjtv2.m3u8
+广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
+广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 🍅☘️香港频道【PLTV】,#genre#
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
