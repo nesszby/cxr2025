@@ -5,8 +5,8 @@
             "name": "🐟🐟🍄陈湘儒myTV🍄🐟🐟",
             "type": 0,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/my.txt",
-           
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+           "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
   {
    "name": "💎【冰茶】【央视卫视直播 20250715】💎",
