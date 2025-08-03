@@ -89,10 +89,9 @@
    "playerType":1
   },
   {
-    "name" : "💔♾️🍄154.219.113.217:8080接口20250724【挂T红杏秋名山香港台湾美国】🧑🏻‍🌾",
+    "name" : "🐟🐟154.219.113.217:8080接口20250724【挂T红杏秋名山香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://154.219.113.217:8080/iptv?type=m3u&token=112233",
-    "ua": "okhttp/3.15",
    "playerType":1
   },
 
@@ -101,7 +100,13 @@
     "type" : 0,
     "url": "http://xtvantsc.xyz/4gtv.txt",
     "ext": { }
-  },     
+  }, 
+ {
+    "name" : " 🐟🐟河南卫视20250803🧑🏻‍🌾",
+    "type" : 0,
+    "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+    "ext": { }
+  }, 
   {
     "name" : " 🐟🐟zhangqun1818斯玛特代理20250803🧑🏻‍🌾",
     "type" : 0,
@@ -210,7 +215,7 @@
   {
    "name": "🍅SmartTV000.m3u 20250729💔",
    "type": "0",
-   "url":"http://47.91.17.126:20002/SmartTV000.m3u"
+   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/SmartTV000.m3u"
  },
   {
 "name":"📺Gather电视央卫视咪咕视频",
