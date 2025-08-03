@@ -98,7 +98,7 @@
   {
     "name" : "💔4GTV 免T judy.diver.eu.org 20250721🧑🏻‍🌾",
     "type" : 0,
-    "url": "https://judy.diver.eu.org/m3u/4GTV-TS.m3u",
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV-TS.m3u",
     "ua": "Goiptv/0.0.1",
     "ext": { }
   },
