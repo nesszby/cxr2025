@@ -159,7 +159,8 @@
  {
    "name": "💔7tv.anbox.ip-ddns.com 20250804💔💔",
 "url": "https://tv.anbox.ip-ddns.com/live"
-"playerType": 1
+"playerType": 1,
+    "ext": { }
 },
  
   {
