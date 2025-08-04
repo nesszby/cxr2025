@@ -148,10 +148,10 @@
     "ext": { }
   },
  {
-   "name": "💔💔tv.anbox.ip-ddns.com 20250804💔💔",
-   "type": "0",
-   "url":"https://tv.anbox.ip-ddns.com/live/",
- "ua":"okhttp/3.15",
+   "name": "💔tv.anbox.ip-ddns.com 20250804💔💔",
+  
+   "url":"https://tv.anbox.ip-ddns.com/live",
+
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
