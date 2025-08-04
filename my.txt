@@ -641,5 +641,24 @@ HOY TV,http://fast.163189.xyz/163189/hoy
 CH5,http://fast.163189.xyz/163189/ch5
 CH8,http://fast.163189.xyz/163189/ch8
 CHU,http://fast.163189.xyz/163189/chu
-
+🍅☘️色色,#genre#
+极限,http://cdn-pull-tx.hntv.tv:80/live/927240778c8cf9973acc987298343ce1.flv
+happy,http://cdn-pull-tx.hntv.tv:80/live/d50dcd7a8e213e3b2d6ac4a0020f21e2.flv
+香蕉,http://cdn-pull-tx.hntv.tv:80/live/79e00c2416d30fc2694eec17b4da4f12.flv
+惊艳http://pullsstx.peiyou.eaydu.com:80/live/b3883fbb1bb1e5885510d0e21307b5eb.m3u8
+潘朵拉,http://cdn-pull-tx.hntv.tv:80/live/ce239ccd448dd8be52f4ae9e09fbb39d.flv
+彩虹电影http://pullsstx.peiyou.eaydu.com:80/live/33309fd002dbfeeabd88ab98914fa454.m3u8
+K频道,http://cdn-pull-tx.hntv.tv:80/live/4b0bc9fcaf2c77c8d47f3a7d38ea45d5.flv
+E频道,http://cdn-pull-tx.hntv.tv:80/live/883b47f5f2dc5c0b9212db38161ec781.flv
+松视3,http://cdn-pull-tx.hntv.tv:80/live/a601011962c23d39784de9a1f7ad0626.flv
+松视1,http://cdn-pull-tx.hntv.tv:80/live/1a4afa94badc84bdef543f3c12c6c207.flv
+凤凰中文台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhzwtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+凤凰资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhzxtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+NOW新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxwtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+NOW资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowzxtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+面包台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/mbtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+HOY76,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy76oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy77oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy78oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+广东珠江台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gdzjtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
 
