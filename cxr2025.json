@@ -148,12 +148,14 @@
     "ext": { }
   },
  {
-   "name": "💔tv.anbox.ip-ddns.com 20250804💔💔",
+   "name": "💔4tv.anbox.ip-ddns.com 20250804💔💔",
   
-   "url":"https://tv.anbox.ip-ddns.com/live",
+  "url": "https://tv.anbox.ip-ddns.com/live",
 
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
+"logo":"https://epg.112114.xyz/logo/{name}.png"，
+  "timeout": 30,
+   "playerType": 1
 },
 
  
