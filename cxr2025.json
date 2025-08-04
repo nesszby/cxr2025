@@ -150,7 +150,8 @@
   {
    "name": "🍅tv.anbox.ip-ddns.com 20250804💔",
    "type": "0",
-   "url":"https://tv.anbox.ip-ddns.com/live"
+   "url":"https://tv.anbox.ip-ddns.com/live",
+    "ext": { }
  },
   {
    "name": "🍄💔breezy选节点20250608【挂T台湾非CF节点】🌸",
