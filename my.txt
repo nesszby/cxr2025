@@ -652,13 +652,5 @@ K频道,http://cdn-pull-tx.hntv.tv:80/live/4b0bc9fcaf2c77c8d47f3a7d38ea45d5.flv
 E频道,http://cdn-pull-tx.hntv.tv:80/live/883b47f5f2dc5c0b9212db38161ec781.flv
 松视3,http://cdn-pull-tx.hntv.tv:80/live/a601011962c23d39784de9a1f7ad0626.flv
 松视1,http://cdn-pull-tx.hntv.tv:80/live/1a4afa94badc84bdef543f3c12c6c207.flv
-凤凰中文台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhzwtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-凤凰资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhzxtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-NOW新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxwtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-NOW资讯台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowzxtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-面包台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/mbtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-HOY76,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy76oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy77oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy78oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
-广东珠江台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gdzjtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
+
 
