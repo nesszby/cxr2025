@@ -148,8 +148,9 @@
     "ext": { }
   },
  {
-   "name": "💔4tv.anbox.ip-ddns.com 20250804💔💔",
-  "url": "https://tv.anbox.ip-ddns.com/live",
+   "name": "💔5tv.anbox.ip-ddns.com 20250804💔💔",
+ "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
+ "url": "https://tv.anbox.ip-ddns.com/live",
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
  "timeout": 30,
