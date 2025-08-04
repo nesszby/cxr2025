@@ -150,7 +150,7 @@
   {
    "name": "🍅tv.anbox.ip-ddns.com 20250804💔",
    "type": "0",
-   "url":"https://tv.anbox.ip-ddns.com/live",
+   "api":"https://tv.anbox.ip-ddns.com/live",
     "ext": { }
  },
   {
