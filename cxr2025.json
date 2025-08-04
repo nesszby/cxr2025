@@ -154,6 +154,16 @@
    "url":"https://tv.anbox.ip-ddns.com/live",
     "ext": { }
  },
+ {
+   "name": "💔💔tv.anbox.ip-ddns.com 20250804💔💔",
+   "type": "0",
+   "url":"https://tv.anbox.ip-ddns.com/live",
+ "ua":"okhttp/3.15",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+ 
   {
    "name": "🍄💔breezy选节点20250608【挂T台湾非CF节点】🌸",
    "type": "0",
@@ -224,8 +234,8 @@
    "type": "0",
    "url":"https://tv.iill.top/m3u/MyTV",
  "ua":"okhttp/5.0.0-alpha.14",
-"epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
 },
   {
    "name": "💔所长的mytv订阅  20250727💔",
