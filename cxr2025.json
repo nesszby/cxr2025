@@ -301,6 +301,13 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
+ {
+  "name": "🔞💔FreesHot(python)",
+  "type": 3,
+  "api": "https://d.kstore.dev/download/14756/python/live_freeshot.py",
+  "ext": {}
+},
+
   {
             "name": "🔞💔173.txt",
             "type": 0,
