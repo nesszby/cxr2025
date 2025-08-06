@@ -79,14 +79,14 @@
       "type": 0,
       "url": "https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt",
        "ua": "okhttp",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
  {
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T红杏香港台湾美】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
-     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
      "playerType":1
   },
@@ -94,7 +94,7 @@
     "name" : "💔xn--elt51接口20250711【挂T红杏香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
     "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u",
-    "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
    "playerType":1
   },
@@ -150,7 +150,7 @@
       "ua": "okhttp/3.15",
       "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart2025.txt",
       "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
  {
