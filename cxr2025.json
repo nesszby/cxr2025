@@ -15,11 +15,25 @@
       "ua": "bingcha/0.1"
   },
  {
-   "name": "💔【收集】【央视卫视直播 20250805】💎",
-   "type": 0,
-      "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/r.m3u8",
-      "ua": "okhttp/3.15"
-  },
+      "name": "(翻墙)SMT直播(python)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    },
+    
+ {
+      "name": "(翻墙)BeeSport直播(python)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com"
+      }
+    },
   {
             "name": "🍈📺ofiii直播20250702 【挂T挑节点哪吒台湾美国💔】",
             "type": "0",
@@ -308,7 +322,7 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
  {
-  "name": "🔞💔FreesHot(python)",
+  "name": "🔞💔(翻墙)(18+)FreesHot(python)",
   "type": 3,
   "api": "https://d.kstore.dev/download/14756/python/live_freeshot.py",
   "ext": {}
