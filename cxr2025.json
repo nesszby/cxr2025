@@ -25,15 +25,6 @@
       }
     },
     
- {
-      "name": "(翻墙)BeeSport直播(python)",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14756/python/live_beesport.py",
-      "ext": {},
-      "header": {
-        "Referer": "https://p.m82xg4z0cdbz7.com"
-      }
-    },
   {
             "name": "🍈📺ofiii直播20250702 【挂T挑节点哪吒台湾美国💔】",
             "type": "0",
@@ -336,6 +327,15 @@
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
+ {
+      "name": "(翻墙)BeeSport直播(python)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com"
+      }
+    },
 
   {
             "name": "🍑快直播[低码率]",
