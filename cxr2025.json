@@ -29,7 +29,7 @@
             "type": "0",
             "pass": true,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/Sub.m3u",
-               "ext": {"proxy": {"http": "http://127.0.0.1:7897"  "https": "http://127.0.0.1:7897" } },
+               "ext": {"proxy": {"http":"http://127.0.0.1:7897"  "https": "http://127.0.0.1:7897" } },
              "ua": "okhttp/3.15"
  },
     
