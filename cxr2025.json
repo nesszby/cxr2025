@@ -33,11 +33,12 @@
  },
     
   {
-            "name": "💔肥羊的阿里云企业Dns套餐【央视卫视直播 20250806】",
+            "name": "💔肥羊的阿里云企业Dns套餐【央视卫视直播 20250808】",
             "type": "0",
             "pass": true,
-            "url": "https://sub.ottiptv.cc/iptv.m3u",
-             "ua": "Goiptv/0.0.1"
+             "ua": "Goiptv/0.0.1",
+            "url": "https://sub.ottiptv.cc/iptv.m3u"
+             
  },
   {
             "name": "🐟🐟港台mytv0 cdn.veryfast.filegear-sg.me 挑节点20250730 💔",
