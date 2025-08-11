@@ -33,11 +33,11 @@
  },
     
   {
-            "name": "💔Mursor大佬固定列表直播【央视卫视直播 20250808】",
+            "name": "💔Mursor大佬直播【央视卫视直播 20250808】",
             "type": "0",
             "pass": true,
-             "ua": "Goiptv/0.0.1",
-            "url": "https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u"
+             "ua": "okHttp/Mod-1.0.0",
+            "url": "https://sub.ottiptv.cc/iptv.m3u"
              
  },
   {
