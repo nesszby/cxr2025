@@ -33,11 +33,11 @@
  },
     
   {
-            "name": "💔Mursor大佬直播【央视卫视直播 20250811】",
+            "name": "💔Mursor大佬直播【肥羊央视卫视直播 20250811】",
             "type": "0",
             "pass": true,
              "ua": "okHttp/Mod-1.0.0",
-            "url": "https://sub.ottiptv.cc/iptv.m3u"
+            "url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u"
              
  },
   {
