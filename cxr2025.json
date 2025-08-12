@@ -174,12 +174,12 @@
     "ext" : {}
   },  
  {
-      "name" : "🧑🏻‍🌾♾️🍄Judy  smart2025.txt 20250728【挂T台湾美国】🧑🏻‍🌾",
+      "name" : "🧑🏻‍🌾♾️🍄Judy  smart.m3u 20250813【挂T台湾美国】🧑🏻‍🌾",
       "type": 0,
       "playerType": 2,
-      "ua": "catvod.com",
-      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart2025.txt",
-      "timeout": 5,
+      "ua": "Goiptv/8.8.8",
+      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u",
+      "timeout":5,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
