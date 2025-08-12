@@ -76,7 +76,7 @@
             "type": "0",
             "pass": true,
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
-            "ua": "okHttp/Mod-1.0.0"
+            "ua": "Goiptv/8.8.8"
  },
  {
       "name": "📺秒播 20250720🏠",
@@ -179,7 +179,7 @@
       "playerType": 2,
       "ua": "Goiptv/8.8.8",
       "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u",
-      "timeout":5,
+      "timeout":10,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
