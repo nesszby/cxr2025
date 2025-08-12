@@ -41,7 +41,7 @@
              
  },
   {
-            "name": "🐟🐟港台mytv0 cdn.veryfast.filegear-sg.me 挑节点20250730 💔",
+            "name": "🐟🐟港台mytv0 可看nowTV 挑节点20250730 💔",
             "type": "0",
             "pass": true,
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
@@ -73,7 +73,7 @@
             "type": "0",
             "pass": true,
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
-            "ua": "Goiptv/0.0.1"
+            "ua": "okHttp/Mod-1.0.0"
  },
  {
       "name": "📺秒播 20250720🏠",
