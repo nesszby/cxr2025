@@ -887,5 +887,15 @@ CH53,http://fast.163189.xyz/163189/ch5
 CH83,http://fast.163189.xyz/163189/ch8
 CHU3,http://fast.163189.xyz/163189/chu
 🍅☘️色色（挂梯不能看）,#genre#
+松视2,http://live.urren.net:80/live/72bbcd6513278b16acb8330938aff856.flv
+松视3,http://live.urren.net:80/live/8bd33f38a25a52e7f04e5ca3dc14617a.flv
+彩虹电影,http://live.urren.net:80/live/034e413977c75fa29d06f937bfa82a9f.flv
+e频道,http://live.urren.net:80/live/76941e1077f11cdb561965e0a49fd7df.flv
+惊艳,http://live.urren.net:80/live/0f9e0bcdcdca4a544e745032f7eafabe.flv
+k频道,http://live.urren.net:80/live/873a4f7fb975eafeb738014756906c30.flv
+潘多拉,http://live.urren.net:80/live/9014cd11084618ac0c138475c6594193.flv
+极限电影台,http://live.urren.net:80/live/3cc795a4f0bfdbe44e4577009fcb2c2e.flv
+happy,http://live.urren.net:80/live/875f4e2565b87f53188df5162dff7ef0.flv
+香蕉,http://live.urren.net:80/live/cb35a21222bd46b2a66d2e827963fc94.flv
 
 
