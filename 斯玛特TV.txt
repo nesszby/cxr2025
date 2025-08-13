@@ -1,0 +1,582 @@
+SmartTV-Malaysia,#genre#
+TV1,http://223.18.103.169:8277/TV1/playlist.m3u8
+TV1 backup,http://223.18.103.169:8277/TV1_backup/playlist.m3u8
+TV2,http://223.18.103.169:8277/TV2/playlist.m3u8
+TV3,http://223.18.103.169:8277/TV3/playlist.m3u8
+TV3 backup,http://223.18.103.169:8277/tv3_twn/playlist.m3u8
+NTV7,http://223.18.103.169:8277/NTV7/playlist.m3u8
+TV8,http://223.18.103.169:8277/TV8/playlist.m3u8
+TV9,http://223.18.103.169:8277/TV9/playlist.m3u8
+Warna,http://223.18.103.169:8277/Warna-O/playlist.m3u8
+Warna backup,http://223.18.103.169:8277/Warna/playlist.m3u8
+Ria,http://223.18.103.169:8277/Ria-0/playlist.m3u8
+Ria backup,http://223.18.103.169:8277/Ria49/playlist.m3u8
+Ria-3,http://223.18.103.169:8277/Ria_quanjia/playlist.m3u8
+Al-Hijrah,http://223.18.103.169:8277/Alhijrah/playlist.m3u8
+Al-Hijrah backup,http://223.18.103.169:8277/Alhijrah_backup/playlist.m3u8
+Awani,http://223.18.103.169:8277/Awani/playlist.m3u8
+Bernama,http://223.18.103.169:8277/Bernama/playlist.m3u8
+Prima,http://223.18.103.169:8277/Prima-0/playlist.m3u8
+Prima backup,http://223.18.103.169:8277/Prima49/playlist.m3u8
+Ceria,http://223.18.103.169:8277/Ceria/playlist.m3u8
+Astro MTV,http://223.18.103.169:8277/AstroMTV/playlist.m3u8
+Mecca Live HD,http://223.18.103.169:8277/quran_mido/playlist.m3u8
+Madinah HD,http://223.18.103.169:8277/sunnah_mido/playlist.m3u8
+Oasis,http://223.18.103.169:8277/Oasis/playlist.m3u8
+HBO HD,http://223.18.103.169:8277/Hbo/playlist.m3u8
+HBO Signature,http://223.18.103.169:8277/Hbosignature/playlist.m3u8
+HBO Hits,http://223.18.103.169:8277/Hbohits/playlist.m3u8
+NatGeo Wild HD,http://223.18.103.169:8277/Natgeowild/playlist.m3u8
+Cartoon Network,http://223.18.103.169:8277/Cn/playlist.m3u8
+Nickelodeon,http://223.18.103.169:8277/Nickelodeon/playlist.m3u8
+Nick Jr,http://223.18.103.169:8277/Nickjr/playlist.m3u8
+Citra,http://223.18.103.169:8277/Citra/playlist.m3u8
+Sensasi,http://223.18.103.169:8277/Sensasi/playlist.m3u8
+Aura,http://223.18.103.169:8277/Aura/playlist.m3u8
+Rania,http://223.18.103.169:8277/Rania/playlist.m3u8
+Boo,http://223.18.103.169:8277/Boo/playlist.m3u8
+Awesome TV,http://223.18.103.169:8277/Awesome_mega/playlist.m3u8
+Sony HD,http://223.18.103.169:8277/SetOne/playlist.m3u8
+KBS World,http://223.18.103.169:8277/KBS/playlist.m3u8
+TvN,http://223.18.103.169:8277/TVN/playlist.m3u8
+Astro Premier,http://223.18.103.169:8277/Astropremier/playlist.m3u8
+AEC,http://223.18.103.169:8277/AEC/playlist.m3u8
+华丽台 HD （Wah Lai Toi）,http://223.18.103.169:8277/Wlt/playlist.m3u8
+欢喜台 HD （Hua Hee Tai）,http://223.18.103.169:8277/Huahee/playlist.m3u8
+欢喜台 backup,http://223.18.103.169:8277/Huahee_backup/playlist.m3u8
+Astro QJ,http://223.18.103.169:8277/Quanjia/playlist.m3u8
+TVB Jade,http://223.18.103.169:8277/Tvbjade/playlist.m3u8
+TVB Asia,http://223.18.103.169:8277/Tvbasia/playlist.m3u8
+TVB Entertainment,http://223.18.103.169:8277/Tvbentertainment/playlist.m3u8
+TVB Classic,http://223.18.103.169:8277/Tvbclassic/playlist.m3u8
+AOD,http://223.18.103.169:8277/AodHD/playlist.m3u8
+One,http://223.18.103.169:8277/One_mega/playlist.m3u8
+TVB 星河台  Xing He,http://223.18.103.169:8277/Xinhe/playlist.m3u8
+爱奇艺 iQiyi,http://223.18.103.169:8277/Qiyi/playlist.m3u8
+Animal Planet (Eng),http://223.18.103.169:8277/AnimalPlanet/playlist.m3u8
+tvN Movie,http://223.18.103.169:8277/Tvnmovie/playlist.m3u8
+CNN backup,http://223.18.103.169:8277/cnn_twn/playlist.m3u8
+Celestial Classic,http://223.18.103.169:8277/Celestial2/playlist.m3u8
+CNBC,http://223.18.103.169:8277/cnbc_twn/playlist.m3u8
+RTM Sports HD,http://223.18.103.169:8277/Rtmsport/playlist.m3u8
+TLC,http://223.18.103.169:8277/Tlc/playlist.m3u8
+CNA,http://223.18.103.169:8277/cna/playlist.m3u8
+AFC 亚洲旅游台,http://223.18.103.169:8277/asiatravel_twn/playlist.m3u8
+BBC World News,http://223.18.103.169:8277/bbcnews_twn/playlist.m3u8
+Foodnetwork Hd,http://223.18.103.169:8277/Foodnetwork_mega/playlist.m3u8
+HGTV,http://223.18.103.169:8277/HGTV/playlist.m3u8
+Arena,http://223.18.103.169:8277/Arena/playlist.m3u8
+Goshop,http://223.18.103.169:8277/Goshop/playlist.m3u8
+Celestial Movies HD,http://223.18.103.169:8277/Celestial_mega/playlist.m3u8
+Arena 2,http://223.18.103.169:8277/Arena2/playlist.m3u8
+Axn HD,http://223.18.103.169:8277/Axn/playlist.m3u8
+Paramount Network,http://223.18.103.169:8277/Paramountnetwork/playlist.m3u8
+BolaArena 1,http://223.18.103.169:8277/Bolaarena1/playlist.m3u8
+Astrol Kplus,http://223.18.103.169:8277/Kplus/playlist.m3u8
+Rock Actions,http://223.18.103.169:8277/Rockaction/playlist.m3u8
+Bloomberg News,http://223.18.103.169:8277/bloomberg_twn/playlist.m3u8
+Al-Jazeera,http://223.18.103.169:8277/aljazeera_twn/playlist.m3u8
+Rock Entertainment,http://223.18.103.169:8277/Rockentertain/playlist.m3u8
+Showcase,http://223.18.103.169:8277/Showcase_mega/playlist.m3u8
+BolaArena 2,http://223.18.103.169:8277/Bolaarena2/playlist.m3u8
+SmartTV-Singapore,#genre#
+Channel 5,http://223.18.103.169:8277/Channel5HD/playlist.m3u8
+Ch 5 backup,http://223.18.103.169:8277/Ch5_mega/playlist.m3u8
+Channel 8,http://223.18.103.169:8277/Channel8HD/playlist.m3u8
+Channel 8 backup,http://223.18.103.169:8277/Ch8_mega/playlist.m3u8
+Suria,http://223.18.103.169:8277/Suria/playlist.m3u8
+Suria backup,http://223.18.103.169:8277/Suria_backup/playlist.m3u8
+Channel U,http://223.18.103.169:8277/ChannelU/playlist.m3u8
+Channel U backup,http://223.18.103.169:8277/ChU_mega/playlist.m3u8
+Vasantham,http://223.18.103.169:8277/Vasantham/playlist.m3u8
+Vasantham backup,http://223.18.103.169:8277/Vasantham_mega/playlist.m3u8
+CNA,http://223.18.103.169:8277/cna/playlist.m3u8
+CNA backup,http://223.18.103.169:8277/cna_twn/playlist.m3u8
+SmartTV-Indonesia,#genre#
+TVRI National,http://223.18.103.169:8277/TVRI/playlist.m3u8
+RCTI,http://223.18.103.169:8277/Rcti/playlist.m3u8
+Kompass TV,http://223.18.103.169:8277/Kompass/playlist.m3u8
+Berita Satu,http://223.18.103.169:8277/BeritaSatu_eko/playlist.m3u8
+Indosiar HD,http://223.18.103.169:8277/Indosiar/playlist.m3u8
+AnTV,http://223.18.103.169:8277/Antv/playlist.m3u8
+MNC TV,http://223.18.103.169:8277/Mnctv/playlist.m3u8
+Trans 7,http://223.18.103.169:8277/Trans7_eko/playlist.m3u8
+Transtv,http://223.18.103.169:8277/Transtv/playlist.m3u8
+JTV,http://223.18.103.169:8277/JTV_eko/playlist.m3u8
+Metro TV,http://223.18.103.169:8277/metrotv_eko/playlist.m3u8
+Cinemax,http://223.18.103.169:8277/Cinemax/playlist.m3u8
+SCTV,http://223.18.103.169:8277/SCTV/playlist.m3u8
+Tvone,http://223.18.103.169:8277/Tvone/playlist.m3u8
+TVMU,http://223.18.103.169:8277/TVMU_eko/playlist.m3u8
+GTV,http://223.18.103.169:8277/Gtv/playlist.m3u8
+RTV,http://223.18.103.169:8277/Rtv/playlist.m3u8
+Jak TV,http://223.18.103.169:8277/JakTV/playlist.m3u8
+iNews TV,http://223.18.103.169:8277/Inewstv/playlist.m3u8
+Daai TV,http://223.18.103.169:8277/DaaiTV/playlist.m3u8
+Net TV,http://223.18.103.169:8277/NetTV/playlist.m3u8
+Animax,http://223.18.103.169:8277/Animax/playlist.m3u8
+EWTN,http://223.18.103.169:8277/Ewtn/playlist.m3u8
+AlQuran AlKareem,http://223.18.103.169:8277/AlQuran/playlist.m3u8
+Tawaf TV,http://223.18.103.169:8277/TawafTV/playlist.m3u8
+Vision Prime,http://223.18.103.169:8277/VisionPrime/playlist.m3u8
+Muslim TV,http://223.18.103.169:8277/MuslimTV/playlist.m3u8
+Music TV,http://223.18.103.169:8277/MusicTV/playlist.m3u8
+Lifestyle&Fashion,http://223.18.103.169:8277/Lifestyle/playlist.m3u8
+Entertain,http://223.18.103.169:8277/Entertain/playlist.m3u8
+Hits,http://223.18.103.169:8277/Hits/playlist.m3u8
+Warner TV,http://223.18.103.169:8277/WarnerTV/playlist.m3u8
+SCM,http://223.18.103.169:8277/Weishimovie/playlist.m3u8
+Thrill,http://223.18.103.169:8277/Thrill/playlist.m3u8
+Fight Sports,http://223.18.103.169:8277/Fs/playlist.m3u8
+Beinsports 2 HD,http://223.18.103.169:8277/Bein2hd/playlist.m3u8
+Hits Movie,http://223.18.103.169:8277/Hitsmovie/playlist.m3u8
+One,http://223.18.103.169:8277/One_mega/playlist.m3u8
+tvN Movie,http://223.18.103.169:8277/Tvnmovie/playlist.m3u8
+Celestial Movies HD,http://223.18.103.169:8277/Celestialindo/playlist.m3u8
+Rock Actions,http://223.18.103.169:8277/Rockaction/playlist.m3u8
+Rock Entertainment,http://223.18.103.169:8277/Rockentertain/playlist.m3u8
+SmartTV-Hongkong,#genre#
+翡翠台,http://223.18.103.169:8277/jade_twn/playlist.m3u8
+iNews 新闻台,http://223.18.103.169:8277/inews_twn/playlist.m3u8
+J 2,http://223.18.103.169:8277/j2_twn/playlist.m3u8
+J2 备用,http://223.18.103.169:8277/j2_hkdavid/playlist.m3u8
+珍珠台,http://223.18.103.169:8277/pearl_twn/playlist.m3u8
+珍珠台  备用,http://223.18.103.169:8277/pearl_hkdavid/playlist.m3u8
+凤凰香港,http://223.18.103.169:8277/hkphoenix_twn/playlist.m3u8
+无线财经资讯台,http://223.18.103.169:8277/tvbcaijing_twn/playlist.m3u8
+TVB 星河,http://223.18.103.169:8277/tvbxinhe_twn/playlist.m3u8
+RHK 31,http://223.18.103.169:8277/rhk31_twn/playlist.m3u8
+VIUTV1,http://223.18.103.169:8277/viu1_twn/playlist.m3u8
+RHK 32,http://223.18.103.169:8277/rhk32_twn/playlist.m3u8
+凤凰卫视,http://223.18.103.169:8277/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://223.18.103.169:8277/phoenixinfo_hd/playlist.m3u8
+Viu6,http://223.18.103.169:8277/viusix_twn/playlist.m3u8
+Viu TV 69,http://223.18.103.169:8277/viutv69_hkdavid/playlist.m3u8
+翡翠台 backup,http://223.18.103.169:8277/jade_mike/playlist.m3u8
+SmartTV-China,#genre#
+CCTV-1 综合 HD,http://223.18.103.169:8277/cctv1/playlist.m3u8
+CCTV-2 财经,http://223.18.103.169:8277/cctv2/playlist.m3u8
+CCTV-3 综艺 HD,http://223.18.103.169:8277/cctv3/playlist.m3u8
+CCTV-4 中文国际,http://223.18.103.169:8277/cctv4/playlist.m3u8
+CCTV4 新闻台,http://223.18.103.169:8277/Cctv4/playlist.m3u8
+CCTV-7 军事农业,http://223.18.103.169:8277/cctv7/playlist.m3u8
+CCTV-8 电视剧 HD,http://223.18.103.169:8277/cctv8hd/playlist.m3u8
+CCTV-9 记录 HD,http://223.18.103.169:8277/cctv9hd/playlist.m3u8
+CCTV-10 科教 HD,http://223.18.103.169:8277/cctv10hd/playlist.m3u8
+CCTV-11 戏曲,http://223.18.103.169:8277/cctv11/playlist.m3u8
+CCTV-12 社会与法,http://223.18.103.169:8277/cctv12/playlist.m3u8
+CCTV-13 新闻频道,http://223.18.103.169:8277/cctv13/playlist.m3u8
+CCTV-14 少儿,http://223.18.103.169:8277/cctv14/playlist.m3u8
+CCTV-6,http://223.18.103.169:8277/cctv6/playlist.m3u8
+CCTV-15 音乐,http://223.18.103.169:8277/cctv15/playlist.m3u8
+湖南卫视 （备份）,http://223.18.103.169:8277/hunan_twn/playlist.m3u8
+浙江卫视 （备用）,http://223.18.103.169:8277/zhejiang_twn/playlist.m3u8
+江苏卫视 （备份）,http://223.18.103.169:8277/jiangsu_twn/playlist.m3u8
+深圳卫视,http://223.18.103.169:8277/shenzhen/playlist.m3u8
+福建东南卫视,http://223.18.103.169:8277/fujian/playlist.m3u8
+广东南方卫视,http://223.18.103.169:8277/nanfang_twn/playlist.m3u8
+广东卫视,http://223.18.103.169:8277/guangdongweishi_twn/playlist.m3u8
+北京卫视,http://223.18.103.169:8277/beijing/playlist.m3u8
+珠江台,http://223.18.103.169:8277/zhujiang/playlist.m3u8
+广西卫视,http://223.18.103.169:8277/guangxi/playlist.m3u8
+湖北卫视,http://223.18.103.169:8277/hubei/playlist.m3u8
+四川卫视,http://223.18.103.169:8277/sichuan_twn/playlist.m3u8
+凤凰卫视,http://223.18.103.169:8277/phoenixtv_hd/playlist.m3u8
+东方卫视,http://223.18.103.169:8277/dongfangweishi_twn/playlist.m3u8
+CGTN,http://223.18.103.169:8277/CGTN/playlist.m3u8
+CCTV-17,http://223.18.103.169:8277/cctv17/playlist.m3u8
+CCTV-5 体育频道,http://223.18.103.169:8277/cctv5/playlist.m3u8
+CCTV-5+ 体育赛事 HD,http://223.18.103.169:8277/cctv5plus/playlist.m3u8
+凤凰资讯,http://223.18.103.169:8277/phoenixinfo_hd/playlist.m3u8
+SmartTV-Sports,#genre#
+Supersports 1,http://223.18.103.169:8277/Assp1/playlist.m3u8
+Supersports 1 backup,http://223.18.103.169:8277/go_assp1/playlist.m3u8
+Supersportq 1 backup2,http://223.18.103.169:8277/Assp1_mega/playlist.m3u8
+Supersports 2,http://223.18.103.169:8277/Assp2/playlist.m3u8
+Supersports 2 backup,http://223.18.103.169:8277/go_assp2/playlist.m3u8
+Supersports 3,http://223.18.103.169:8277/Assp3/playlist.m3u8
+Supersports 3 backup,http://223.18.103.169:8277/go_assp3/playlist.m3u8
+Supersports 3 backup2,http://223.18.103.169:8277/Assp3_mega/playlist.m3u8
+Supersports 4,http://223.18.103.169:8277/Assp4_mega/playlist.m3u8
+Supersports 4 backup,http://223.18.103.169:8277/go_assp4/playlist.m3u8
+Supersports 5,http://223.18.103.169:8277/go_assp5/playlist.m3u8
+Bein 2HD,http://223.18.103.169:8277/Beinhd/playlist.m3u8
+Beinsports HD,http://223.18.103.169:8277/Besports/playlist.m3u8
+Champion 5 EPL,http://223.18.103.169:8277/Champion5epl/playlist.m3u8
+WWE,http://223.18.103.169:8277/Wwe/playlist.m3u8
+Champion 6 EPL,http://223.18.103.169:8277/Champion6epl/playlist.m3u8
+Fight Sports,http://223.18.103.169:8277/Fs/playlist.m3u8
+UFC Network,http://223.18.103.169:8277/ufc_mega/playlist.m3u8
+NBA TV,http://223.18.103.169:8277/nbatv_twn/playlist.m3u8
+Astro Cricket,http://223.18.103.169:8277/Acricket_mega/playlist.m3u8
+Astro Golf,http://223.18.103.169:8277/Agolf/playlist.m3u8
+TNT Sports 1,http://223.18.103.169:8277/beeone/playlist.m3u8
+TNT Sports 2,http://223.18.103.169:8277/beetwo/playlist.m3u8
+TNT Sports 3,http://223.18.103.169:8277/beethree/playlist.m3u8
+TNT Sports 4,http://223.18.103.169:8277/beefour/playlist.m3u8
+Sony Ten 1,http://223.18.103.169:8277/ten1_raj/playlist.m3u8
+Sony Ten 2,http://223.18.103.169:8277/ten2_raj/playlist.m3u8
+Sony Ten 3,http://223.18.103.169:8277/ten3_raj/playlist.m3u8
+SPOTV 1 HD,http://223.18.103.169:8277/go_spotv/playlist.m3u8
+SPO TV 2,http://223.18.103.169:8277/go_spotv2/playlist.m3u8
+Beinsports 2 HD,http://223.18.103.169:8277/Bein2hd/playlist.m3u8
+Skysports Arena,http://223.18.103.169:8277/tiankongarena/playlist.m3u8
+Skysports F1,http://223.18.103.169:8277/tiankongf1/playlist.m3u8
+Skysports Cricket,http://223.18.103.169:8277/tiankongcricket/playlist.m3u8
+Skysports EPL,http://223.18.103.169:8277/tiankongepl/playlist.m3u8
+Skysports Football,http://223.18.103.169:8277/tiankongfootball/playlist.m3u8
+Skysports Golf,http://223.18.103.169:8277/tiankonggolf/playlist.m3u8
+Skysports Main Event,http://223.18.103.169:8277/tiankongmain/playlist.m3u8
+Skysports News,http://223.18.103.169:8277/tiankongnews/playlist.m3u8
+Skysports NFL,http://223.18.103.169:8277/tiankongnfl/playlist.m3u8
+Skysports Racing,http://223.18.103.169:8277/tiankongracing/playlist.m3u8
+Skysports Mix,http://223.18.103.169:8277/tiankongmix/playlist.m3u8
+CCTV-5 体育频道,http://223.18.103.169:8277/cctv5/playlist.m3u8
+CCTV-5+ 体育赛事 HD,http://223.18.103.169:8277/cctv5plus/playlist.m3u8
+爱尔达体育2台,http://223.18.103.169:8277/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://223.18.103.169:8277/eltasport3_twn/playlist.m3u8
+RTM Sports HD,http://223.18.103.169:8277/Rtmsport/playlist.m3u8
+Arena,http://223.18.103.169:8277/Arena/playlist.m3u8
+Arena 2,http://223.18.103.169:8277/Arena2/playlist.m3u8
+BolaArena 1,http://223.18.103.169:8277/Bolaarena1/playlist.m3u8
+Bein 1 Sports,http://223.18.103.169:8277/bein1_mega/playlist.m3u8
+Bein 2 Sports,http://223.18.103.169:8277/bein2_mega/playlist.m3u8
+Bein 3 Sports,http://223.18.103.169:8277/bein3_mega/playlist.m3u8
+Bein 4 Sports,http://223.18.103.169:8277/bein4_mega/playlist.m3u8
+Bein 5 Sports,http://223.18.103.169:8277/bein5_mega/playlist.m3u8
+Bein 6 Sports,http://223.18.103.169:8277/bein6_mega/playlist.m3u8
+Bein 7 Sports,http://223.18.103.169:8277/bein7_mega/playlist.m3u8
+Rugby Pass TV,http://223.18.103.169:8277/Rugbypasstv/playlist.m3u8
+BolaArena 2,http://223.18.103.169:8277/Bolaarena2/playlist.m3u8
+SmartTV-Taiwan,#genre#
+TVBS News 新闻台,http://223.18.103.169:8277/tvbs_n/playlist.m3u8
+TVBS 欢乐台 （备份）,http://223.18.103.169:8277/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://223.18.103.169:8277/tvbs/playlist.m3u8
+中天新闻 HD,http://223.18.103.169:8277/ctinews/playlist.m3u8
+中天娱乐 CTI Entertaiment,http://223.18.103.169:8277/ctient/playlist.m3u8
+中天综合 CTI Metro,http://223.18.103.169:8277/ctizhonghe/playlist.m3u8
+中天亚洲台,http://223.18.103.169:8277/ctiasia_twn/playlist.m3u8
+台视 TTV HD,http://223.18.103.169:8277/ttv_taiwan/playlist.m3u8
+台视新闻台,http://223.18.103.169:8277/ttvnews_twn/playlist.m3u8
+台视综合台,http://223.18.103.169:8277/ttvzhonghe_twn/playlist.m3u8
+中视 HD,http://223.18.103.169:8277/zhongshihd_twn/playlist.m3u8
+中视新闻台,http://223.18.103.169:8277/zhongshinews_twn/playlist.m3u8
+民视 HD,http://223.18.103.169:8277/ftvhd_taiwan/playlist.m3u8
+民视新闻台 FTV News,http://223.18.103.169:8277/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://223.18.103.169:8277/ftvtaiwan_twn/playlist.m3u8
+华视 CTS HD,http://223.18.103.169:8277/ctshd_twn/playlist.m3u8
+公视 CTV,http://223.18.103.169:8277/ctv_taiwan/playlist.m3u8
+八大第一 GTV First,http://223.18.103.169:8277/badafirst/playlist.m3u8
+八大综合 GTV Metro,http://223.18.103.169:8277/badazhonghe/playlist.m3u8
+八大戏剧 GTV Drama,http://223.18.103.169:8277/badadrama/playlist.m3u8
+八大娱乐 GTV Entertainment,http://223.18.103.169:8277/badaentertain/playlist.m3u8
+HBO_HD,http://223.18.103.169:8277/hbohd_twn/playlist.m3u8
+HBO_HITS,http://223.18.103.169:8277/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://223.18.103.169:8277/hollywoodmovies_twn/playlist.m3u8
+三立台湾 Sanli Taiwan,http://223.18.103.169:8277/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://223.18.103.169:8277/sanlixiju_twn/playlist.m3u8
+三立综合 Sanli Metro,http://223.18.103.169:8277/sanlizhonghe/playlist.m3u8
+三立都会台,http://223.18.103.169:8277/sanlidouhui/playlist.m3u8
+东森新闻 ETTV News,http://223.18.103.169:8277/ettvnews/playlist.m3u8
+CINEMAX,http://223.18.103.169:8277/cinemax_twn/playlist.m3u8
+东森综合 ETTV Metro,http://223.18.103.169:8277/ettvzhonghe/playlist.m3u8
+东森戏剧 ETTV Drama,http://223.18.103.169:8277/ettvdrama/playlist.m3u8
+东森超视,http://223.18.103.169:8277/ettvsuper/playlist.m3u8
+东森财经新闻 ETTV Business,http://223.18.103.169:8277/ettvcaijing_twn/playlist.m3u8
+寰宇财经,http://223.18.103.169:8277/huanyutaiwan_twn/playlist.m3u8
+寰宇新闻台,http://223.18.103.169:8277/huanyuxinwen_twn/playlist.m3u8
+大爱1台,http://223.18.103.169:8277/daai_twn/playlist.m3u8
+非凡新闻台,http://223.18.103.169:8277/feifannews_twn/playlist.m3u8
+龙华戏剧 Lunghua Drama,http://223.18.103.169:8277/lunghuaxiju_twn/playlist.m3u8
+龙华戏剧台,http://223.18.103.169:8277/lunghuaxiju_twn/playlist.m3u8
+龙华经典台,http://223.18.103.169:8277/lunghuajingdian_twn/playlist.m3u8
+龙华偶像,http://223.18.103.169:8277/lunghuaidol_twn/playlist.m3u8
+AXN Taiwan,http://223.18.103.169:8277/axn_twn/playlist.m3u8
+靖天国际台,http://223.18.103.169:8277/jingtianintl_twn/playlist.m3u8
+年代新闻,http://223.18.103.169:8277/niandainews_twn/playlist.m3u8
+纬来日本台,http://223.18.103.169:8277/videolandjapan/playlist.m3u8
+纬来电影台,http://223.18.103.169:8277/videolandmovie_twn/playlist.m3u8
+纬来体育台,http://223.18.103.169:8277/videolandsport/playlist.m3u8
+纬来综合台,http://223.18.103.169:8277/videolandzonghe/playlist.m3u8
+纬来育乐,http://223.18.103.169:8277/videolandyule/playlist.m3u8
+纬来精彩,http://223.18.103.169:8277/videolandspecial_twn/playlist.m3u8
+好消息 2,http://223.18.103.169:8277/goods_twn/playlist.m3u8
+大爱2台,http://223.18.103.169:8277/catchplay_twn/playlist.m3u8
+亚洲美食,http://223.18.103.169:8277/afc_twn/playlist.m3u8
+美食星球,http://223.18.103.169:8277/foodplanet_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://223.18.103.169:8277/tlc_twn/playlist.m3u8
+东森电影 ETTV Movie,http://223.18.103.169:8277/ettvmovie/playlist.m3u8
+阿里郎 Arirang,http://223.18.103.169:8277/arirang_twn/playlist.m3u8
+博斯运动 1,http://223.18.103.169:8277/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://223.18.103.169:8277/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://223.18.103.169:8277/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://223.18.103.169:8277/bositennis_twn/playlist.m3u8
+东森洋片 ETTV Western,http://223.18.103.169:8277/ettvwestern/playlist.m3u8
+龙华洋片 Lunghua Western,http://223.18.103.169:8277/lunghuawestern_twn/playlist.m3u8
+博斯无限,http://223.18.103.169:8277/bosiunlimited_twn/playlist.m3u8
+MTV Live,http://223.18.103.169:8277/mtvhd_twn/playlist.m3u8
+龙详时代,http://223.18.103.169:8277/lungxiangtime_twn/playlist.m3u8
+EYETV 旅游,http://223.18.103.169:8277/eyetvtravel_twn/playlist.m3u8
+靖天卡通台,http://223.18.103.169:8277/jingtiancartoon_twn/playlist.m3u8
+EYETV 戏剧,http://223.18.103.169:8277/eyetvxiju_twn/playlist.m3u8
+卫视中文台 Star Movies Chinese,http://223.18.103.169:8277/weishichinese_twn/playlist.m3u8
+东森幼幼 Yoyo TV,http://223.18.103.169:8277/yoyo_twn/playlist.m3u8
+卫视电影台,http://223.18.103.169:8277/weishimovie_twn/playlist.m3u8
+美亚电影,http://223.18.103.169:8277/meiyamovie_twn/playlist.m3u8
+爱尔达影剧台,http://223.18.103.169:8277/eltayingju_twn/playlist.m3u8
+爱尔达综合台,http://223.18.103.169:8277/eltazonghe_twn/playlist.m3u8
+星卫电影,http://223.18.103.169:8277/xingwei_movie/playlist.m3u8
+爱尔达影剧,http://223.18.103.169:8277/eltayingju_twn/playlist.m3u8
+爱尔达体育2台,http://223.18.103.169:8277/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://223.18.103.169:8277/eltasport3_twn/playlist.m3u8
+AFC 亚洲旅游台,http://223.18.103.169:8277/asiatravel_twn/playlist.m3u8
+信吉電視台,http://223.18.103.169:8277/huanyutaiwan_twn/playlist.m3u8
+SmartTV-Indian,#genre#
+Sun TV HD,http://223.18.103.169:8277/Suntv/playlist.m3u8
+Star Vijay,http://223.18.103.169:8277/Starvijay/playlist.m3u8
+Colors Tamil,http://223.18.103.169:8277/Colorstam_mega/playlist.m3u8
+Sun Music,http://223.18.103.169:8277/Sunmusic/playlist.m3u8
+Astro Sunlife,http://223.18.103.169:8277/Sunlife/playlist.m3u8
+Astro Vaanavil,http://223.18.103.169:8277/Vaanavil/playlist.m3u8
+Zee Tamil,http://223.18.103.169:8277/Zeetamil/playlist.m3u8
+Zee Business,http://223.18.103.169:8277/Zeebusiness/playlist.m3u8
+News 18 Tamil,http://223.18.103.169:8277/news18tamil_raj/playlist.m3u8
+Adithya,http://223.18.103.169:8277/Adithya/playlist.m3u8
+Makkal TV,http://223.18.103.169:8277/Makkaltv/playlist.m3u8
+Zee Action,http://223.18.103.169:8277/Zeeaction/playlist.m3u8
+Astro KTV,http://223.18.103.169:8277/Astroktv/playlist.m3u8
+Zee TV HD,http://223.18.103.169:8277/Zeetvhd/playlist.m3u8
+Zee Cinema HD,http://223.18.103.169:8277/Zeecinemahd/playlist.m3u8
+Color HD,http://223.18.103.169:8277/Colorhd/playlist.m3u8
+Starplus HD,http://223.18.103.169:8277/Starplushd/playlist.m3u8
+Picture HD,http://223.18.103.169:8277/Npicture/playlist.m3u8
+Zee News,http://223.18.103.169:8277/Zeenews/playlist.m3u8
+Asianet,http://223.18.103.169:8277/asianet_raj/playlist.m3u8
+Asianet News,http://223.18.103.169:8277/asianetnews_raj/playlist.m3u8
+Times Now,http://223.18.103.169:8277/timesnow_mega/playlist.m3u8
+BBC Earth Tamil,http://223.18.103.169:8277/bbcearthtam_raj/playlist.m3u8
+Discovery World Tamil,http://223.18.103.169:8277/discoveryworldtam_raj/playlist.m3u8
+History Tamil,http://223.18.103.169:8277/historytam_raj/playlist.m3u8
+NatGeo Tamil,http://223.18.103.169:8277/natgeotamil_raj/playlist.m3u8
+Natgeo Wild Tamil,http://223.18.103.169:8277/natgeowildtamil_raj/playlist.m3u8
+Discovery Kids Tamil,http://223.18.103.169:8277/discoverykidtamil_raj/playlist.m3u8
+Discovery Tamil,http://223.18.103.169:8277/discoverytamil_raj/playlist.m3u8
+Sony Yay Tamil,http://223.18.103.169:8277/sonyyaytam_raj/playlist.m3u8
+Sun TV India,http://223.18.103.169:8277/suntv_raj/playlist.m3u8
+Starmaa HD,http://223.18.103.169:8277/starmaa_raj/playlist.m3u8
+Starmaa Movies HD,http://223.18.103.169:8277/starmaamovies_raj/playlist.m3u8
+Bollyone,http://223.18.103.169:8277/Bollyone/playlist.m3u8
+Astro Sunmusic,http://223.18.103.169:8277/Sunmusic/playlist.m3u8
+Sony Pix HD,http://223.18.103.169:8277/sonypix_mega/playlist.m3u8
+Vijay Super,http://223.18.103.169:8277/vijaysuper_raj/playlist.m3u8
+SmartTV-Movie,#genre#
+HBO_HD,http://223.18.103.169:8277/hbohd_twn/playlist.m3u8
+HBO_HITS,http://223.18.103.169:8277/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://223.18.103.169:8277/hollywoodmovies_twn/playlist.m3u8
+CCTV-6,http://223.18.103.169:8277/cctv6/playlist.m3u8
+CINEMAX,http://223.18.103.169:8277/cinemax_twn/playlist.m3u8
+Cinemax,http://223.18.103.169:8277/Cinemax/playlist.m3u8
+AXN Taiwan,http://223.18.103.169:8277/axn_twn/playlist.m3u8
+大爱2台,http://223.18.103.169:8277/catchplay_twn/playlist.m3u8
+东森电影 ETTV Movie,http://223.18.103.169:8277/ettvmovie/playlist.m3u8
+东森洋片 ETTV Western,http://223.18.103.169:8277/ettvwestern/playlist.m3u8
+龙华洋片 Lunghua Western,http://223.18.103.169:8277/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://223.18.103.169:8277/lungxiangtime_twn/playlist.m3u8
+Animax,http://223.18.103.169:8277/Animax/playlist.m3u8
+Movies Now HD,http://223.18.103.169:8277/moviesnow_raj/playlist.m3u8
+Star Movies HD,http://223.18.103.169:8277/starmovies_raj/playlist.m3u8
+卫视中文台 Star Movies Chinese,http://223.18.103.169:8277/weishichinese_twn/playlist.m3u8
+HBO Family,http://223.18.103.169:8277/Hbofamily/playlist.m3u8
+卫视电影台,http://223.18.103.169:8277/weishimovie_twn/playlist.m3u8
+HBO HD,http://223.18.103.169:8277/Hbo/playlist.m3u8
+Hits,http://223.18.103.169:8277/Hits/playlist.m3u8
+Warner TV,http://223.18.103.169:8277/WarnerTV/playlist.m3u8
+美亚电影,http://223.18.103.169:8277/meiyamovie_twn/playlist.m3u8
+HBO Signature,http://223.18.103.169:8277/Hbosignature/playlist.m3u8
+HBO Hits,http://223.18.103.169:8277/Hbohits/playlist.m3u8
+星卫电影,http://223.18.103.169:8277/xingwei_movie/playlist.m3u8
+SCM,http://223.18.103.169:8277/Weishimovie/playlist.m3u8
+Thrill,http://223.18.103.169:8277/Thrill/playlist.m3u8
+Hits Movie,http://223.18.103.169:8277/Hitsmovie/playlist.m3u8
+One,http://223.18.103.169:8277/One_mega/playlist.m3u8
+tvN Movie,http://223.18.103.169:8277/Tvnmovie/playlist.m3u8
+Celestial Classic,http://223.18.103.169:8277/Celestial2/playlist.m3u8
+Celestial Movies HD,http://223.18.103.169:8277/Celestialindo/playlist.m3u8
+Axn HD,http://223.18.103.169:8277/Axn/playlist.m3u8
+Paramount Network,http://223.18.103.169:8277/Paramountnetwork/playlist.m3u8
+Astrol Kplus,http://223.18.103.169:8277/Kplus/playlist.m3u8
+Rock Actions,http://223.18.103.169:8277/Rockaction/playlist.m3u8
+Rock Entertainment,http://223.18.103.169:8277/Rockentertain/playlist.m3u8
+Sony Pix HD,http://223.18.103.169:8277/sonypix_mega/playlist.m3u8
+SmartTV-Documentary,#genre#
+Natgeo_HD,http://223.18.103.169:8277/natgeohd_twn/playlist.m3u8
+NatGeo_Wild HD,http://223.18.103.169:8277/natgeowild_twn/playlist.m3u8
+Animal_Planet,http://223.18.103.169:8277/animalplanet_twn/playlist.m3u8
+Discovery Asia,http://223.18.103.169:8277/discoverytwn_twn/playlist.m3u8
+CI,http://223.18.103.169:8277/ci_twn/playlist.m3u8
+Asia Travel,http://223.18.103.169:8277/asiatravel_twn/playlist.m3u8
+Discovery HD,http://223.18.103.169:8277/discoveryhd_twn/playlist.m3u8
+亚洲美食,http://223.18.103.169:8277/afc_twn/playlist.m3u8
+美食星球,http://223.18.103.169:8277/foodplanet_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://223.18.103.169:8277/tlc_twn/playlist.m3u8
+NatGeo HD,http://223.18.103.169:8277/Natgeo/playlist.m3u8
+Fashion TV,http://223.18.103.169:8277/fashiontv_twn/playlist.m3u8
+History,http://223.18.103.169:8277/History/playlist.m3u8
+BBC Earth HD,http://223.18.103.169:8277/bbcearth_twn/playlist.m3u8
+BBC Earth Lifestyle,http://223.18.103.169:8277/bbclifestyle_twn/playlist.m3u8
+MTV Live,http://223.18.103.169:8277/mtvhd_twn/playlist.m3u8
+NatGeo Wild HD,http://223.18.103.169:8277/Natgeowild/playlist.m3u8
+Animal Planet (Eng),http://223.18.103.169:8277/AnimalPlanet/playlist.m3u8
+TLC,http://223.18.103.169:8277/Tlc/playlist.m3u8
+AFC 亚洲旅游台,http://223.18.103.169:8277/asiatravel_twn/playlist.m3u8
+Foodnetwork Hd,http://223.18.103.169:8277/Foodnetwork_mega/playlist.m3u8
+HGTV,http://223.18.103.169:8277/HGTV/playlist.m3u8
+SmartTV-News,#genre#
+Skynews,http://223.18.103.169:8277/skynews_antik/playlist.m3u8
+ABC News,http://223.18.103.169:8277/abcnews_glo/playlist.m3u8
+东森财经新闻 ETTV Business,http://223.18.103.169:8277/ettvcaijing_twn/playlist.m3u8
+CBS HD,http://223.18.103.169:8277/cbshd_glo/playlist.m3u8
+CBSN HD,http://223.18.103.169:8277/cbsn_glo/playlist.m3u8
+France 24,http://223.18.103.169:8277/france24_twn/playlist.m3u8
+DW (Deutsch),http://223.18.103.169:8277/dw_twn/playlist.m3u8
+NHK World,http://223.18.103.169:8277/nhkworld_japan/playlist.m3u8
+Fox News,http://223.18.103.169:8277/foxnews_twn/playlist.m3u8
+CGTN,http://223.18.103.169:8277/CGTN/playlist.m3u8
+CNN International,http://223.18.103.169:8277/Cnn/playlist.m3u8
+CNN backup,http://223.18.103.169:8277/cnn_twn/playlist.m3u8
+CNBC,http://223.18.103.169:8277/cnbc_twn/playlist.m3u8
+CNA,http://223.18.103.169:8277/cna/playlist.m3u8
+BBC World News,http://223.18.103.169:8277/bbcnews_twn/playlist.m3u8
+BBC World News,http://223.18.103.169:8277/Bbcnews/playlist.m3u8
+Bloomberg News,http://223.18.103.169:8277/bloomberg_twn/playlist.m3u8
+Al-Jazeera,http://223.18.103.169:8277/aljazeera_twn/playlist.m3u8
+SmartTV-Kids,#genre#
+Baby TV Eng,http://223.18.103.169:8277/Babytv/playlist.m3u8
+CBeebies,http://223.18.103.169:8277/Cbeebies/playlist.m3u8
+Kids TV,http://223.18.103.169:8277/KidsTV/playlist.m3u8
+Boomerang,http://223.18.103.169:8277/Boomerang/playlist.m3u8
+Disney Taiwan,http://223.18.103.169:8277/disneytwn_twn/playlist.m3u8
+Momo TV,http://223.18.103.169:8277/momo1_twn/playlist.m3u8
+Animax,http://223.18.103.169:8277/Animax/playlist.m3u8
+靖天卡通台,http://223.18.103.169:8277/jingtiancartoon_twn/playlist.m3u8
+Boomerang Taiwan,http://223.18.103.169:8277/boomerang_twn/playlist.m3u8
+Baby TV,http://223.18.103.169:8277/babytv_twn/playlist.m3u8
+MiaoMi,http://223.18.103.169:8277/MiaoMi/playlist.m3u8
+东森幼幼 Yoyo TV,http://223.18.103.169:8277/yoyo_twn/playlist.m3u8
+Cartoon Network,http://223.18.103.169:8277/Cn/playlist.m3u8
+Nickelodeon,http://223.18.103.169:8277/Nickelodeon/playlist.m3u8
+Nick Jr,http://223.18.103.169:8277/Nickjr/playlist.m3u8
+SmartTV-Thailand,#genre#
+Channel 3 Thailand,http://223.18.103.169:8277/ch3_pat/playlist.m3u8
+Channel 5 Thailand,http://223.18.103.169:8277/ch5_pat/playlist.m3u8
+Channel 7 Thailand,http://223.18.103.169:8277/ch7_pat/playlist.m3u8
+MCOT HD Thailand-1,http://223.18.103.169:8277/mcot_pat/playlist.m3u8
+PPTV Thailand1,http://223.18.103.169:8277/pptv_pat/playlist.m3u8
+Thai Thai,http://223.18.103.169:8277/thaithai_pat/playlist.m3u8
+Amarin,http://223.18.103.169:8277/amarin_pat/playlist.m3u8
+Ch 8,http://223.18.103.169:8277/ch8_pat/playlist.m3u8
+GmmOne,http://223.18.103.169:8277/gmmone_pat/playlist.m3u8
+Mono,http://223.18.103.169:8277/mono_pat/playlist.m3u8
+Thairath,http://223.18.103.169:8277/thairath_pat/playlist.m3u8
+tpbs,http://223.18.103.169:8277/tpbs_pat/playlist.m3u8
+Workpoint,http://223.18.103.169:8277/workpoint_pat/playlist.m3u8
+Gmm Channel,http://223.18.103.169:8277/gmmchannel_pat/playlist.m3u8
+Nation,http://223.18.103.169:8277/nation_pat/playlist.m3u8
+Tnn24,http://223.18.103.169:8277/tnn24_pat/playlist.m3u8
+Nbt,http://223.18.103.169:8277/nbt_pat/playlist.m3u8
+New,http://223.18.103.169:8277/new_pat/playlist.m3u8
+TPTV,http://223.18.103.169:8277/tptv_pat/playlist.m3u8
+SmartTV-United Kingdom,#genre#
+BBC 1,http://223.18.103.169:8277/bbc1_antik/playlist.m3u8
+BBC 2,http://223.18.103.169:8277/bbc2_antik/playlist.m3u8
+CBBC,http://223.18.103.169:8277/cbbc_antik/playlist.m3u8
+More4,http://223.18.103.169:8277/more4_antik/playlist.m3u8
+Freesports,http://223.18.103.169:8277/freesports_antik/playlist.m3u8
+Skynews,http://223.18.103.169:8277/skynews_antik/playlist.m3u8
+Pick TV,http://223.18.103.169:8277/picktv_antik/playlist.m3u8
+itv 1,http://223.18.103.169:8277/itv1_antik/playlist.m3u8
+itv 2,http://223.18.103.169:8277/itv2_antik/playlist.m3u8
+Euronews,http://223.18.103.169:8277/euronews_antik/playlist.m3u8
+Channel 4,http://223.18.103.169:8277/channel4_antik/playlist.m3u8
+NatGeo HD,http://223.18.103.169:8277/Natgeo/playlist.m3u8
+CBeebies,http://223.18.103.169:8277/Cbeebies/playlist.m3u8
+History,http://223.18.103.169:8277/History/playlist.m3u8
+Kids TV,http://223.18.103.169:8277/KidsTV/playlist.m3u8
+France 24,http://223.18.103.169:8277/france24_twn/playlist.m3u8
+DW (Deutsch),http://223.18.103.169:8277/dw_twn/playlist.m3u8
+Boomerang,http://223.18.103.169:8277/Boomerang/playlist.m3u8
+BBC Earth HD,http://223.18.103.169:8277/bbcearth_twn/playlist.m3u8
+BBC Earth Lifestyle,http://223.18.103.169:8277/bbclifestyle_twn/playlist.m3u8
+MTV Live,http://223.18.103.169:8277/mtvhd_twn/playlist.m3u8
+Star Movies HD,http://223.18.103.169:8277/starmovies_raj/playlist.m3u8
+NHK World,http://223.18.103.169:8277/nhkworld_japan/playlist.m3u8
+HBO HD,http://223.18.103.169:8277/Hbo/playlist.m3u8
+Warner TV,http://223.18.103.169:8277/WarnerTV/playlist.m3u8
+NatGeo Wild HD,http://223.18.103.169:8277/Natgeowild/playlist.m3u8
+Nickelodeon,http://223.18.103.169:8277/Nickelodeon/playlist.m3u8
+Nick Jr,http://223.18.103.169:8277/Nickjr/playlist.m3u8
+Thrill,http://223.18.103.169:8277/Thrill/playlist.m3u8
+CGTN,http://223.18.103.169:8277/CGTN/playlist.m3u8
+Skysports Arena,http://223.18.103.169:8277/tiankongarena/playlist.m3u8
+Skysports F1,http://223.18.103.169:8277/tiankongf1/playlist.m3u8
+Skysports Cricket,http://223.18.103.169:8277/tiankongcricket/playlist.m3u8
+Skysports EPL,http://223.18.103.169:8277/tiankongepl/playlist.m3u8
+Skysports Football,http://223.18.103.169:8277/tiankongfootball/playlist.m3u8
+Skysports Golf,http://223.18.103.169:8277/tiankonggolf/playlist.m3u8
+Skysports Main Event,http://223.18.103.169:8277/tiankongmain/playlist.m3u8
+Skysports News,http://223.18.103.169:8277/tiankongnews/playlist.m3u8
+Hits Movie,http://223.18.103.169:8277/Hitsmovie/playlist.m3u8
+Animal Planet (Eng),http://223.18.103.169:8277/AnimalPlanet/playlist.m3u8
+CNBC,http://223.18.103.169:8277/cnbc_twn/playlist.m3u8
+TLC,http://223.18.103.169:8277/Tlc/playlist.m3u8
+BBC World News,http://223.18.103.169:8277/bbcworldnews_antik/playlist.m3u8
+HGTV,http://223.18.103.169:8277/HGTV/playlist.m3u8
+Axn HD,http://223.18.103.169:8277/Axn/playlist.m3u8
+Bloomberg News,http://223.18.103.169:8277/bloomberg_twn/playlist.m3u8
+Al-Jazeera,http://223.18.103.169:8277/aljazeera_twn/playlist.m3u8
+SmartTV-Vietnam,#genre#
+ANTV,http://223.18.103.169:8277/viet_antv/playlist.m3u8
+VTV 1,http://223.18.103.169:8277/viet_vtv1/playlist.m3u8
+VTV 7,http://223.18.103.169:8277/viet_vtv7/playlist.m3u8
+HTV 7,http://223.18.103.169:8277/viet_htv7/playlist.m3u8
+HTV 9,http://223.18.103.169:8277/viet_htv9/playlist.m3u8
+BPTV 2,http://223.18.103.169:8277/viet_bptv2/playlist.m3u8
+BRT HD,http://223.18.103.169:8277/viet_brt/playlist.m3u8
+Ca Mau TV,http://223.18.103.169:8277/viet_camautv/playlist.m3u8
+Danang TV1 HD,http://223.18.103.169:8277/viet_danangtv1/playlist.m3u8
+Danang TV2 HD,http://223.18.103.169:8277/viet_danangtv2/playlist.m3u8
+HBTV HD,http://223.18.103.169:8277/viet_hbtv/playlist.m3u8
+PTTH 1,http://223.18.103.169:8277/viet_ptth1/playlist.m3u8
+SmartTV-Korea,#genre#
+Arirang HD,http://223.18.103.169:8277/arirang_korea/playlist.m3u8
+Yonhap News,http://223.18.103.169:8277/yonhapnews_korea/playlist.m3u8
+CBS,http://223.18.103.169:8277/cbs_korea/playlist.m3u8
+EBS 1,http://223.18.103.169:8277/ebs1_korea/playlist.m3u8
+EBS2,http://223.18.103.169:8277/ebs2_korea/playlist.m3u8
+EBS Plus2,http://223.18.103.169:8277/ebsplus2_korea/playlist.m3u8
+SBS Plus,http://223.18.103.169:8277/sbsplus_korea/playlist.m3u8
+YTN,http://223.18.103.169:8277/ytn_korea/playlist.m3u8
+KBS World 24,http://223.18.103.169:8277/kbsworld24_korea/playlist.m3u8
+YTN Science,http://223.18.103.169:8277/ytnscience_korea/playlist.m3u8
+YTN Korean,http://223.18.103.169:8277/ytnkorean_korea/playlist.m3u8
+YTN DMB,http://223.18.103.169:8277/ytndmb_korea/playlist.m3u8
+Apps TV,http://223.18.103.169:8277/appongoogle_korea/playlist.m3u8
+All the Kpop,http://223.18.103.169:8277/allthekpop_korea/playlist.m3u8
+J the Kpop,http://223.18.103.169:8277/jthekpop_korea/playlist.m3u8
+EBS Kids,http://223.18.103.169:8277/ebskids_korea/playlist.m3u8
+CGNTV,http://223.18.103.169:8277/cgntv_korea/playlist.m3u8
+SmartTV-Japan,#genre#
+NHK-総合-2,http://223.18.103.169:8277/nhkg_japan/playlist.m3u8
+NHK-E,http://223.18.103.169:8277/nhke_japan/playlist.m3u8
+テレビ朝日 Asahi TV,http://223.18.103.169:8277/asahitv_japan/playlist.m3u8
+JET 綜合,http://223.18.103.169:8277/jettv_japan/playlist.m3u8
+テレビ東京 Tokyo TV,http://223.18.103.169:8277/tokyotv_japan/playlist.m3u8
+TOKYOMX,http://223.18.103.169:8277/tokyomx_japan/playlist.m3u8
+NHKBS1,http://223.18.103.169:8277/nhkbs1_japan/playlist.m3u8
+NHKBSプレミア Premium,http://223.18.103.169:8277/nhkpremium_japan/playlist.m3u8
+BSジャパン 181,http://223.18.103.169:8277/bs181_japan/playlist.m3u8
+BSフジ BS Fuji,http://223.18.103.169:8277/bsfuji_japan/playlist.m3u8
+CNA Japan,http://223.18.103.169:8277/cna_japan/playlist.m3u8
+BS-TBS,http://223.18.103.169:8277/bstbs_japan/playlist.m3u8
+NHK Oaska,http://223.18.103.169:8277/nhkosaka_japan/playlist.m3u8
+NHK World,http://223.18.103.169:8277/nhkworld_japan/playlist.m3u8
