@@ -15,13 +15,6 @@
       "ua": "bingcha/0.1"
   },
  {
-    "name" : " 💔🐟保存在huggingface.co服务器上的smart2028.txt 48小时要运行一次保活 20250811🧑💔",
-    "type" : 0,
-    "url": "https://cxr9912-myweb20250813.hf.space/files/smart2028.txt",
-     "ua": "Goiptv/8.8.8",
-    "ext": { }
-  },               
- {
             "name": "🍈📺ofiii直播20250702 【挂T挑节点哪吒台湾美国💔】",
             "type": "0",
             "pass": true,
@@ -165,7 +158,20 @@
     "ua": "catvod.com",
     "ext" : {}
   },
-
+  {
+    "name" : " 💔🐟smart.txt 20250811🧑💔",
+    "type" : 0,
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/smart.txt",
+     "ua": "Goiptv/8.8.8",
+    "ext": { }
+  },               
+ {
+    "name" : " 💔🐟斯玛特TV.txt 20250813🧑💔",
+    "type" : 0,
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E6%96%AF%E7%8E%9B%E7%89%B9TV.txt",
+     "ua": "Goiptv/8.8.8",
+    "ext": { }
+  },               
   {
     "name" : "🧑🏻‍🌾♾️🍄好运来SMT源和沐辰暂时不行 20250720【挂T香港台湾美国】🧑🏻‍🌾",
     "type" : 3,
