@@ -1,0 +1,107 @@
+﻿测试,#genre#
+
+綜藝生活,#genre#
+民視綜藝台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv004
+民視旅遊台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv07
+亞洲旅遊台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv076
+八大綜藝台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv039
+客家電視台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv043
+中視菁采台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv064
+TVBS精采台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv067
+愛爾達娛樂台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv070
+靖天日本台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv047
+靖天育樂台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv062
+Nice TV 靖天歡樂台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv054
+TVBS歡樂台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv068
+豬哥亮歌廳秀,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv006
+KLT-靖天國際台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv063
+韓國娛樂台 KMTV,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv016
+東森購物1台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv102
+東森購物2台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv103
+戲劇電影,#genre#
+AMC電影台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv017
+My Cinema Europe HD 我的歐洲電影,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv10
+影迷數位電影台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv011
+靖天電影台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv061
+龍華電影台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn03
+龍華偶像台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn12
+公視戲劇,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv042
+民視影劇台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv09
+龍華戲劇台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn18
+龍華日韓台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn11
+八大精彩台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv034
+靖天戲劇台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv058
+靖洋戲劇台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv045
+采昌影劇台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv049
+靖天映畫,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv055
+龍華經典台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn21
+台灣戲劇台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn22
+兒少頻道,#genre#
+達文西頻道,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv018
+靖天卡通台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv044
+靖洋卡通NICE BINGO,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv057
+龍華卡通台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn01
+ELTV生活英語台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn20
+音樂頻道,#genre#
+TRACE URBAN,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv082
+時尚運動X,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv014
+CLASSICA 古典樂,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv059
+MEZZO LIVE HD,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv083
+體育,#genre#
+TRACE SPORT STARS,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv077
+GINX ESPORTS TV,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv053
+博斯高球台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn05
+博斯高球二台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn06
+博斯運動一台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn07
+博斯運動二台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn08
+博斯無限台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn10
+博斯無限二台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn13
+博斯網球台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn09
+博斯魅力台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn04
+智林體育台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv101
+綜合,#genre#
+民視第一台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv003
+民視台灣台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv001
+民視,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv002
+民視2,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv155
+中視,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv040
+中視經典台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv080
+中天亞洲台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv109
+台視,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv066
+華視,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv041
+靖天綜合台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv046
+靖天資訊台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv065
+TVBS,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv073
+ARIRANG阿里郎頻道,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv079
+VOA美國之音,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv03
+非凡商業台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv048
+第1商業台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv104
+新聞,#genre#
+中天新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv009
+民視新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv13
+台視新聞,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv051
+華視新聞,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv052
+中視新聞,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv074
+鏡電視新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv075
+東森新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv152
+TVBS新聞,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv072
+寰宇新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn14
+寰宇新聞台灣台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv156
+寰宇新聞台灣台2,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn15
+非凡新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv010
+財經頻道,#genre#
+寰宇財經台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv158
+寰宇財經台2,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn23
+東森財經新聞台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv153
+台視財經,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv056
+啊啊啊,#genre#
+影迷數位紀實台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv15
+SMART知識台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-longturn19
+視納華仁紀實頻道,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv013
+鳳梨直擊台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv035
+香蕉直擊台,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv038
+國會頻道1,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv084
+國會頻道2,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv085
+好消息,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv16
+好消息2台,http://xiangcai.ccccocccc.cc/1/li.php?id=litv-ftv17
+Pet Club TV,http://xiangcai.ccccocccc.cc/1/li.php?id=4gtv-4gtv110
