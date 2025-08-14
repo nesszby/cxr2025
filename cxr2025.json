@@ -416,6 +416,16 @@
       },
       "playerType": 2
     },
+  {
+      "name": "🍄20250814(改IP)沐辰SMT直播(python)自己改IP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    },
  {
 "name": "🌸快直播(20250608)",
 "type": 3,
