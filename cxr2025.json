@@ -140,6 +140,12 @@
     "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
     "ext": { }
   }, 
+  {
+    "name" : " 🐟🐟广东电信20250815🧑🏻‍🌾",
+    "type" : 0,
+    "url": "https://d.kstore.dev/download/12464/cxrtv/广东电信.txt",
+    "ext": { }
+  }, 
   
  {
             "name": "💔mpd(用新加坡节点) 20250725 🐟🐟",
@@ -189,6 +195,13 @@
     "name" : " 💔🐟1.1smartpendy名稱頻道.txt smart.txt 20250811🧑💔",
     "type" : 0,
     "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/smart.txt",
+     "ua": "Goiptv/8.8.8",
+    "ext": { }
+  }, 
+ {
+    "name" : " 💔🐟smt新IP免梯.txt 20250815🧑💔",
+    "type" : 0,
+    "url": "https://d.kstore.dev/download/12464/cxrtv/smt%E6%96%B0IP%E5%85%8D%E6%A2%AF.txt",
      "ua": "Goiptv/8.8.8",
     "ext": { }
   },               
