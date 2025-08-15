@@ -148,10 +148,30 @@
             "url": "http://xtvantsc.xyz/MALAYSIA.m3u",
              "ext" : {}
  },
+ {
+      "name": "💔3043(翻墙)SMT直播(python)",
+      "type": 3,
+      "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    },
   {
-      "name": "🍄(翻墙)沐辰SMT直播(python)暂时不行",
+      "name": "🍄暂时不行(翻墙)沐辰SMT直播(python)",
       "type": 3,
       "api": "https://d.kstore.dev/download/14756/python/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    },
+   {
+      "name": "🍄20250815(改IP)沐辰SMT直播(python)自己改IP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
       "ext": {},
       "header": {
         "CLIENT-IP": "127.0.0.1",
@@ -173,7 +193,7 @@
     "ext": { }
   },               
  {
-    "name" : " 💔🐟斯玛特TV.txt 20250813🧑💔",
+    "name" : " 💔🐟斯玛特TV.txt 死在20250811 20250813🧑💔",
     "type" : 0,
     "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E6%96%AF%E7%8E%9B%E7%89%B9TV.txt",
      "ua": "Goiptv/8.8.8",
@@ -343,7 +363,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
  {
-      "name": "(翻墙)BeeSport直播(python)",
+      "name": "(翻墙沐辰)BeeSport直播(python)",
       "type": 3,
       "api": "https://d.kstore.dev/download/14756/python/live_beesport.py",
       "ext": {},
@@ -416,16 +436,7 @@
       },
       "playerType": 2
     },
-  {
-      "name": "🍄20250814(改IP)沐辰SMT直播(python)自己改IP",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
-      "ext": {},
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
-      }
-    },
+
  {
       "name": "💔3043快直播(python)",
       "type": 3,
@@ -443,16 +454,7 @@
         "Referer": "https://p.m82xg4z0cdbz7.com"
       }
     },
-    {
-      "name": "💔3043(翻墙)SMT直播(python)",
-      "type": 3,
-      "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
-      "ext": {},
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
-      }
-    },
+    
     {
       "name": "💔3043(翻墙)(18+)FreesHot(python)",
       "type": 3,
