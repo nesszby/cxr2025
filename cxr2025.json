@@ -157,18 +157,9 @@
         "X-FORWARDED-FOR": "127.0.0.1"
       }
     },
-  {
-      "name": "🍄暂时不行(翻墙)沐辰SMT直播(python)",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14756/python/live_smt.py",
-      "ext": {},
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
-      }
-    },
+ 
    {
-      "name": "🍄20250815(改IP)沐辰SMT直播(python)自己改IP",
+      "name": "🍄20250815(改新IP可用)沐辰SMT直播(python)自己改IP",
       "type": 3,
       "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/live_smt.py",
       "ext": {},
