@@ -56,7 +56,7 @@
              "ua": "okhttp/3.15",
             "url": "https://iptv.mydiver.eu.org/get.php?username=tg_5i8xc0r6&password=r80ef6xbpwwy&type=m3u_plus",
    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
              
  },
   {
