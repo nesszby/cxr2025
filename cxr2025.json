@@ -149,6 +149,14 @@
     "url": "https://d.kstore.dev/download/12464/cxrtv/广东电信.txt",
     "ext": { }
   }, 
+  {
+      "name": "💔🍈🐟风云秒开接口 20250820💔",
+      "type": 0,
+      "url": "https://files.catbox.moe/dt9svf.txt",
+       "ua": "okhttp",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
   
  {
             "name": "💔mpd(用新加坡节点) 20250725 🐟🐟",
