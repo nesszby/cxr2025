@@ -14,6 +14,11 @@
       "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
       "ua": "bingcha/0.1"
   },
+   {
+    "name": "🍑落日💎冰雪💎bxtv💎 20250706🍄💔",
+    "url": "http://bxtv.3a.ink/live.m3u",
+    "ua":  "okhttp/3.15"
+  },
   {
             "name": "💔📺litv直播20250813 【挂T挑节点哪吒台湾美国💔】",
             "type": "0",
@@ -43,18 +48,13 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png",
    "ua":"judy/5.2.1"
 }, 
-  {
-    "name": "🍑落日💎冰雪💎bxtv💎 20250706🍄💔",
-    "url": "http://bxtv.3a.ink/live.m3u",
-    "ua":  "okhttp/3.15"
-  },
+
   {
             "name": "💔Mursor大佬直播【肥羊央视卫视直播 20250811】",
             "type": "0",
             "pass": true,
              "ua": "okHttp/Mod-1.0.0",
-            "url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u"
-             
+            "url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u"           
  },
   {
             "name": "💔所长令牌定时订阅【过期时间：8/24/2025, 9:47:10 AM】",
