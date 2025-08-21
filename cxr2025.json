@@ -431,7 +431,6 @@
   "type":0,
   "url":"http://rihou.cc:555/gggg.nzk",
   "playerType":2,
-  "ua":"70bd564ac1ae0801",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png",
         "core": {
