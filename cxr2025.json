@@ -49,13 +49,7 @@
    "ua":"judy/5.2.1"
 }, 
 
-  {
-            "name": "💔Mursor大佬直播【肥羊央视卫视直播 20250811】",
-            "type": "0",
-            "pass": true,
-             "ua": "okHttp/Mod-1.0.0",
-            "url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u"           
- },
+ 
   {
             "name": "💔所长令牌定时订阅【过期时间：8/24/2025, 9:47:10 AM】",
             "type": "0",
@@ -73,13 +67,7 @@
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
              "ua": "okhttp/3.15"
  },
- {
-            "name": "🐟🐟央卫yibo.tv1288.xyz/000000 20250730 💔",
-            "type": "0",
-            "pass": true,
-            "url": "https://yibo.tv1288.xyz/000000",
-             "ua": "okhttp/3.15"
- },
+
  
   {
             "name": "💔mytv123直播20250718 【挂T台湾美国】",
@@ -145,27 +133,14 @@
     "ext": { }
   }, 
   {
-    "name" : " 🐟🐟广东电信20250815🧑🏻‍🌾",
-    "type" : 0,
-    "url": "https://d.kstore.dev/download/12464/cxrtv/广东电信.txt",
-    "ext": { }
-  }, 
-  {
       "name": "💔🍈🐟风云秒开接口 20250820💔",
       "type": 0,
       "url": "https://files.catbox.moe/dt9svf.txt",
        "ua": "okhttp",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-  
- {
-            "name": "💔mpd(用新加坡节点) 20250725 🐟🐟",
-            "type": "0",
-            "pass": true,
-            "url": "http://xtvantsc.xyz/MALAYSIA.m3u",
-             "ext" : {}
- },
+    }, 
+ 
  {
       "name": "💔3043(翻墙)SMT直播(python)",
       "type": 3,
@@ -176,7 +151,7 @@
         "X-FORWARDED-FOR": "127.0.0.1"
       }
     },
- 
+
    {
       "name": "🍄20250815(改新IP可用)沐辰SMT直播(python)自己改IP",
       "type": 3,
