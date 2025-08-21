@@ -375,13 +375,15 @@
   {"name": "💔传说061899.xyz直播","type": 0,"url": "https://wds.ecsxs.com/230580.json","playerType":1},
  {"name": "💔hu直播央卫视","type": 0,"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt","playerType":1},
   {"name": "💔易发APP","type": 0,"url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt","playerType":1},
- {
-    "name": "🥎1内置日后特区20250810",
-  "boot": true,
-  "type":0,
-   "url": "http://rihou.cc:555/ggg.nzk",
-  "playerType":2
-  },
+    {
+            "name": "🥎1青龙20250810",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
   {
   "name":"🥎内置日后EXO 20250810",
   "boot": true,
