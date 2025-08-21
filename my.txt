@@ -301,39 +301,39 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 東森財經,https://m.youtube.com/watch?v=1I2iq41Akmo
 🍅YouTube新闻,#genre#
 ☘️新马澳門,#genre#
-☘️陈湘儒-4gtv ofiii直播,#genre#
-台視,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
-台視新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
-中視,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
-中視新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
-華視,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
-華視新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
-三立新聞iNEWS,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=true
-中天新聞台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
-寰宇新聞台灣台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
-寰宇新聞台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
-寰宇財經台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
-倪珍播新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=true
-倪珍英語新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=true
-倪珍越南語新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=true
-好消息,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
-好消息2台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=true
-第1商業台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=true
-國會頻道1台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true
-國會頻道2台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true
-ELTV生活英語台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=true
-Smart知識台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true
-亞洲旅遊台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
-台灣戲劇台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true
-龍華卡通台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true
-龍華戲劇台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true
-龍華偶像台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true
-龍華日韓台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true
-龍華經典台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
-龍華電影台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
-龍華洋片台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true
-東森購物1台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
-東森購物2台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true
+🍅陈湘儒 ofiii直播,#genre#
+台視,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=ture
+台視新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=ture
+中視,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=ture
+中視新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=ture
+華視,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=ture
+華視新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=ture
+三立新聞iNEWS,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=ture
+中天新聞台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=ture
+寰宇新聞台灣台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=ture
+寰宇新聞台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=ture
+寰宇財經台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=ture
+倪珍播新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=ture
+倪珍英語新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=ture
+倪珍越南語新聞,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=ture
+好消息,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=ture
+好消息2台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=ture
+第1商業台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=ture
+國會頻道1台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=ture
+國會頻道2台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=ture
+ELTV生活英語台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=ture
+Smart知識台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=ture
+亞洲旅遊台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=ture
+台灣戲劇台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=ture
+龍華卡通台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=ture
+龍華戲劇台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=ture
+龍華偶像台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=ture
+龍華日韓台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=ture
+龍華經典台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=ture
+龍華電影台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=ture
+龍華洋片台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=ture
+東森購物1台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=ture
+東森購物2台,https://mohzxfwmoecv.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=ture
 ☘️xn-elt51台灣頻道,#genre#
 今日新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
 今日天气4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8?proxy=true
