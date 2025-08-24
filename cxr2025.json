@@ -38,6 +38,11 @@
             "type": "0",
             "url": "https://mohzxfwmoecv.us-east-1.clawcloudrun.com/Sub.m3u"
  },
+  {
+            "name": "🍈📺4gtv 日本clawcloudrun部署 20250824 【挂T挑节点哪吒台湾美国💔】",
+            "type": "0",
+            "url": "http://tttcpwfvyqec.ap-northeast-1.clawcloudrun.com/?type=m3u"
+ },
  {
             "name": "🌸💔【STV】订阅链接 20250822🐟",
             "type": 0,
@@ -54,9 +59,7 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png",
    "ua":"judy/5.2.1"
 }, 
-
- 
-  {
+ {
             "name": "💔所长令牌定时订阅【过期时间：8/24/2025, 9:47:10 AM】",
             "type": "0",
             "pass": true,
@@ -73,13 +76,11 @@
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
              "ua": "okhttp/3.15"
  },
-
- 
-  {
-            "name": "💔mytv123直播20250718 【挂T台湾美国】",
+ {
+            "name": "💔tv.iill.top MyTV 直播20250718 ",
             "type": "0",
             "pass": true,
-            "url": "http://38.207.136.230:30000/mytv.m3u?token=mytv123",
+            "url": "https://tv.iill.top/m3u/MyTV",
              "ext" : {}
  }, 
  {
@@ -449,22 +450,9 @@
         "host": "https://jzb5kqln.huajiaedu.com"
       }
     },
-    {
-      "name": "💔3043(翻墙)BeeSport直播(python)",
-      "type": 3,
-      "api": "https://3043.kstore.space/bhvip/bh/python/live_beesport.py",
-      "ext": {},
-      "header": {
-        "Referer": "https://p.m82xg4z0cdbz7.com"
-      }
-    },
+   
     
-    {
-      "name": "💔3043(翻墙)(18+)FreesHot(python)",
-      "type": 3,
-      "api": "https://3043.kstore.space/bhvip/bh/python/live_freeshot.py",
-      "ext": {}
-    },
+   
  {"name":"SMT(静态)",
   "url":"https://qu.ax/GhEvT.txt",
   "logo":"https://live.fanmingming.com/tv/{name}.png",
@@ -472,7 +460,7 @@
   "header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}
  },
  {
-      "name": "tvbus",
+      "name": "🍑tvbus",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
 
             "type": 0,
