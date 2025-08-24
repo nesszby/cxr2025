@@ -77,13 +77,6 @@
              "ua": "okhttp/3.15"
  },
  {
-            "name": "💔tv.iill.top MyTV 直播20250718 ",
-            "type": "0",
-            "pass": true,
-            "url": "https://tv.iill.top/m3u/MyTV",
-             "ext" : {}
- }, 
- {
       "name": "🍈📺秒播 20250720🏠",
       "type": 0,
       "url": "https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt",
@@ -264,13 +257,8 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
- {
-   "name": "♾️😑白嫖军团💔",
-   "type": "0",
-   "url":"http://gg.7749.org/z/0/白嫖军团.txt"
- },
   {
-"name":"📺Gather电视央卫视咪咕视频",
+"name":"💔📺Gather电视央卫视咪咕视频",
 "type":0,
 "url":"https://tv.iill.top/m3u/Gather",
 "ua":"okhttp/3.15",
@@ -278,7 +266,7 @@
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
  {
-   "name": "♾️Gather用香港节点mytv接口💔",
+   "name": "😑♾️Gather用香港节点mytv接口💔",
    "type": "0",
    "url":"https://tv.iill.top/m3u/MyTV",
  "ua":"okhttp/5.0.0-alpha.14",
@@ -351,21 +339,8 @@
       "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E8%89%B2%E9%AC%BC%E6%BA%90.m3u",
       "playerType": 1
     },
- {
-            "name": "🔞💔💎秘密花园松1-松3💎💔",
-            "type": 0,
-            "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751915931144/酒店2.txt",
-            "playerType": 1,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
- {
-  "name": "🔞💔(翻墙)(18+)FreesHot(python)",
-  "type": 3,
-  "api": "https://d.kstore.dev/download/14756/python/live_freeshot.py",
-  "ext": {}
-},
+
+
 
   {
             "name": "🔞💔173.txt",
@@ -389,7 +364,14 @@
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
   {"name": "💔传说061899.xyz直播","type": 0,"url": "https://wds.ecsxs.com/230580.json","playerType":1},
  {"name": "💔hu直播央卫视","type": 0,"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt","playerType":1},
-  {"name": "💔易发APP","type": 0,"url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt","playerType":1},
+ {
+            "name": "💔💎易发APP💎💔",
+            "type": 0,
+            "url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+            "playerType": 1,
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
     {
       "name": "🥎1青龙20250810",
        "type": 0,
@@ -450,10 +432,7 @@
         "host": "https://jzb5kqln.huajiaedu.com"
       }
     },
-   
-    
-   
- {"name":"SMT(静态)",
+    {"name":"💔💎SMT(静态)",
   "url":"https://qu.ax/GhEvT.txt",
   "logo":"https://live.fanmingming.com/tv/{name}.png",
   "boot": true,
