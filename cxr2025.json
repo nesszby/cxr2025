@@ -363,15 +363,17 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-    {
-      "name": "🥎1青龙20250810",
-       "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
+   
+  {
+      "name": "🥎1青龙内置测测20250826",
+  "boot": true,
+  "type":0,
+  "url":"https://itv-list.myukj.cn/list/itv.m3u",
+  "playerType":1,
+  "ua":"c1c42b9e0d9e3a3a",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
   {
   "name":"🥎内置日后EXO 20250810",
   "boot": true,
