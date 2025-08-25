@@ -87,7 +87,7 @@
  {
     "name" : "🧑晓峰4Gtv+5008接口20250711【挂T红杏香港台湾美】🧑🏻‍🌾",
     "type" : 0,
-    "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u",
+    "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u&proxy=false",
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
      "playerType":1
@@ -95,7 +95,7 @@
   {
     "name" : "💔xn--elt51接口20250711【挂T红杏香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
-    "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u",
+    "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=m3u&proxy=false",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
    "playerType":1
@@ -103,7 +103,7 @@
  {
     "name" : "💔220.132.15.209:5008 接口20250818【挂T红杏香港台湾美国】🧑🏻‍🌾",
     "type" : 0,
-    "url": "http://220.132.15.209:5008/?type=m3u",
+    "url": "http://220.132.15.209:5008/?type=m3u&proxy=false",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
    "playerType":1
