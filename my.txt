@@ -1,6 +1,6 @@
 🌌☘️📺央卫高码🍅,#genre#
 
-🌌☘️📡山东电信🍅,#genre#
+
 
 🌌☘️📡央卫秒播🍅,#genre#
 CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
@@ -38,6 +38,24 @@ CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
 河北卫视,http://183.222.242.31:8088/hls/33/index.m3u8
 辽宁卫视,http://183.222.242.31:8088/hls/34/index.m3u8
 河南卫视,http://183.222.242.31:8088/hls/35/index.m3u8
+🌌☘️📡央视移动🍅,#genre#
+CCTV1-综合,http://1857416894.xionguamaqui.com:9901/tsfile/live/0001_1.m3u8
+CCTV2-财经,http://1857416894.xionguamaqui.com:9901/tsfile/live/0002_1.m3u8
+CCTV3-综艺,http://1857416894.xionguamaqui.com:9901/tsfile/live/0003_1.m3u8
+CCTV4-国际,http://1857416894.xionguamaqui.com:9901/tsfile/live/0004_1.m3u8
+CCTV5-体育,http://1857416894.xionguamaqui.com:9901/tsfile/live/0005_1.m3u8
+CCTV6-电影,http://1857416894.xionguamaqui.com:9901/tsfile/live/0006_1.m3u8
+CCTV7-军农,http://1857416894.xionguamaqui.com:9901/tsfile/live/0007_1.m3u8
+CCTV8-电视剧,http://1857416894.xionguamaqui.com:9901/tsfile/live/0008_1.m3u8
+CCTV9HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0009_1.m3u8
+CCTV10HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0010_1.m3u8
+CCTV11HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0011_1.m3u8
+CCTV12HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0012_1.m3u8
+CCTV13HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0013_1.m3u8
+CCTV14HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0014_1.m3u8
+CCTV15HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0015_1.m3u8
+CCTV5+HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0016_1.m3u8
+CETV1HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0017_1.m3u8
 🌌☘️央视Kzb备用,#genre#
 CCTV1,http://api.mytv666.top/api/kzb.php?id=CCTV1
 CCTV2,http://api.mytv666.top/api/kzb.php?id=CCTV2
