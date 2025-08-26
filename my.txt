@@ -88,40 +88,6 @@ CCTV4欧洲,http://api.mytv666.top/api/kzb.php?id=CCTV4欧洲
 新疆卫视,http://api.mytv666.top/api/kzb.php?id=新疆卫视
 山西卫视,http://api.mytv666.top/api/kzb.php?id=山西卫视
 🌌☘️📡凤凰香港🍅,#genre#
-popc,https://fr-us7.jdiptv.cc/live/popc.m3u8
-POPC,http://tl.061833.xyz/tl/popc
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-中天新闻,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
-中天新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
-有线新闻台,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
-民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
-八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
-台视综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1fAAda17L41fqlzQhC5PY5nPKNqvLwxkfwKIcIMBeBbKtYRRdqX.flv
-美亚电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
--中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
--中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
--重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
--tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
--民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
--HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
--美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-中天新闻频,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889911.flv
-中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
-翡翠台,http://api.mg.itv888.cn:8080/streams/031a43f0d54/index.m3u8
 翡翠台1,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 翡翠台2 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
 iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
@@ -844,37 +810,6 @@ BBC英國廣播公司新聞(英國)(BBC News),https://i.mjh.nz/SamsungTVPlus/US4
 TVBS56,http://www.youtube.com/watch?v=YvdcZ_jpLXE
 東森Live,http://www.youtube.com/watch?v=S5WOGu2HSes
 🍅☘️直连测试,#genre#
-HOY TV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
-ViuTV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
-TVB1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/c55985eebf76a91b12f259549118ed86.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/76a5bea61a9b95235ecc8e10efa23a1f.flv
-明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/c5220acf319f65ba0161a8d82760ed1d.flv
-华丽翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/afef8d032299c6cae821da210c3f0975.flv
-无线新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/8909061706b522e5620dbfe2b5f7d33e.flv
-Astro AOD,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fe563af50ab5d0fa39513daf2e25e8e9.flv
-TVB亚洲武侠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/bdb59ec9d515cdad77fe2ed50899adac.flv
-广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
-广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
-鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
-鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
-鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
-翡翠台,http://bx.757888.xyz/api.php?id=fct
-TVB PLUS,http://bx.757888.xyz/api.php?id=tvbp
-明珠台,http://bx.757888.xyz/api.php?id=mz
-無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
-美亞電影台,http://bx.757888.xyz/api.php?id=meiya
-翡翠台字幕2,http://edge2.163189.xyz/o12.php?id=fct
-明珠台字幕2,http://edge2.163189.xyz/o12.php?id=mzt
-翡翠台2,https://edge.163189.xyz/163189/fct
-HOY TV2,https://edge.163189.xyz/163189/hoy
-凤凰资讯2,https://edge.163189.xyz/163189/fhzx
-凤凰香港2,https://edge.163189.xyz/163189/fhhk
-无线新闻台2,https://edge.163189.xyz/163189/wxxw
-八度空间2,https://edge.163189.xyz/163189/8tv
-CH52,https://edge.163189.xyz/163189/ch5
-CH82,https://edge.163189.xyz/163189/ch8
-CHU2,https://edge.163189.xyz/163189/chu
 HOY TV3,http://fast.163189.xyz/163189/hoy
 凤凰资讯3,http://fast.163189.xyz/163189/fhzx
 凤凰香港3,http://fast.163189.xyz/163189/fhhk
@@ -883,7 +818,7 @@ HOY TV3,http://fast.163189.xyz/163189/hoy
 CH53,http://fast.163189.xyz/163189/ch5
 CH83,http://fast.163189.xyz/163189/ch8
 CHU3,http://fast.163189.xyz/163189/chu
-新聞財經,#genre#
+🍅新聞財經,#genre#
 鏡電視新聞台,http://220.132.15.209:5008/4gtv-4gtv075/index.m3u8
 東森新聞,http://220.132.15.209:5008/4gtv-4gtv152/index.m3u8
 華視新聞台,http://220.132.15.209:5008/4gtv-4gtv052/index.m3u8
@@ -930,7 +865,7 @@ VOA 美國之音,http://220.132.15.209:5008/li-litv-ftv03/index.m3u8
 倪珍播新聞,http://220.132.15.209:5008/nnews-zh/index.m3u8
 倪珍越南語新聞,http://220.132.15.209:5008/nnews-vn/index.m3u8
 倪珍報氣象,http://220.132.15.209:5008/nnews-wf/index.m3u8
-綜合其他,#genre#
+🍅綜合其他,#genre#
 民視第一台,http://220.132.15.209:5008/4gtv-4gtv003/index.m3u8
 民視台灣台,http://220.132.15.209:5008/4gtv-4gtv001/index.m3u8
 民視HD,http://220.132.15.209:5008/4gtv-4gtv002/index.m3u8
@@ -994,7 +929,7 @@ TVBS HD,http://220.132.15.209:5008/li-4gtv-4gtv073/index.m3u8
 國會頻道2台,http://220.132.15.209:5008/of-4gtv-4gtv085/index.m3u8
 東森購物一台,http://220.132.15.209:5008/of-4gtv-4gtv102/index.m3u8
 東森購物二台,http://220.132.15.209:5008/of-4gtv-4gtv103/index.m3u8
-電影戲劇,#genre#
+🍅電影戲劇,#genre#
 中視經典台,http://220.132.15.209:5008/4gtv-4gtv080/index.m3u8
 ROCK Entertainment,http://220.132.15.209:5008/4gtv-live080/index.m3u8
 公視戲劇,http://220.132.15.209:5008/4gtv-4gtv042/index.m3u8
@@ -1039,7 +974,7 @@ amc 電影台,http://220.132.15.209:5008/li-4gtv-4gtv017/index.m3u8
 龍華偶像,http://220.132.15.209:5008/litv-longturn12/index.m3u8
 龍華戲劇,http://220.132.15.209:5008/litv-longturn18/index.m3u8
 龍華經典,http://220.132.15.209:5008/litv-longturn21/index.m3u8
-生活旅遊,#genre#
+🍅生活旅遊,#genre#
 Smart知識台,http://220.132.15.209:5008/litv-longturn19/index.m3u8
 Global Trekker,http://220.132.15.209:5008/4gtv-live112/index.m3u8
 Lifetime,http://220.132.15.209:5008/4gtv-live029/index.m3u8
@@ -1060,7 +995,8 @@ Pet Club TV,http://220.132.15.209:5008/li-4gtv-4gtv110/index.m3u8
 亞洲旅遊,http://220.132.15.209:5008/li-4gtv-4gtv076/index.m3u8
 Smart知識台,http://220.132.15.209:5008/li-litv-longturn19/index.m3u8
 亞洲旅遊,http://220.132.15.209:5008/of-4gtv-4gtv076/index.m3u8
-💎挂T（挂梯不能看）,#genre#
+💎【香港r.jdshipin.com】,#genre#
+无线新闻,http://r.jdshipin.com/CkuBd
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -1070,7 +1006,6 @@ Smart知識台,http://220.132.15.209:5008/li-litv-longturn19/index.m3u8
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
 无线财经,http://r.jdshipin.com/jUx8K
-无线新闻,http://r.jdshipin.com/CkuBd
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://r.jdshipin.com/Voac4
 华丽翡翠台,http://r.jdshipin.com/thuYX
