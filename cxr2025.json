@@ -203,13 +203,6 @@
     "ext": { }
   },               
  {
-    "name" : " 💔🐟斯玛特TV.txt 死在20250811 20250813🧑💔",
-    "type" : 0,
-    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E6%96%AF%E7%8E%9B%E7%89%B9TV.txt",
-     "ua": "Goiptv/8.8.8",
-    "ext": { }
-  },               
- {
       "name" : "🧑🏻‍🌾♾️🍄IPTV研究所 Judy  smart.m3u 20250813【挂T台湾美国】🧑🏻‍🌾",
       "type": 0,
       "playerType": 2,
@@ -317,31 +310,13 @@
             "jar":"https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
             "ext": "https://59.125.210.231:4433"
      },
-	{
-      "name": "MQitv60",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "ext": "https://60.248.127.232:4433",
-      "jar":"https:///jar/fmMQiTV.jar",
-      "timeout": 30,
-      "playerType": 1,
-      "epg": "https:///?ch={name}&date={date}?token=3317e9dbfa",
-      "logo": "https:///?ch={name}&type=icon?token=3317e9dbfa"
-      
-    },
-{
-      "name": "MQitv123",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "ext": "http://123.12.36.121:8899/",
-      "jar": "https:///jar/fmMQiTV.jar",
-      "timeout": 30,
-      "playerType": 1,
-      "epg": "https://?ch={name}&date={date}?token=3317e9dbfa",
-      "logo": "https:///?ch={name}&type=icon?token=3317e9dbfa"
-      
-    },
-
+	 {
+            "name": "⛲MQiTV60",
+            "api": "csp_MQiTV",
+            "jar":"https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
+            "ext": "https://60.248.127.232:4433"
+     },
+	
    {
    "name": "🔞🍅AVmovie50302💔",
    "type": "0",
