@@ -385,7 +385,7 @@
     },
    
   {
-      "name": "🥎1青龙内置测测20250826",
+      "name": "🥎日后内置测测20250826",
   "boot": true,
   "type":0,
   "url":"https://itv-list.myukj.cn/list/itv.m3u",
@@ -394,6 +394,14 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
+{
+"name": "📺青龙电视",
+"type": 0,
+"url": "https://d.kstore.dev/download/15366/6988.txt",
+"ua": "okhttp/5.0.0-alpha.14",
+"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+},
   {
   "name":"🥎内置日后EXO 20250810",
   "boot": true,
