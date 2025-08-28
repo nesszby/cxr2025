@@ -343,17 +343,6 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-   
-  {
-      "name": "🥎日后内置测测20250826",
-  "boot": true,
-  "type":0,
-  "url":"https://itv-list.myukj.cn/list/itv.m3u",
-  "playerType":1,
-  "ua":"c1c42b9e0d9e3a3a",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
 {
 "name": "📺青龙电视",
 "type": 0,
@@ -368,7 +357,7 @@
   "type":0,
   "url":"http://rihou.cc:555/gggg.nzk",
   "playerType":2,
-  "ua":"70bd564ac1ae0801",
+  "ua":"Goiptv/8.8.8",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png",
         "core": {
