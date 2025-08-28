@@ -130,7 +130,7 @@
  {
             "name": "🐟🐟Guovin  20250826 💔",
             "type": "0",
-           "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+           "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
             "epg": "http://epg.51zmt.top:8000/e.xml",
 			"logo": "https://epg.112114.xyz/logo/{name}.png",
 			"timeout": 10
@@ -408,11 +408,6 @@
   "boot": true,
   "header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}
  }, 
- {
-   "name": "♾️🍄SmartTV0001 20250828🍄🍄🍄💔",
-   "type": "0",
-   "url":"http://47.91.17.126:20002/SmartTV0001.m3u"
- },
 
  {
 "name": "🌸快直播(20250608)",
