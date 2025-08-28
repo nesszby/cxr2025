@@ -1,4 +1,4 @@
-﻿新闻,#genre#
+新闻,#genre#
 中天新闻,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv009
 TVBS新闻,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv072
 东森新闻台,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv152
@@ -105,4 +105,3 @@ Smart知识台,http://154.219.113.217:8080/sub?token=112233&id=litv-longturn19
 CLASSICA古典乐,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv059
 TraceUrban,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv082
 MezzoLiveHD,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv083
-
