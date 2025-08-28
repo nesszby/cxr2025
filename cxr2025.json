@@ -409,6 +409,12 @@
   "header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}
  }, 
  {
+   "name": "♾️🍄SmartTV0001 20250828🍄🍄🍄💔",
+   "type": "0",
+   "url":"http://47.91.17.126:20002/SmartTV0001.m3u"
+ },
+
+ {
 "name": "🌸快直播(20250608)",
 "type": 3,
 "api": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/kzb.py",
