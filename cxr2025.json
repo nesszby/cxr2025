@@ -63,6 +63,11 @@
             "url": "http://tttcpwfvyqec.ap-northeast-1.clawcloudrun.com/?type=m3u"
  },
  {
+   "name": "🍄💔breezy选节点20250608【挂T台湾非CF节点】🌸",
+   "type": "0",
+   "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"
+ },
+ {
             "name": "🌸💔【STV】订阅链接 20250822🐟",
             "type": 0,
             "url": "https://php.946985.xyz/stv.m3u",
@@ -88,29 +93,6 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"
              
  },
-  {
-            "name": "🐟🐟港台mytv0 可看nowTV 挑节点20250730 💔",
-            "type": "0",
-            "pass": true,
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
-             "ua": "okhttp/3.15"
- },
- {
-            "name": "🐟🐟Guovin  20250826 💔",
-            "type": "0",
-           "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
-            "epg": "http://epg.51zmt.top:8000/e.xml",
-			"logo": "https://epg.112114.xyz/logo/{name}.png",
-			"timeout": 10
- },
- {
-      "name": "🍈📺秒播 20250720🏠",
-      "type": 0,
-      "url": "https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt",
-       "ua": "okhttp",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
  {
     "name" : "🧑晓峰4Gtv+5008 V2.0接口20250711【挂T红杏香港台湾美】🧑🏻‍🌾",
     "type" : 0,
@@ -137,6 +119,29 @@
     "url": "http://xtvantsc.xyz/litv_ts.php",
     "ext": { }
   }, 
+  {
+            "name": "🐟🐟港台mytv0 可看nowTV 挑节点20250730 💔",
+            "type": "0",
+            "pass": true,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
+             "ua": "okhttp/3.15"
+ },
+ {
+            "name": "🐟🐟Guovin  20250826 💔",
+            "type": "0",
+           "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "epg": "http://epg.51zmt.top:8000/e.xml",
+			"logo": "https://epg.112114.xyz/logo/{name}.png",
+			"timeout": 10
+ },
+ {
+      "name": "🍈📺秒播 20250720🏠",
+      "type": 0,
+      "url": "https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt",
+       "ua": "okhttp",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
  
  {
     "name" : " 🐟🐟河南卫视20250803🧑🏻‍🌾",
@@ -181,13 +186,6 @@
     "ua": "catvod.com",
     "ext" : {}
   },
-  {
-    "name" : " 💔🐟1.1smartpendy名稱頻道.txt smart.txt 20250811🧑💔",
-    "type" : 0,
-    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/smart.txt",
-     "ua": "Goiptv/8.8.8",
-    "ext": { }
-  }, 
  {
     "name" : " 💔🐟smt新IP免梯.txt 20250815🧑💔",
     "type" : 0,
@@ -205,19 +203,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
- {
-    "name" : "💔SmarTV(pendy.dpdns)群友分享 20250803🧑🏻‍🌾",
-    "type" : 0,
-    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/SmarTV(pendy.dpdns)%E7%BE%A4%E5%8F%8B%E5%88%86%E4%BA%AB.txt",
-     "ua": "Goiptv/8.8.8",
-    "ext": { }
-  }, 
- {
-   "name": "🍄💔breezy选节点20250608【挂T台湾非CF节点】🌸",
-   "type": "0",
-   "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"
- },
   {
    "name": "♾️🍄稳定榴芒8.138.7.223/51.php 20250627🍄🍄🍄💔",
    "type": "0",
@@ -304,9 +289,9 @@
             "ext": "https://59.125.210.231:4433"
      },
 	 {
-            "name": "⛲MQiTV60",
+            "name": "⛲MQiTV60-Ver 1.0",
             "api": "csp_MQiTV",
-            "jar":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/custom_spider.jar",
+            "jar":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/fm.jar",
             "ext": "https://60.248.127.232:4433"
      },
 	
