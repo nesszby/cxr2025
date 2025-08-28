@@ -31,6 +31,13 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				}
 			},
+ {
+    "name" : "🐟🐟 LITV-GO 状态监控 V2.0 20250724【挂T台湾美国】🧑🏻‍🌾",
+    "type" : 0,
+    "url": "http://154.219.113.217:8080/vipsir?type=m3u&token=112233",
+   "playerType":2,
+   "ext": { }
+  },
   {
             "name": "💔📺litv直播20250813 【挂T挑节点哪吒台湾美国💔】",
             "type": "0",
@@ -117,20 +124,6 @@
     "url": "http://220.132.15.209:5008/?type=m3u&proxy=false",
   "playerType":2,
   "ext": { }
-  },
- 
-  {
-    "name" : "🐟🐟 LITV-GO 状态监控 V2.0 20250724【挂T红杏香港台湾美国】🧑🏻‍🌾",
-    "type" : 0,
-    "url": "http://154.219.113.217:8080/vipsir?type=m3u&token=112233",
-   "playerType":2,
-   "ext": { }
-  },
-  {
-    "name" : "🐟💔🐟1.1代理154 4gtv頻道.txt【github】接口20250811🧑🏻‍🌾",
-    "type" : 0,
-    "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/1.1%E4%BB%A3%E7%90%86154%204gtv%E9%A0%BB%E9%81%93.txt",
-   "playerType":1
   },
   {
     "name" : " 🐟🐟四季（要台湾节点）20250725🧑🏻‍🌾",
