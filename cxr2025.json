@@ -1,5 +1,6 @@
 
 {
+ "spider": "./custom_spider.jar",
 "lives": [
  {
             "name": "🐟🐟🍄陈湘儒myTV🍄🐟🐟",
@@ -272,28 +273,11 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
-      "name": "🧲MQitv59 20250609，106个频道",
-      "api": "csp_MQiTV",
-      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/fm.jar",
-      "ext": "https://59.125.210.231:4433",
-      "timeout": 30,
-      "playerType": 1,
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-  {
             "name": "⛲MQiTV🔞",
             "api": "csp_MQiTV",
             "jar":"https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
             "ext": "https://59.125.210.231:4433"
      },
-	 {
-            "name": "⛲MQiTV60-Ver 1.0",
-            "api": "csp_MQiTV",
-            "jar":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/fm.jar",
-            "ext": "https://60.248.127.232:4433"
-     },
-	
    {
    "name": "🔞🍅AVmovie50302💔",
    "type": "0",
