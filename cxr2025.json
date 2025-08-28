@@ -274,8 +274,7 @@
  {
       "name": "🧲MQitv59 20250609，106个频道",
       "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mtv.jar",
+      "jar": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/fm.jar",
       "ext": "https://59.125.210.231:4433",
       "timeout": 30,
       "playerType": 1,
