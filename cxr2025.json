@@ -194,11 +194,11 @@
     "ext": { }
   },               
  {
-      "name" : "🧑🏻‍🌾♾️🍄IPTV研究所 Judy  smart.m3u 20250813【挂T台湾美国】🧑🏻‍🌾",
+      "name" : "🧑🏻‍🌾♾️🍄IPTV研究所 Judy  MytvSuper.m3u 20250813【挂T】🧑🏻‍🌾",
       "type": 0,
       "playerType": 2,
       "ua": "Goiptv/8.8.8",
-      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u",
+      "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
       "timeout":10,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
