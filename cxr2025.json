@@ -1,5 +1,4 @@
 {
- "spider": "./custom_spider.jar",
 "lives": [
  {
             "name": "🐟🐟🍄陈湘儒myTV🍄🐟🐟",
@@ -292,11 +291,13 @@
  {
             "name": "⛲MQiTV🔞",
             "api": "csp_MQiTV",
+	        "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
             "ext": "https://59.125.210.231:4433"
      },
   {
       "name": "MQitv59，60",
       "api": "csp_MQiTV",
+	  "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
       "ext": [
         {
           "name": "59",
@@ -311,7 +312,7 @@
 {
       "name": "⛲台湾节点MQ",
       "api": "csp_MQiTV",
-    
+    "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
       "ext": [
         {
           "name": "河南商丘",
