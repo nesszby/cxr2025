@@ -295,6 +295,20 @@
             "jar":"https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
             "ext": "https://59.125.210.231:4433"
      },
+  {
+      "name": "MQitv59，60",
+      "api": "csp_MQiTV",
+      "ext": [
+        {
+          "name": "59",
+          "url": "https://59.125.210.231:4433"
+        },
+        {
+          "name": "60",
+          "url": "https://60.248.127.232:4433"
+        }
+      ]
+    },
 {
       "name": "⛲台湾节点MQ",
       "api": "csp_MQiTV",
