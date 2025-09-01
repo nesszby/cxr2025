@@ -159,6 +159,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
+ {
+      "name": "🐟风云秒开营养快线 20250901💔",
+      "type": 0,
+      "url": "https://php.946985.xyz/fengyunTV.m3u",
+       "ua": "okhttp",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
  
  {
       "name": "💔3043(翻墙)SMT直播(python)",
