@@ -292,7 +292,6 @@
  {
             "name": "⛲MQiTV🔞",
             "api": "csp_MQiTV",
-            "jar":"https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
             "ext": "https://59.125.210.231:4433"
      },
   {
@@ -312,7 +311,7 @@
 {
       "name": "⛲台湾节点MQ",
       "api": "csp_MQiTV",
-      "jar": "./mqitv.jar",
+    
       "ext": [
         {
           "name": "河南商丘",
