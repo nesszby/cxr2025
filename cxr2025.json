@@ -68,12 +68,12 @@
  {
             "name": "🍈📺4gtv 美东clawcloudrun部署 20250901 【挂T💔】",
             "type": "0",
-            "url": "http://4gtv2025002.3556578307.qzz.io/?type=m3u&proxy=flase"
+            "url": "http://4gtv2025002.3556578307.qzz.io/?type=m3u&proxy=false"
  },
   {
             "name": "🍈📺4gtv 日本clawcloudrun部署 20250824 【挂T💔】",
             "type": "0",
-            "url": "http://tttcpwfvyqec.ap-northeast-1.clawcloudrun.com/?type=m3u&proxy=flase"
+            "url": "http://tttcpwfvyqec.ap-northeast-1.clawcloudrun.com/?type=m3u&proxy=false"
  },
  {
    "name": "🍄💔breezy选节点20250608【挂T台湾非CF节点】🌸",
