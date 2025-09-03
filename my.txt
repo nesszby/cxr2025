@@ -122,23 +122,6 @@ J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 🌌☘️IPV6央视,#genre#
-CCTV1综合,http://zqh2333.top:2222/rtp/239.93.24.184:5140
-CCTV2财经,http://zqh2333.top:2222/rtp/239.93.24.59:5140
-CCTV3综艺,http://zqh2333.top:2222/rtp/239.93.24.11:2223
-CCTV4中文国际,http://zqh2333.top:2222/rtp/239.93.25.105:5140
-CCTV5体育,http://zqh2333.top:2222/rtp/239.93.24.12:2224
-CCTV6电影,http://zqh2333.top:2222/rtp/239.93.24.13:2226
-CCTV7国防军事,http://zqh2333.top:2222/rtp/239.93.24.61:5140
-CCTV8电视剧,http://zqh2333.top:2222/rtp/239.93.55.39:5140
-CCTV9纪录,http://zqh2333.top:2222/rtp/239.93.25.24:5140
-CCTV10科教,http://zqh2333.top:2222/rtp/239.93.25.28:5140
-CCTV11戏曲,http://zqh2333.top:2222/rtp/239.93.24.102:5140
-CCTV12社会与法,http://zqh2333.top:2222/rtp/239.93.25.30:8124
-CCTV13新闻,http://zqh2333.top:2222/rtp/239.93.24.66:5140
-CCTV14少儿,http://zqh2333.top:2222/rtp/239.93.25.29:6000
-CCTV15音乐,http://zqh2333.top:2222/rtp/239.93.24.103:5140
-CCTV16奥林匹克,http://zqh2333.top:2222/rtp/239.93.55.54:5140
-CCTV17农业农村,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 🌌☘️港台20250802,#genre#
 🥮港台频道🍅,#genre#
 翡翠台腾讯云,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
