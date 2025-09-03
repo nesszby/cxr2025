@@ -164,6 +164,13 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
+ {
+      "name": "🐟风云推流mytv 20250903💔",
+      "type": 0,
+      "url": "https://php.946985.xyz/mytvfreeh264.m3u ",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
  
  {
       "name": "💔3043(翻墙)SMT直播(python)",
@@ -220,11 +227,7 @@
    "type": "0",
    "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E5%BD%B1%E8%A7%86%E4%B8%93%E7%94%A8.txt"
  }, 
-  {
-   "name": "♾️🍄aktv 20250618🍄🍄🍄💔",
-   "type": "0",
-   "url":"https://aktv.space/live.m3u"
- },
+
   {
             "name": "🍪🍄【4gtv直播 20250615】🍄💔",
             "type": 0,
@@ -270,16 +273,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
-            "name": "📺南风直播源",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
- {
-            "name": "⛲China TV @专用订阅链接",
+            "name": "📺⛲China TV @专用订阅链接",
             "type": 0,
             "url": "https://live.tv.darwinchow.com/sub/02RUMRYcOmd8rytOxh5ztNUdYfOV7n/txt",
             "playerType": 2,
@@ -294,7 +288,7 @@
             "ext": "https://59.125.210.231:4433"
      },
   {
-      "name": "MQitv59，60",
+      "name": "🏆️MQitv59，60",
       "api": "csp_MQiTV",
 	  "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
       "ext": [
@@ -455,7 +449,6 @@
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
   {"name": "💔传说061899.xyz直播","type": 0,"url": "https://wds.ecsxs.com/230580.json","playerType":1},
- {"name": "💔hu直播央卫视","type": 0,"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt","playerType":1},
  {
             "name": "💔💎易发APP💎💔",
             "type": 0,
@@ -525,7 +518,6 @@
     },
     {"name":"💔💎SMT(静态)",
   "url":"https://qu.ax/GhEvT.txt",
-  "logo":"https://live.fanmingming.com/tv/{name}.png",
   "boot": true,
   "header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}
  }, 
