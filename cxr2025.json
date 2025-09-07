@@ -30,7 +30,7 @@
 {
 				"name": "💔FeiYang牧场",
 				"type": 0,
-				"url": "http://sub.ottiptv.cc/iptv.m3u",
+				"url": "https://fy.188766.xyz/?ip=https://sub.ottiptv.cc/iptv.m3u",
 				"ua": "okHttp/Mod-1.2.0",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -188,7 +188,6 @@
     "name" : "🧑🏻‍🌾【Smt直播catvod UA:catvod.com】 20250707🧑🏻‍🌾",
     "type" : 3,
     "url": "https://live.catvod.com/tv.m3u",
-    "ua": "catvod.com",
     "ext" : {}
   },
  {
