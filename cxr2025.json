@@ -46,6 +46,13 @@
   "playerType":2,
   "ext": { }
   },
+	{
+    "name" : "🐟🐟 LITV-GO 状态监控 V2.0 20250724【挂T台湾美国】🧑🏻‍🌾",
+    "type" : 0,
+    "url": "http://154.219.113.217:8080/vipsir?type=m3u&token=112233",
+   "playerType":2,
+   "ext": { }
+  },
  {
     "name" : "💔 【T】七月jackTV 20250906🧑🏻‍🌾",
     "type" : 0,
@@ -250,162 +257,6 @@
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
- {
-            "name": "⛲MQiTV🔞",
-            "api": "csp_MQiTV",
-	        "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
-            "ext": "https://59.125.210.231:4433"
-     },
-  {
-      "name": "🏆️MQitv59，60",
-      "api": "csp_MQiTV",
-	  "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
-      "ext": [
-        {
-          "name": "59",
-          "url": "https://59.125.210.231:4433"
-        },
-        {
-          "name": "60",
-          "url": "https://60.248.127.232:4433"
-        }
-      ]
-    },
-{
-      "name": "⛲台湾节点MQ",
-      "api": "csp_MQiTV",
-    "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
-      "ext": [
-        {
-          "name": "河南商丘",
-          "url": "http://123.10.58.217:8899"
-        },
-        {
-          "name": "59.124.81.19",
-          "url": "http://59.124.81.19:888"
-        },
-        {
-          "name": "59.125.210.231",
-          "url": "https://59.125.210.231:4433"
-        },
-        {
-          "name": "60.248.127.232",
-          "url": "https://60.248.127.232:4433"
-        },
-        {
-          "name": "60.250.121.103",
-          "url": "http://60.250.121.103:1888"
-        },
-        {
-          "name": "60.250.121.217",
-          "url": "http://60.250.121.217:888"
-        },
-        {
-          "name": "61.63.19.241",
-          "url": "http://61.63.19.241:1888"
-        },
-        {
-          "name": "61.216.26.165",
-          "url": "http://61.216.26.165:1888"
-        },
-        {
-          "name": "61.216.180.81",
-          "url": "http://61.216.180.81:1888"
-        },
-        {
-          "name": "61.220.72.26",
-          "url": "http://61.220.72.26:1888"
-        },
-        {
-          "name": "61.221.81.93",
-          "url": "http://61.221.81.93:1888"
-        },
-        {
-          "name": "123.51.149.68",
-          "url": "http://123.51.149.68:1888"
-        },
-        {
-          "name": "123.51.229.128",
-          "url": "http://123.51.229.128:1888"
-        },
-        {
-          "name": "123.51.230.108",
-          "url": "http://123.51.230.108:1888"
-        },
-        {
-          "name": "123.51.231.132",
-          "url": "http://123.51.231.132:1888"
-        },
-        {
-          "name": "123.51.149.52",
-          "url": "http://123.51.149.52:1888"
-        },
-        {
-          "name": "123.51.149.68",
-          "url": "http://123.51.149.68:1888"
-        },
-        {
-          "name": "211.23.114.106",
-          "url": "http://211.23.114.106:1888"
-        },
-        {
-          "name": "211.75.236.187",
-          "url": "http://211.75.236.187:1888"
-        },
-        {
-          "name": "218.32.247.100",
-          "url": "http://218.32.247.100:1888"
-        },
-        {
-          "name": "220.134.196.147",
-          "url": "http://220.134.196.147:1888"
-        }
-      ]
-    },
- {
-   "name": "🔞🍅AVmovie50302💔",
-   "type": "0",
-   "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/AVmovie50302.txt"
- },
- 
- {"name":"🔞🍅秘密花园 密码48620💔",
-"type":0,
-"url":"https://gitee.com/sji820/des/raw/master/0.jpg",
-"playerType":1,
-"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}",
-"logo":"http://diyp5.112114.xyz/{name}.png"
-},
-
-  {
-      "name": "🔞💔💎精品快餐💎💔",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt",
-      "playerType": 1
-    },
-  {
-      "name": "🔞💔💎18+千部独家传媒无水印💎💔",
-      "type": 0,
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
-      "playerType": 1
-    },
-  {
-      "name": "🔞💔💎18+色鬼源💎💔",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E8%89%B2%E9%AC%BC%E6%BA%90.m3u",
-      "playerType": 1
-    },
-
-
-
-  {
-            "name": "🔞💔173.txt",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/173.txt",
-              "so": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/libp3p.so",
-             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
-
 
   {
             "name": "🍑快直播[低码率]",
