@@ -34,17 +34,42 @@ CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
 河北卫视,http://183.222.242.31:8088/hls/33/index.m3u8
 辽宁卫视,http://183.222.242.31:8088/hls/34/index.m3u8
 河南卫视,http://183.222.242.31:8088/hls/35/index.m3u8
-🌌☘️📺央卫xg.52sw.topk🍅,#genre#
-CCTV1,http://xg.52sw.top/cctv.php?id=cctv1
-CCTV2,http://xg.52sw.top/cctv.php?id=cctv2
-CCTV4,http://xg.52sw.top/cctv.php?id=cctv4
-CCTV13,http://xg.52sw.top/cctv.php?id=cctv13
-CCTV12,http://xg.52sw.top/cctv.php?id=cctv12
-CCTV17,http://xg.52sw.top/cctv.php?id=cctv17
-CCTV7,http://xg.52sw.top/cctv.php?id=cctv7
-CCTV9,http://xg.52sw.top/cctv.php?id=cctv9
-CCTV10,http://xg.52sw.top/cctv.php?id=cctv10
-CCTV4K,http://xg.52sw.top/cctv.php?id=cctv4k
+🌌☘️📺央卫mytv6688🍅,#genre#
+CCTV-1综合 HD,http://mytv6688.xyz/smt.php?id=cctv1
+CCTV-2财经,http://mytv6688.xyz/smt.php?id=cctv2
+CCTV-3综艺 HD,http://mytv6688.xyz/smt.php?id=cctv3
+CCTV-4中文国际,http://mytv6688.xyz/smt.php?id=cctv4
+CCTV-4中文国际,,http://mytv6688.xyz/smt.php?id=Cctv4
+CCTV-7军事农业,http://mytv6688.xyz/smt.php?id=cctv7
+CCTV-8电视剧 HD,http://mytv6688.xyz/smt.php?id=cctv8hd
+CCTV-9记录 HD,http://mytv6688.xyz/smt.php?id=cctv9hd
+CCTV-10科教 HD,http://mytv6688.xyz/smt.php?id=cctv10hd
+CCTV-11戏曲,http://mytv6688.xyz/smt.php?id=cctv11
+CCTV-12社会与法,http://mytv6688.xyz/smt.php?id=cctv12
+CCTV-13新闻频道,http://mytv6688.xyz/smt.php?id=cctv13
+CCTV-14少儿,http://mytv6688.xyz/smt.php?id=cctv14
+CCTV-6,http://mytv6688.xyz/smt.php?id=cctv6
+CCTV-15音乐,http://mytv6688.xyz/smt.php?id=cctv15
+湖南卫视,http://mytv6688.xyz/smt.php?id=hunan_twn
+浙江卫视,http://mytv6688.xyz/smt.php?id=zhejiang_twn
+江苏卫视,http://mytv6688.xyz/smt.php?id=jiangsu_twn
+深圳卫视,http://mytv6688.xyz/smt.php?id=shenzhen
+东南卫视,http://mytv6688.xyz/smt.php?id=fujian
+广东南方卫视,http://mytv6688.xyz/smt.php?id=nanfang_twn
+广东卫视,http://mytv6688.xyz/smt.php?id=guangdongweishi_twn
+北京卫视,http://mytv6688.xyz/smt.php?id=beijing
+珠江台,http://mytv6688.xyz/smt.php?id=zhujiang
+广西卫视,http://mytv6688.xyz/smt.php?id=guangxi
+湖北卫视,http://mytv6688.xyz/smt.php?id=hubei
+四川卫视,http://mytv6688.xyz/smt.php?id=sichuan_twn
+东方卫视,http://mytv6688.xyz/smt.php?id=dongfangweishi_twn
+CGTN,http://mytv6688.xyz/smt.php?id=CGTN
+凤凰卫视,http://mytv6688.xyz/smt.php?id=phoenixtv_hd
+凤凰资讯,http://mytv6688.xyz/smt.php?id=phoenixinfo_hd
+CCTV-5体育频道,http://mytv6688.xyz/smt.php?id=cctv5
+CCTV-5+体育赛事 HD,http://mytv6688.xyz/smt.php?id=cctv5plus
+TVBS News 新闻台,http://mytv6688.xyz/smt.php?id=tvbs_n
+TVBS 欢乐台 （备份）,http://mytv6688.xyz/smt.php?id=tvbshuanle_twn
 🌌☘️📡央视移动🍅,#genre#
 CCTV1-综合,http://1857416894.xionguamaqui.com:9901/tsfile/live/0001_1.m3u8
 CCTV2-财经,http://1857416894.xionguamaqui.com:9901/tsfile/live/0002_1.m3u8
@@ -1006,41 +1031,6 @@ RHK 31,http://mytv6688.xyz/smt.php?id=rhk31_twn
 RHK 32,http://mytv6688.xyz/smt.php?id=rhk32_twn
 Viu6,http://mytv6688.xyz/smt.php?id=viusix_twn
 VIUTV1,http://mytv6688.xyz/smt.php?id=viu1_twn
-CCTV-1综合 HD,http://mytv6688.xyz/smt.php?id=cctv1
-CCTV-2财经,http://mytv6688.xyz/smt.php?id=cctv2
-CCTV-3综艺 HD,http://mytv6688.xyz/smt.php?id=cctv3
-CCTV-4中文国际,http://mytv6688.xyz/smt.php?id=cctv4
-CCTV-4中文国际,,http://mytv6688.xyz/smt.php?id=Cctv4
-CCTV-7军事农业,http://mytv6688.xyz/smt.php?id=cctv7
-CCTV-8电视剧 HD,http://mytv6688.xyz/smt.php?id=cctv8hd
-CCTV-9记录 HD,http://mytv6688.xyz/smt.php?id=cctv9hd
-CCTV-10科教 HD,http://mytv6688.xyz/smt.php?id=cctv10hd
-CCTV-11戏曲,http://mytv6688.xyz/smt.php?id=cctv11
-CCTV-12社会与法,http://mytv6688.xyz/smt.php?id=cctv12
-CCTV-13新闻频道,http://mytv6688.xyz/smt.php?id=cctv13
-CCTV-14少儿,http://mytv6688.xyz/smt.php?id=cctv14
-CCTV-6,http://mytv6688.xyz/smt.php?id=cctv6
-CCTV-15音乐,http://mytv6688.xyz/smt.php?id=cctv15
-湖南卫视,http://mytv6688.xyz/smt.php?id=hunan_twn
-浙江卫视,http://mytv6688.xyz/smt.php?id=zhejiang_twn
-江苏卫视,http://mytv6688.xyz/smt.php?id=jiangsu_twn
-深圳卫视,http://mytv6688.xyz/smt.php?id=shenzhen
-东南卫视,http://mytv6688.xyz/smt.php?id=fujian
-广东南方卫视,http://mytv6688.xyz/smt.php?id=nanfang_twn
-广东卫视,http://mytv6688.xyz/smt.php?id=guangdongweishi_twn
-北京卫视,http://mytv6688.xyz/smt.php?id=beijing
-珠江台,http://mytv6688.xyz/smt.php?id=zhujiang
-广西卫视,http://mytv6688.xyz/smt.php?id=guangxi
-湖北卫视,http://mytv6688.xyz/smt.php?id=hubei
-四川卫视,http://mytv6688.xyz/smt.php?id=sichuan_twn
-东方卫视,http://mytv6688.xyz/smt.php?id=dongfangweishi_twn
-CGTN,http://mytv6688.xyz/smt.php?id=CGTN
-凤凰卫视,http://mytv6688.xyz/smt.php?id=phoenixtv_hd
-凤凰资讯,http://mytv6688.xyz/smt.php?id=phoenixinfo_hd
-CCTV-5体育频道,http://mytv6688.xyz/smt.php?id=cctv5
-CCTV-5+体育赛事 HD,http://mytv6688.xyz/smt.php?id=cctv5plus
-TVBS News 新闻台,http://mytv6688.xyz/smt.php?id=tvbs_n
-TVBS 欢乐台 （备份）,http://mytv6688.xyz/smt.php?id=tvbshuanle_twn
 TVBS HD,http://mytv6688.xyz/smt.php?id=tvbs
 中天新闻 HD,http://mytv6688.xyz/smt.php?id=ctinews
 中天娱乐 CTI Entertaiment,http://mytv6688.xyz/smt.php?id=ctient
