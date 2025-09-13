@@ -27,18 +27,20 @@
     "url": "http://bxtv.3a.ink/live.m3u",
     "ua":  "okhttp/3.15"
   },
-{
-				"name": "💔FeiYang牧场",
-				"type": 0,
-				"url": "http://sub.ottiptv.cc/iptv.m3u",
-				"ua": "okHttp/Mod-1.4.0.0",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-				"catchup": {
-					"type": "append",
-					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-				}
-			},
+	  {
+    "name": "💔凤凰💎fhtv💎 20250913🍄",
+    "url": "http://txt.kesug.com/users/fhtv.txt",
+    "ua":  "okhttp/3.15"
+  },
+	{
+            "name": "📡Mursor",
+            "type": 0,
+            "url": "https://mursor.ottiptv.cc/iptv.m3u?userid=1672807005&sign=816a9c2878945812df1df552cc931aad3f7719618c32057982535102b14091cea487b861be7e042377f95ec98800c67a3059360ee7e6c6695099d10f02337cfbd53bce311a9c4f&auth_token=2897f46f6afc3226bc63b7826fc131cf",
+"ua": "okHttp/Mod-1.4.0.0",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+	
  {
     "name" : "🐟💔LITV-220.132.15.209:5008 V2.0 接口20250818 V01【挂T台湾】🧑🏻‍🌾",
     "type" : 0,
