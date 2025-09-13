@@ -115,7 +115,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
  {
-   "name": "💔所长的MytvSuper.m3u订阅  20250727💔",
+   "name": "💔MytvSuper.m3u订阅  20250727💔",
    "type": "0",
    "url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -123,7 +123,7 @@
    "ua":"judy/5.2.1"
 }, 
  {
-            "name": "💔IPTV研究所M3U令牌【过期时间：9/11/2025, 5:02:15 PM】",
+            "name": "💔IPTV研究所M3U令牌【过期时间：9/20/2025, 5:02:15 PM】",
             "type": "0",
             "pass": true,
              "ua": "okhttp/3.15",
