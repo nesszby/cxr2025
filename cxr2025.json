@@ -27,11 +27,7 @@
     "url": "http://bxtv.3a.ink/live.m3u",
     "ua":  "okhttp/3.15"
   },
-	 {
-    "name": "💔凤凰💎fhtv💎 20250913🍄",
-    "url": "http://txt.kesug.com/users/fhtv.txt",
-    "ua":  "okhttp/3.15"
-  },
+	
 	{
             "name": "📡Mursor",
             "type": 0,
